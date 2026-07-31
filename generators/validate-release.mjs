@@ -47,7 +47,7 @@ const infographicFiles = [
 ];
 const sources = new Set(external.items.map(item => item.source));
 
-assert(version.version === "4.1.2", "Versión 4.1.2", version.version);
+assert(version.version === "4.1.4", "Versión 4.1.4", version.version);
 assert(quoteCount >= 900, "Corpus conjunto de frases", `${quoteCount} frases`);
 assert(quoteExcluded >= 1, "Filtro editorial activo", `${quoteExcluded} exclusiones`);
 assert(copyQuotes.length >= 250 && copyQuotes.every(item => item.author && !/\*/.test(`${item.author} ${item.reference}`)), "Autores y obras de frases copy", `${copyQuotes.length} frases limpias`);

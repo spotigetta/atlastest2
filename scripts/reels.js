@@ -442,8 +442,8 @@
     portrait.style.setProperty("--sjm-light-y", `${localY}%`);
     portrait.style.setProperty("--sjm-light-rgb", rgb.join(","));
     portrait.style.setProperty("--sjm-light-alpha", illumination.toFixed(3));
-    portrait.style.setProperty("--sjm-halo-alpha", (illumination * .72).toFixed(3));
-    portrait.style.setProperty("--sjm-mask-alpha", (illumination * .92).toFixed(3));
+    portrait.style.setProperty("--sjm-halo-alpha", (illumination * .32).toFixed(3));
+    portrait.style.setProperty("--sjm-mask-alpha", (illumination * .38).toFixed(3));
   }
 
   function observeCards() {
@@ -470,7 +470,14 @@
     const lib = root.data.libraryMap.get(item.libraryId) || root.data.libraryMap.get("doctrine") || root.data.catalog.libraries[0];
     const saved = root.storage.isFavorite("shorts", item.id);
     const image = item.image ? `style="--short-image:url('${esc(item.image)}')"` : "";
-    const josemaria = item.type === "quote" && /(?:san\s+)?josemaria|escriva/i.test(root.data.normalize(`${item.author || ""} ${item.reference || ""} ${item.source || ""}`));
+    const josemariaMetadata = root.data.normalize([
+      item.libraryId, item.author, item.reference, item.source,
+      item.title, item.text, item.description, item.url
+    ].filter(Boolean).join(" "));
+    const josemaria = item.type === "quote" && (
+      item.libraryId === "san-josemaria" ||
+      /(?:san\s+)?josemaria|escriva|escriva\.org/.test(josemariaMetadata)
+    );
     const playable = ["video","music"].includes(item.type) ? `data-play-youtube="${esc(item.videoId)}" data-video-title="${esc(item.title)}" data-video-url="${esc(item.url)}"` : "";
     const glowPositions = [[16,24,1.05],[82,28,1.22],[68,76,.92],[24,70,1.3],[50,18,1.12],[88,62,1.02]];
     const [glowX, glowY, glowScale] = glowPositions[index % glowPositions.length];

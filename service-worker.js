@@ -1,5 +1,5 @@
-const APP_CACHE = "atlas-app-v4.1.2";
-const DATA_CACHE = "atlas-data-v4.1.2";
+const APP_CACHE = "atlas-app-v4.1.4";
+const DATA_CACHE = "atlas-data-v4.1.4";
 const APP_FILES = [
   "./","./index.html","./offline.html","./manifest.webmanifest",
   "./styles/tokens.css","./styles/base.css","./styles/components.css","./styles/themes.css","./styles/responsive.css",
