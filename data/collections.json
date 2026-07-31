@@ -1,0 +1,616 @@
+[
+  {
+    "id": "doctrine-revelacion-y-fe",
+    "title": "Revelación y fe",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "Biblia; 0075 Dei verbum; 0091 Catecismo",
+    "complementary": "0332 Denzinger; 0349 Fides et ratio",
+    "documentIds": [
+      "doctrine-0075_Dei_verbum_ES",
+      "doctrine-0091_Catecismo_Iglesia_Catol",
+      "doctrine-0332_Denzinger_parte_01",
+      "doctrine-0332_Denzinger_parte_02",
+      "doctrine-0332_Denzinger_parte_03",
+      "doctrine-0349_Fides_et_ratio_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-dogmatica",
+    "title": "Dogmática",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0091 Catecismo; Vaticano I-II",
+    "complementary": "Suma Teológica; Padres doctrinales",
+    "documentIds": [
+      "doctrine-0091_Catecismo_Iglesia_Catol"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-moral-fundamental",
+    "title": "Moral fundamental",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0091 Catecismo; 0348 Veritatis splendor",
+    "complementary": "Suma I-II y II-II",
+    "documentIds": [
+      "doctrine-0091_Catecismo_Iglesia_Catol",
+      "doctrine-0348_Veritatis_splendor_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-vida-y-bioetica",
+    "title": "Vida y bioética",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0346 Evangelium vitae; 0558 Donum vitae",
+    "complementary": "0552 CDF; 0581 reducción embrionaria",
+    "documentIds": [
+      "doctrine-0346_Evangelium_vitae_ES",
+      "doctrine-0558_1987_Donum_Vitae",
+      "doctrine-0552_Congregacion_para_la_Doctrina_de_la_Fe",
+      "doctrine-0581_2000_Reduction_embryonnaire"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-matrimonio-y-familia",
+    "title": "Matrimonio y familia",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0091 Catecismo; 0353 Humanae vitae; 0393 Familiaris consortio",
+    "complementary": "0371 Casti connubii; 0580; 0582",
+    "documentIds": [
+      "doctrine-0091_Catecismo_Iglesia_Catol",
+      "doctrine-0353_Humanae_Vitae_ES",
+      "doctrine-0393_Familiaris_consortio_ES",
+      "doctrine-0371_Casti_connubii_ES",
+      "doctrine-0580_1996_Preparation_au_sacrement_de_mariage",
+      "doctrine-0582_1997_Vade_mecum_pour_les_confesseurs"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-doctrina-social",
+    "title": "Doctrina social",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0576 Compendio DSI",
+    "complementary": "encíclicas sociales 0334, 0336, 0339, 0342, 0345, 0355, 0360-0361",
+    "documentIds": [
+      "doctrine-0576_Compendio_Doctrina_social_ES",
+      "doctrine-0334_Laudato_Si_ES",
+      "doctrine-0336_Caritas_in_veritate_ES",
+      "doctrine-0339_Centesimus_annus_ES",
+      "doctrine-0342_Laborem_exercens_ES",
+      "doctrine-0345_1987_Sollicitudo_rei_socialis_ES",
+      "doctrine-0355_Populorum_progressio_ES",
+      "doctrine-0360_Mater_et_magistra_ES",
+      "doctrine-0361_Pacem_in_terris_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "doctrine-espiritualidad",
+    "title": "Espiritualidad",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "description": "Colección construida desde el mapa temático de Doctrina y Moral.",
+    "primary": "0250; 0255-0274; 0297",
+    "complementary": "Padres y documentos magisteriales",
+    "documentIds": [
+      "doctrine-0250_Introduccion_vida_devota",
+      "doctrine-0255_Audi_filia_et_vide_Juan_de_Avila",
+      "doctrine-0256_0258_San_Juan_de_la_Cruz_Subida_del_Monte_Carmelo",
+      "doctrine-0259_0260_San_Juan_de_la_Cruz_Noche_oscura",
+      "doctrine-0261_0262_San_Juan_de_la_Cruz_Llama_de_amor_viva",
+      "doctrine-0263_0264_San_Juan_de_la_Cruz_Cantico_espiritual",
+      "doctrine-0265_0271_Santa_Teresa_Las_Moradas",
+      "doctrine-0272_Camino_de_Perfeccion",
+      "doctrine-0274_Libro_de_la_Vida",
+      "doctrine-0297_Kempis_Imitacion_de_Cristo"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-norma-latina-general",
+    "title": "Norma latina general",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0541 CIC 1983",
+    "complementary": "0549 interpretaciones auténticas",
+    "documentIds": [
+      "canon-0541_1983_Codigo_de_Derecho_Canonico",
+      "canon-0549_Interpretationes_Authenticae"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-iglesias-orientales",
+    "title": "Iglesias orientales",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0542 CCEO",
+    "complementary": "0085 Orientalium Ecclesiarum",
+    "documentIds": [
+      "canon-0542_1990_Codex_Orientalis",
+      "canon-0085_Orientalium_Ecclesiarum_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-matrimonio-y-procesos",
+    "title": "Matrimonio y procesos",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0541 cc. 1055-1165; 0583 Dignitas connubii",
+    "complementary": "0393; 0554; 0580; 0584-0585",
+    "documentIds": [
+      "canon-0541_1983_Codigo_de_Derecho_Canonico",
+      "canon-0583_Dignitas_connubii_ES",
+      "canon-0393_Familiaris_consortio_ES",
+      "canon-0554_La_Eucaristia_y_los_divorciados",
+      "canon-0580_1996_Preparation_au_sacrement_de_mariage",
+      "canon-0584_2009_Normes_d_officialite",
+      "canon-0585_1983_Documents_postconciliaires"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-delitos",
+    "title": "Delitos",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0553 normas sobre delitos graves",
+    "complementary": "0541; 0552; normativa futura actualizada",
+    "documentIds": [
+      "canon-0553_2010_Normae_de_gravioribus_ES",
+      "canon-0541_1983_Codigo_de_Derecho_Canonico",
+      "canon-0552_Congregacion_para_la_Doctrina_de_la_Fe"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-organizacion-eclesial",
+    "title": "Organización eclesial",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0541; 0078-0082",
+    "complementary": "0395-0396; 0401; 0575",
+    "documentIds": [
+      "canon-0078_Christus_Dominus_ES",
+      "canon-0079_Presbyterorum_Ordinis_ES",
+      "canon-0080_Optatam_totius_ES",
+      "canon-0081_Perfectae_caritatis_ES",
+      "canon-0082_Apostolicam_actuositatem_ES",
+      "canon-0541_1983_Codigo_de_Derecho_Canonico",
+      "canon-0395_Pastores_dabo_vobis_ES",
+      "canon-0396_Vita_consecrata_ES",
+      "canon-0401_Pastores_gregis_ES",
+      "canon-0575_Apostolorum_successores_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "canon-derecho-historico",
+    "title": "Derecho histórico",
+    "libraryIds": [
+      "canon"
+    ],
+    "description": "Colección construida desde el mapa temático de CanonIA.",
+    "primary": "0543 CIC 1917; 0540 Quo primum",
+    "complementary": "0329-0331; 0333; 0544 Pastor bonus",
+    "documentIds": [
+      "canon-0540_Quo_Primum",
+      "canon-0543_1917_Codex_Iuris_Canonici",
+      "canon-0329_Vaticano_I",
+      "canon-0330_TRENTO",
+      "canon-0331_Lateranense_II_1139",
+      "canon-0333_I_Toledo",
+      "canon-0544_Pastor_bonus_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-primeros-cristianos",
+    "title": "Primeros cristianos",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0104-0119 Padres apostólicos",
+    "complementary": "0236 Eusebio; 0233 Ireneo",
+    "documentIds": [
+      "history-0104_Ep_Bernabe",
+      "history-0105_Clemente_ES",
+      "history-0106_SECUNDA_CLEMENTIS",
+      "history-0107_Didache_ES",
+      "history-0108_Diogneto_ES",
+      "history-0109_0115_San_Ignacio_de_Antioquia_Cartas",
+      "history-0117_Hermas_ES",
+      "history-0118_Policarpo_Fil_ES",
+      "history-0119_Poicarpo_martirio",
+      "history-0233_Ireneo_Contra_herejes",
+      "history-0236_Historia_Eclesiastica_Eusebio_de_Cesarea"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-controversias-antiguas",
+    "title": "Controversias antiguas",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0191-0220 Agustín",
+    "complementary": "0187 herejías; 0232 Orígenes",
+    "documentIds": [
+      "history-0191_0195_San_Agustin_Controversia_antimaniquea",
+      "history-0196_0197_San_Agustin_Controversia_arriana",
+      "history-0198_0204_San_Agustin_Controversia_donatista",
+      "history-0205_0211_San_Agustin_Controversia_pelagiana",
+      "history-0212_Augustin_contre_Julien_II",
+      "history-0213_0220_San_Agustin_Escritos_polemicos",
+      "history-0187_Augustin_des_heresies",
+      "history-0232_Origenes_de_principis"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-patristica-griega",
+    "title": "Patrística griega",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0120-0122; 0221-0224; 0229-0235",
+    "complementary": "traducciones futuras de Padres ausentes",
+    "documentIds": [
+      "history-0120_San_Atanasio_ES",
+      "history-0121_Basilio_ES",
+      "history-0122_Cirilo_ES",
+      "history-0221_CRISOSTOMO_SACERDOCIO",
+      "history-0222_Crisostomo_Ev_Juan",
+      "history-0223_Crisostomo_Mateo",
+      "history-0224_Efren_ES",
+      "history-0229_Origenes_contra_Celso",
+      "history-0230_Origenes_Cantar_Cant",
+      "history-0231_Origenes_Exodo",
+      "history-0232_Origenes_de_principis",
+      "history-0233_Ireneo_Contra_herejes",
+      "history-0234_Cipriano_ES",
+      "history-0235_Ireneo_Epideixis"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-agustin",
+    "title": "Agustín",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0137-0187 selección nuclear",
+    "complementary": "sermones, cartas y controversias",
+    "documentIds": [
+      "history-0137_Augustin_doctrine_chretienne",
+      "history-0138_Augustin_acc_evangelistes",
+      "history-0140_Augustin_sur_Jean_parte_01",
+      "history-0140_Augustin_sur_Jean_parte_02",
+      "history-0142_Augustin_les_Psaumes_parte_01",
+      "history-0142_Augustin_les_Psaumes_parte_02",
+      "history-0142_Augustin_les_Psaumes_parte_03",
+      "history-0142_Augustin_les_Psaumes_parte_04",
+      "history-0143_Augustin_Epitre_Jean",
+      "history-0146_Agustin_Confesiones",
+      "history-0147_Augustin_de_la_Foi_Esperance_et_Charite",
+      "history-0149_Augustin_de_la_continence",
+      "history-0150_Augustin_de_ce_qui_est_bien_dans_le_mariage",
+      "history-0151_Augustin_unions_adulteres",
+      "history-0152_Augustin_du_mensonge",
+      "history-0154_Augustin_de_la_patience",
+      "history-0157_Augustin_du_Bapteme",
+      "history-0158_Augustin_Catechisme",
+      "history-0159_Augustin_Cite_de_Dieu_parte_01",
+      "history-0159_Augustin_Cite_de_Dieu_parte_02",
+      "history-0161_Augustin_de_la_grace_I_et_II",
+      "history-0162_Augustin_lettres_parte_01",
+      "history-0162_Augustin_lettres_parte_02",
+      "history-0163_Augustin_du_libre_arbitre",
+      "history-0166_Regle_de_Saint_Augustin_pour_les_serviteurs_de_Dieu",
+      "history-0167_Les_Retractations",
+      "history-0168_Augustin_Trinite",
+      "history-0171_Augustin_la_sainte_virginite",
+      "history-0172_Augustin_Viduite",
+      "history-0173_Augustin_du_travail_des_moines",
+      "history-0175_Augustin_du_symbole",
+      "history-0176_Augustin_de_la_discipline_chretienne",
+      "history-0178_Augustin_de_l_utilite_du_jeune",
+      "history-0183_Augustin_vraie_religion",
+      "history-0187_Augustin_des_heresies"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-concilios",
+    "title": "Concilios",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0329-0333; Vaticano II",
+    "complementary": "concilios antiguos y medievales pendientes",
+    "documentIds": [
+      "history-0329_Vaticano_I",
+      "history-0330_TRENTO",
+      "history-0331_Lateranense_II_1139",
+      "history-0332_Denzinger_parte_01",
+      "history-0332_Denzinger_parte_02",
+      "history-0332_Denzinger_parte_03",
+      "history-0333_I_Toledo"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-espiritualidad-medieval-y-moderna",
+    "title": "Espiritualidad medieval y moderna",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0248-0297",
+    "complementary": "manuales históricos futuros",
+    "documentIds": [
+      "history-0248_F_de_Sales_Amor_de_Dios",
+      "history-0249_F_de_Sales_Carta_abierta",
+      "history-0250_Introduccion_vida_devota",
+      "history-0251_F_de_Sales_Entretiens",
+      "history-0252_Francois_S_avis_sermons",
+      "history-0253_F_de_Sales_Lettres_parte_01",
+      "history-0253_F_de_Sales_Lettres_parte_02",
+      "history-0254_Fr_de_Sales_Notre_Pere",
+      "history-0255_Audi_filia_et_vide_Juan_de_Avila",
+      "history-0256_0258_San_Juan_de_la_Cruz_Subida_del_Monte_Carmelo",
+      "history-0259_0260_San_Juan_de_la_Cruz_Noche_oscura",
+      "history-0261_0262_San_Juan_de_la_Cruz_Llama_de_amor_viva",
+      "history-0263_0264_San_Juan_de_la_Cruz_Cantico_espiritual",
+      "history-0265_0271_Santa_Teresa_Las_Moradas",
+      "history-0272_Camino_de_Perfeccion",
+      "history-0273_CAMINO_DE_PERFECCION",
+      "history-0274_Libro_de_la_Vida",
+      "history-0275_Las_Fundaciones",
+      "history-0276_Teresa_III_Cartas",
+      "history-0278_Catherine_Dialogue",
+      "history-0279_Catherine_Lettres_parte_01",
+      "history-0279_Catherine_Lettres_parte_02",
+      "history-0280_B_Raymond_V_Catherine",
+      "history-0281_COLLATIONES_DE_DONIS_S_SANCTI_BONAVENTURAE",
+      "history-0282_Bernard_Lettres",
+      "history-0283_Bernard_Opuscules",
+      "history-0284_Bernard_de_Consideratione",
+      "history-0285_Bernard_aux_eveques",
+      "history-0286_Bernard_aux_pretres",
+      "history-0287_Bernard_du_precepte",
+      "history-0288_Bernard_tr_5_sur_Cluny",
+      "history-0289_Bernard_aux_Templiers",
+      "history-0290_Bernard_degres_humilite",
+      "history-0291_Bernard_Amour_de_Dieu",
+      "history-0292_Bernard_Libre_arbitre",
+      "history-0293_Bernard_du_Bapteme",
+      "history-0294_Bernard_sur_Abelard",
+      "history-0295_Bernard_St_Malachie",
+      "history-0296_Bernard_le_chant",
+      "history-0297_Kempis_Imitacion_de_Cristo"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "history-edad-contemporanea",
+    "title": "Edad contemporánea",
+    "libraryIds": [
+      "history"
+    ],
+    "description": "Colección construida desde el mapa temático de HistorIA de la Iglesia y los Padres.",
+    "primary": "0368-0385",
+    "complementary": "manuales y fuentes seleccionadas futuras",
+    "documentIds": [
+      "history-0368_Mystici_corporis_ES",
+      "history-0369_PIOXII_MAGISTERIO_PONTIFICIO",
+      "history-0370_Pio_XII_Summi_Pontificatus",
+      "history-0371_Casti_connubii_ES",
+      "history-0372_PIO_XI_MAGISTERIO_PONTIFICIO",
+      "history-0373_Quas_primas_ES",
+      "history-0374_BENEDICTO_XV_MAGISTERIO",
+      "history-0375_San_Pio_X_Pascendi",
+      "history-0376_PIO_X_MAGISTERIO",
+      "history-0377_San_Pio_X_Ad_diem_illud_laetissimum",
+      "history-0378_Acerbo_nimis_ES",
+      "history-0379_San_Pio_X_Communium_rerum",
+      "history-0380_San_PIO_X_E_supremi_Apostolatus",
+      "history-0381_San_Pio_X_Iucunda_sane",
+      "history-0382_PIO_X_Notre_charge_apostolique",
+      "history-0383_LEON_XIII_MAGISTERIO",
+      "history-0384_Depuis_le_Jour",
+      "history-0385_PIO_IX_MAGISTERIO"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-principios-liturgicos",
+    "title": "Principios litúrgicos",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0076 Sacrosanctum Concilium; 0091 Catecismo",
+    "complementary": "0074-0075; 0079; 0085",
+    "documentIds": [
+      "liturgy-0076_Sacrosanctum_Concilium_ES",
+      "liturgy-0091_Catecismo_Iglesia_Catol",
+      "liturgy-0074_Lumen_gentium_ES",
+      "liturgy-0075_Dei_verbum_ES",
+      "liturgy-0079_Presbyterorum_Ordinis_ES",
+      "liturgy-0085_Orientalium_Ecclesiarum_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-misa-y-eucaristia",
+    "title": "Misa y Eucaristía",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0300-0301; 0351; 0354; 0389",
+    "complementary": "0562-0564; 0299; leccionarios pendientes",
+    "documentIds": [
+      "liturgy-0300_ORDO_MISSAE",
+      "liturgy-0301_Missale_Romanum_2002",
+      "liturgy-0351_Ecclesia_de_Eucharistia_ES",
+      "liturgy-0354_Mysterium_Fidei_ES",
+      "liturgy-0389_Sacramentum_caritatis_ES",
+      "liturgy-0299_Ordo_Lectionnaire_Missel",
+      "liturgy-0562_Congregacion_Culto_Divino_parte_01",
+      "liturgy-0562_Congregacion_Culto_Divino_parte_02",
+      "liturgy-0562_Congregacion_Culto_Divino_parte_03",
+      "liturgy-0563_Liturgiam_authenticam",
+      "liturgy-0564_Summa_Decretorum_de_SSmo_Sacramento"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-liturgia-de-las-horas",
+    "title": "Liturgia de las Horas",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0302 Ordenación general",
+    "complementary": "textos completos pendientes",
+    "documentIds": [
+      "liturgy-0302_Ordenacion_general_Liturgia_Horas_ES"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-iniciacion-cristiana",
+    "title": "Iniciación cristiana",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0303 Ordo Initiationis",
+    "complementary": "rituales castellanos pendientes; 0541",
+    "documentIds": [
+      "liturgy-0303_Ordo_Initiationis_Christianae",
+      "liturgy-0541_1983_Codigo_de_Derecho_Canonico"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-orden-y-ministerios",
+    "title": "Orden y ministerios",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0304-0305; 0079",
+    "complementary": "0395; 0567-0573; 0221",
+    "documentIds": [
+      "liturgy-0079_Presbyterorum_Ordinis_ES",
+      "liturgy-0304_Pontificalis",
+      "liturgy-0305_De_ordinatione_presbyterorum_1990",
+      "liturgy-0221_CRISOSTOMO_SACERDOCIO",
+      "liturgy-0395_Pastores_dabo_vobis_ES",
+      "liturgy-0567_Directorio_presbiteros",
+      "liturgy-0568_1998_Diacres_Normes_Fondamentales",
+      "liturgy-0571_1998_Directoire_Diacres",
+      "liturgy-0573_1998_Formation_des_Diacres"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-ano-liturgico",
+    "title": "Año litúrgico",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0421 Dies Domini; 0076",
+    "complementary": "calendario y normas pendientes",
+    "documentIds": [
+      "liturgy-0076_Sacrosanctum_Concilium_ES",
+      "liturgy-0421_LA_DIES_DOMINI"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  },
+  {
+    "id": "liturgy-historia-liturgica",
+    "title": "Historia litúrgica",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "description": "Colección construida desde el mapa temático de LiturgIA.",
+    "primary": "0298 y 0301; 0330",
+    "complementary": "Padres y sacramentarios pendientes",
+    "documentIds": [
+      "liturgy-0298_Missale_Romanum_1957",
+      "liturgy-0301_Missale_Romanum_2002",
+      "liturgy-0330_TRENTO"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true
+  }
+]

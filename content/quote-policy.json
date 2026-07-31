@@ -1,0 +1,7 @@
+{
+  "description": "Filtro editorial conservador. Solo excluye formulaciones claramente incompatibles; no elimina autores clásicos, literarios o no cristianos por su identidad.",
+  "excludeTextContains": [
+    "el hombre es una parte accidental y no necesaria de la creación, y Dios no pudo haberlo creado"
+  ],
+  "excludeAttributionContains": []
+}

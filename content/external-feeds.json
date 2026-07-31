@@ -1,0 +1,56 @@
+[
+  {
+    "type": "news",
+    "source": "Omnes",
+    "url": "https://www.omnesmag.com/feed/",
+    "take": 3
+  },
+  {
+    "type": "news",
+    "source": "Alfa y Omega",
+    "url": "https://alfayomega.es/feed/",
+    "take": 3
+  },
+  {
+    "kind": "omnes-resources",
+    "type": "news",
+    "source": "Omnes · Recursos",
+    "url": "https://www.omnesmag.com/seccion/recursos/",
+    "take": 4
+  },
+  {
+    "kind": "rialp-books",
+    "type": "books",
+    "source": "Ediciones Rialp",
+    "url": "https://www.rialp.com/p/3390_novedades-del-ano/",
+    "take": 6
+  },
+  {
+    "kind": "palabra-books",
+    "type": "books",
+    "source": "Ediciones Palabra",
+    "url": "https://palabra.es/",
+    "take": 6
+  },
+  {
+    "kind": "eunsa-books",
+    "type": "books",
+    "source": "EUNSA",
+    "url": "https://www.eunsa.es/",
+    "take": 7
+  },
+  {
+    "kind": "encuentro-books",
+    "type": "books",
+    "source": "Ediciones Encuentro",
+    "url": "https://edicionesencuentro.com/",
+    "take": 7
+  },
+  {
+    "kind": "escriva-random",
+    "type": "quote",
+    "source": "San Josemaría",
+    "url": "https://escriva.org/api/v1/random-item/?site_id=2",
+    "take": 6
+  }
+]

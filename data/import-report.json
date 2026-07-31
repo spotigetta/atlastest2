@@ -1,0 +1,109 @@
+{
+  "generatedAt": "2026-07-30T23:34:04.962Z",
+  "dataVersion": "4.0.0",
+  "counts": [
+    {
+      "library": "doctrine",
+      "documents": 152,
+      "words": 9381940,
+      "categories": 11,
+      "authors": 16,
+      "historical": 2,
+      "incomplete": 1,
+      "foreignLanguage": 16,
+      "dated": 1
+    },
+    {
+      "library": "canon",
+      "documents": 69,
+      "words": 1830537,
+      "categories": 4,
+      "authors": 1,
+      "historical": 3,
+      "incomplete": 0,
+      "foreignLanguage": 12,
+      "dated": 2
+    },
+    {
+      "library": "history",
+      "documents": 162,
+      "words": 15185758,
+      "categories": 5,
+      "authors": 17,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 52,
+      "dated": 1
+    },
+    {
+      "library": "liturgy",
+      "documents": 97,
+      "words": 12786551,
+      "categories": 10,
+      "authors": 12,
+      "historical": 3,
+      "incomplete": 1,
+      "foreignLanguage": 12,
+      "dated": 3
+    },
+    {
+      "library": "ortodoxia",
+      "documents": 145,
+      "words": 6696455,
+      "categories": 1,
+      "authors": 28,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 120,
+      "dated": 0
+    },
+    {
+      "library": "cinepilot",
+      "documents": 10,
+      "words": 4455313,
+      "categories": 1,
+      "authors": 0,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 0,
+      "dated": 0
+    },
+    {
+      "library": "bibliotecaria",
+      "documents": 21,
+      "words": 120714,
+      "categories": 1,
+      "authors": 0,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 0,
+      "dated": 0
+    },
+    {
+      "library": "clasicos",
+      "documents": 300,
+      "words": 57213131,
+      "categories": 1,
+      "authors": 1,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 0,
+      "dated": 1
+    },
+    {
+      "library": "san-josemaria",
+      "documents": 19,
+      "words": 631725,
+      "categories": 1,
+      "authors": 0,
+      "historical": 0,
+      "incomplete": 0,
+      "foreignLanguage": 0,
+      "dated": 0
+    }
+  ],
+  "validation": {
+    "errors": [],
+    "warnings": []
+  }
+}

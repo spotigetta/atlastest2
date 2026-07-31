@@ -1,0 +1,142 @@
+[
+  {
+    "type": "news",
+    "source": "Omnes",
+    "url": "https://www.omnesmag.com/recursos/legislar-en-tiempos-modernos/",
+    "title": "Legislar en tiempos modernos",
+    "author": "Eloy Asenjo Carpintero",
+    "date": "2026-07-24",
+    "description": "Una lectura de recursos sobre la tarea de legislar en el contexto contemporáneo."
+  },
+  {
+    "type": "news",
+    "source": "Omnes",
+    "url": "https://www.omnesmag.com/actualidad/entrevista-josetxo-vera/",
+    "title": "La mejor comunicación de la Iglesia es la santidad",
+    "author": "María José Atienza",
+    "date": "2026-07-21",
+    "description": "José Gabriel Vera repasa más de una década de comunicación eclesial y sus retos futuros."
+  },
+  {
+    "type": "news",
+    "source": "Alfa y Omega",
+    "url": "https://alfayomega.es/la-gente-se-ha-dejado-abrazar-el-parroco-de-las-rozas-celebra-misa-con-los-evacuados-acogidos-en-el-polideportivo-de-la-marazuela/",
+    "title": "La gente se ha dejado abrazar",
+    "author": "Cristina Sánchez Aguilar",
+    "date": "2026-07-26",
+    "description": "Una comunidad celebra la Eucaristía y acompaña a las personas evacuadas por los incendios."
+  },
+  {
+    "type": "news",
+    "source": "El Debate · Religión",
+    "url": "https://www.eldebate.com/religion/",
+    "title": "Actualidad religiosa",
+    "description": "Selección de noticias y análisis del canal de Religión de El Debate."
+  },
+  {
+    "type": "prayer",
+    "source": "Opus Dei",
+    "url": "https://opusdei.org/es/article/como-en-una-pelicula-betania-cobijo-de-jesus/",
+    "title": "En el cobijo de Jesús",
+    "date": "2021-03-10",
+    "description": "Betania era un lugar especial para Jesús: un hogar en el que descansar, conversar y sentirse querido."
+  },
+  {
+    "type": "prayer",
+    "source": "Opus Dei",
+    "url": "https://opusdei.org/es/article/como-en-una-pelicula-joven-rico-entrar-vida-eterna/",
+    "title": "Entrar en la Vida",
+    "date": "2023-04-25",
+    "description": "El encuentro de Jesús con el joven rico permite contemplar la libertad, la esperanza y la llamada a una vida grande."
+  },
+  {
+    "type": "prayer",
+    "source": "Opus Dei",
+    "url": "https://opusdei.org/es/article/la-nueva-fuerza-de-pedro/",
+    "title": "La nueva fuerza de Pedro",
+    "date": "2020-06-09",
+    "description": "Una contemplación de la conversación de Pedro con Jesús después de la resurrección."
+  },
+  {
+    "type": "books",
+    "source": "Ediciones Palabra",
+    "url": "https://palabra.es/",
+    "title": "Novedades de Ediciones Palabra",
+    "description": "Libros recientes de espiritualidad, familia, ensayo, educación y cultura cristiana."
+  },
+  {
+    "type": "books",
+    "source": "Rialp",
+    "url": "https://www.rialp.com/p/3390_novedades-del-ano/",
+    "title": "Novedades de Rialp",
+    "description": "Selección editorial reciente de ensayo, humanidades, espiritualidad y literatura."
+  },
+  {
+    "type": "books",
+    "source": "Ciudad Nueva",
+    "url": "https://www.ciudadnueva.com/",
+    "title": "Novedades de Ciudad Nueva",
+    "description": "Lecturas de espiritualidad, diálogo, cultura y vida cristiana."
+  }
+  ,
+  {
+    "type": "books",
+    "source": "San Pablo",
+    "url": "https://libreria.sanpablo.es/",
+    "title": "Novedades de Librería San Pablo",
+    "description": "Libros de espiritualidad, Sagrada Escritura, catequesis, familia y cultura cristiana."
+  },
+  {
+    "type": "books",
+    "source": "Alianza Editorial",
+    "url": "https://www.alianzaeditorial.es/inicio/",
+    "title": "Novedades de Alianza Editorial",
+    "description": "Clásicos, pensamiento, historia, humanidades y literatura contemporánea."
+  }
+  ,
+  {
+    "type": "books",
+    "source": "EUNSA",
+    "url": "https://www.eunsa.es/libro/descubrir-el-sentido-de-la-vida_197014/",
+    "title": "Descubrir el sentido de la vida",
+    "author": "Manuel Casado Velarde",
+    "description": "Una aproximación a la pregunta por el sentido en un tiempo marcado por los problemas de salud mental.",
+    "image": "https://www.eunsa.es/media/universidad_navarra/images/thumbs/edition-191630-247x350.jpg"
+  },
+  {
+    "type": "books",
+    "source": "EUNSA",
+    "url": "https://www.eunsa.es/libro/filosofos-griegos-los-presocraticos-de-hesiodo-a-los-atomistas_197015/",
+    "title": "Filósofos griegos: los presocráticos",
+    "author": "Alejandro G. Vigo",
+    "description": "Un recorrido por los pensadores que iniciaron algunas de las grandes preguntas de la filosofía occidental.",
+    "image": "https://www.eunsa.es/media/universidad_navarra/images/thumbs/edition-191631-248x350.jpg"
+  },
+  {
+    "type": "books",
+    "source": "EUNSA",
+    "url": "https://www.eunsa.es/libro/maria-y-yo_190397/",
+    "title": "María y yo",
+    "author": "Lucía Martínez Alcalde",
+    "description": "La experiencia de doce mujeres que intentan caminar en su vida de la mano de la Virgen.",
+    "image": "https://www.eunsa.es/media/universidad_navarra/images/thumbs/edition-184405-237x350.jpg"
+  },
+  {
+    "type": "books",
+    "source": "Ediciones Encuentro",
+    "url": "https://edicionesencuentro.com/libro/piel-de-gallina/",
+    "title": "Piel de gallina",
+    "author": "Guadalupe Arbona Abascal",
+    "description": "Un diario literario íntimo sobre el asombro, la emoción y la belleza de estar vivos.",
+    "image": "https://edicionesencuentro.com/wp-content/uploads/2026/05/9788413392882.jpg"
+  },
+  {
+    "type": "books",
+    "source": "Ediciones Encuentro",
+    "url": "https://edicionesencuentro.com/libro/sermones-parroquiales-pack-8-libros-2/",
+    "title": "Sermones Parroquiales",
+    "author": "John Henry Newman",
+    "description": "La colección de sermones en la que aparecen los grandes temas espirituales desarrollados por Newman.",
+    "image": "https://edicionesencuentro.com/wp-content/uploads/2026/06/9788413392868.jpg"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "doctrine": {
+    "tagline": "No solo qué enseña la Iglesia, sino por qué.",
+    "questions": [
+      "¿Qué significa realmente que el ser humano ha sido creado a imagen de Dios?",
+      "¿Por qué la Iglesia habla de verdad cuando hoy se habla sobre todo de autenticidad?",
+      "¿Qué diferencia hay entre amar a una persona y utilizarla aunque exista consentimiento?",
+      "¿Cómo explica la Iglesia el problema del sufrimiento sin caer en respuestas fáciles?",
+      "¿Qué relación existe entre libertad, conciencia y verdad?",
+      "¿Puede una norma moral hacer más feliz a una persona?",
+      "¿Qué significa vivir según las virtudes y no solo cumplir normas?",
+      "¿Cómo entiende la Iglesia la dignidad humana desde el inicio hasta el final de la vida?",
+      "¿Por qué el cristianismo propone una visión tan elevada del matrimonio?",
+      "¿Qué enseñanzas de Santo Tomás siguen siendo sorprendentemente actuales?"
+    ]
+  },
+  "canon": {
+    "tagline": "No solo qué dice el Derecho Canónico, sino cómo funciona la Iglesia.",
+    "questions": [
+      "¿Qué hace realmente nulo un matrimonio?",
+      "¿Puede un sacerdote negarse a celebrar un sacramento?",
+      "¿Qué diferencia existe entre validez y licitud?",
+      "¿Quién puede dispensar una ley eclesiástica?",
+      "¿Cómo funciona un tribunal eclesiástico?",
+      "¿Qué derechos tiene cualquier fiel dentro de la Iglesia?",
+      "¿Cómo se elige un obispo?",
+      "¿Qué ocurre cuando un sacerdote abandona el ministerio?",
+      "¿Qué delitos contempla actualmente el Código de Derecho Canónico?",
+      "¿Cómo ha evolucionado el Derecho Canónico desde 1917 hasta hoy?"
+    ]
+  },
+  "history": {
+    "tagline": "No solo historia, sino cómo nació el pensamiento cristiano.",
+    "questions": [
+      "¿Cómo celebraban la Eucaristía los primeros cristianos?",
+      "¿Qué habría respondido san Ignacio de Antioquía a una cuestión moderna?",
+      "¿Cómo combatieron los Padres las primeras herejías?",
+      "¿Qué diferencias existían entre Roma, Alejandría y Antioquía?",
+      "¿Cómo surgió el canon del Nuevo Testamento?",
+      "¿Qué enseñaban realmente los Padres sobre el matrimonio?",
+      "¿Qué cambió con el Concilio de Nicea?",
+      "¿Cómo entendían la libertad san Agustín y san Juan Crisóstomo?",
+      "¿Qué ideas de los primeros siglos siguen vivas hoy?",
+      "¿Cómo habría respondido san Ireneo a las corrientes espirituales actuales?"
+    ]
+  },
+  "liturgy": {
+    "tagline": "La liturgia tiene un porqué.",
+    "questions": [
+      "¿Por qué la Misa está estructurada como lo está?",
+      "¿Qué significa realmente el altar?",
+      "¿Por qué existen tantos silencios durante la celebración?",
+      "¿Qué sentido tiene el año litúrgico?",
+      "¿Cómo ha evolucionado la liturgia desde los primeros siglos?",
+      "¿Qué simboliza cada color litúrgico?",
+      "¿Por qué la Iglesia utiliza incienso?",
+      "¿Cómo se explica teológicamente la presencia real?",
+      "¿Qué diferencias existen entre rito y tradición?",
+      "¿Qué Padres de la Iglesia ayudan mejor a comprender la liturgia?"
+    ]
+  },
+  "ortodoxia": {
+    "tagline": "Comprender antes que discutir.",
+    "questions": [
+      "¿Por qué la Iglesia no empieza hablando de normas sino de la persona?",
+      "Si Dios quiere que sea feliz, ¿por qué pone límites?",
+      "¿Por qué la libertad necesita una dirección?",
+      "¿Qué diferencia hay entre hacer lo que quiero y querer lo que me hace bien?",
+      "¿Por qué la Iglesia habla del cuerpo como un lenguaje?",
+      "¿Qué significa realmente amar a alguien?",
+      "¿Qué responderías a quien dice que «el amor es amor»?",
+      "¿Cómo explicarías la castidad a alguien que nunca ha pisado una iglesia?",
+      "¿Qué paradojas de Chesterton ayudan a comprender el cristianismo?",
+      "¿Cómo explicaría Jesús una cuestión polémica en la cultura actual?"
+    ]
+  },
+  "cinepilot": {
+    "tagline": "No solo recomendaciones, sino comprensión del cine.",
+    "questions": [
+      "Recomiéndame una película para entender el perdón.",
+      "¿Qué películas muestran mejor la lucha entre libertad y destino?",
+      "¿Qué películas tienen una visión cristiana del sacrificio aunque no sean religiosas?",
+      "¿Qué películas pueden ayudar a hablar con adolescentes sobre el amor?",
+      "¿Qué películas evitarías para una noche en familia y por qué?",
+      "¿Qué directores tratan mejor la redención?",
+      "¿Qué películas presentan una visión interesante de la dignidad humana?",
+      "Recomiéndame cine parecido a Un hombre para la eternidad.",
+      "¿Qué películas actuales plantean mejor cuestiones bioéticas?",
+      "¿Qué película cambiarías por otra con un mensaje más profundo?"
+    ]
+  },
+  "bibliotecaria": {
+    "tagline": "Aprender literatura como un profesor.",
+    "questions": [
+      "¿Por dónde empezar si nunca he leído clásicos?",
+      "¿Qué novelas cambiaron la historia de Occidente?",
+      "¿Cómo evolucionó la figura del héroe desde Homero hasta Tolkien?",
+      "¿Qué autores influyeron más en C. S. Lewis?",
+      "¿Qué libros ayudan mejor a comprender el siglo XX?",
+      "¿Qué diferencias existen entre el Romanticismo y el Realismo?",
+      "¿Qué novelas hablan mejor sobre el sentido de la vida?",
+      "¿Qué libros inspiraron grandes películas?",
+      "¿Qué cinco autores debería leer cualquier universitario?",
+      "¿Cómo conectar literatura, filosofía e historia en una misma lectura?"
+    ]
+  },
+  "clasicos": {
+    "tagline": "La gran biblioteca universal.",
+    "questions": [
+      "Si solo pudiera leer veinte libros en mi vida, ¿cuáles elegirías?",
+      "¿Qué obras dialogan entre sí aunque estén separadas por siglos?",
+      "¿Qué libro respondería mejor a la crisis de sentido actual?",
+      "¿Qué autores cambiaron realmente la civilización occidental?",
+      "¿Cómo evolucionó la idea de libertad desde Platón hasta Dostoievski?",
+      "¿Qué clásicos siguen describiendo mejor al ser humano?",
+      "¿Qué novelas enseñan más sobre el poder?",
+      "¿Qué tragedias griegas siguen siendo actuales?",
+      "¿Qué libros inspiraron a Chesterton y C. S. Lewis?",
+      "Diseña un itinerario de lectura para comprender Occidente."
+    ]
+  },
+  "san-josemaria": {
+    "tagline": "Santidad en la vida corriente.",
+    "questions": [
+      "¿Qué significa santificar el trabajo?",
+      "¿Cómo vivir la presencia de Dios en una oficina?",
+      "¿Qué consejos daba san Josemaría para la oración diaria?",
+      "¿Cómo afrontar el fracaso con sentido cristiano?",
+      "¿Qué entendía san Josemaría por libertad?",
+      "¿Cómo explicaría hoy la vocación profesional?",
+      "¿Qué enseñaba sobre la amistad?",
+      "¿Cómo vivir la fe sin separar trabajo y vida espiritual?",
+      "¿Qué homilías son las mejores para empezar a leerlo?",
+      "¿Qué respondería san Josemaría a un universitario que busca sentido a su vida?"
+    ]
+  }
+}

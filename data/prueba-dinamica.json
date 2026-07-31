@@ -1,0 +1,53 @@
+{
+  "id": "prueba-dinamica",
+  "folder": "05_IA_Prueba_Dinamica",
+  "short": "Prueba Dinamica",
+  "mark": "P",
+  "tone": "amber",
+  "notebookUrl": "",
+  "description": "Biblioteca documental Prueba Dinamica.",
+  "name": "Prueba Dinamica",
+  "purpose": "",
+  "organization": "",
+  "topics": [],
+  "warnings": [],
+  "documents": [
+    {
+      "id": "prueba-dinamica-0001_Fuente_de_prueba",
+      "contentFile": "data/documents/00705036c7abb874f9.js",
+      "catalogId": "0001",
+      "file": "0001_Fuente_de_prueba.md",
+      "title": "Fuente de prueba dinámica",
+      "originals": "0001",
+      "originalNumbers": [
+        "0001"
+      ],
+      "category": "Pruebas",
+      "words": 6,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "prueba-dinamica",
+      "source": "Descubierto directamente en la carpeta"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Pruebas",
+      "count": 1
+    }
+  ],
+  "authors": [],
+  "stats": {
+    "documents": 1,
+    "words": 6,
+    "categories": 1,
+    "authors": 0,
+    "historical": 0,
+    "incomplete": 0,
+    "foreignLanguage": 0,
+    "dated": 0
+  }
+}

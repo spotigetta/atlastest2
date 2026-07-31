@@ -1,0 +1,1534 @@
+{
+  "id": "canon",
+  "folder": "02_IA_Derecho_Canonico",
+  "short": "CanonIA",
+  "mark": "C",
+  "tone": "blue",
+  "notebookUrl": "https://notebooklm.google.com/notebook/518c896a-d3a2-4b4b-97c7-0b8998b0ba72",
+  "description": "Normas, instituciones, procesos y fuentes del Derecho Canónico.",
+  "name": "Derecho Canónico",
+  "purpose": "Consulta jurídica canónica con prioridad para la legislación vigente, su interpretación auténtica y la distinción entre validez, licitud y consejo pastoral. Esta carpeta es plana y está preparada para cargarse como un cuaderno independiente de NotebookLM.",
+  "organization": "Los nombres comienzan por los números del catálogo Clerus. Un intervalo (por ejemplo, `0109_0115`) indica una agrupación íntegra de documentos relacionados. El sufijo `_parte_NN` indica una división en una frontera natural para respetar el margen de 450.000 palabras. Cada agrupación y división contiene índice interno y conserva los números originales.",
+  "topics": [
+    {
+      "id": "canon-norma-latina-general",
+      "name": "Norma latina general",
+      "primary": "0541 CIC 1983",
+      "complementary": "0549 interpretaciones auténticas",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0541_1983_Codigo_de_Derecho_Canonico"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0549_Interpretationes_Authenticae"
+      ]
+    },
+    {
+      "id": "canon-iglesias-orientales",
+      "name": "Iglesias orientales",
+      "primary": "0542 CCEO",
+      "complementary": "0085 Orientalium Ecclesiarum",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0542_1990_Codex_Orientalis"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0085_Orientalium_Ecclesiarum_ES"
+      ]
+    },
+    {
+      "id": "canon-matrimonio-y-procesos",
+      "name": "Matrimonio y procesos",
+      "primary": "0541 cc. 1055-1165; 0583 Dignitas connubii",
+      "complementary": "0393; 0554; 0580; 0584-0585",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "canon-0583_Dignitas_connubii_ES"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0393_Familiaris_consortio_ES",
+        "canon-0554_La_Eucaristia_y_los_divorciados",
+        "canon-0580_1996_Preparation_au_sacrement_de_mariage",
+        "canon-0584_2009_Normes_d_officialite",
+        "canon-0585_1983_Documents_postconciliaires"
+      ]
+    },
+    {
+      "id": "canon-delitos",
+      "name": "Delitos",
+      "primary": "0553 normas sobre delitos graves",
+      "complementary": "0541; 0552; normativa futura actualizada",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0553_2010_Normae_de_gravioribus_ES"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "canon-0552_Congregacion_para_la_Doctrina_de_la_Fe"
+      ]
+    },
+    {
+      "id": "canon-organizacion-eclesial",
+      "name": "Organización eclesial",
+      "primary": "0541; 0078-0082",
+      "complementary": "0395-0396; 0401; 0575",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0078_Christus_Dominus_ES",
+        "canon-0079_Presbyterorum_Ordinis_ES",
+        "canon-0080_Optatam_totius_ES",
+        "canon-0081_Perfectae_caritatis_ES",
+        "canon-0082_Apostolicam_actuositatem_ES",
+        "canon-0541_1983_Codigo_de_Derecho_Canonico"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0395_Pastores_dabo_vobis_ES",
+        "canon-0396_Vita_consecrata_ES",
+        "canon-0401_Pastores_gregis_ES",
+        "canon-0575_Apostolorum_successores_ES"
+      ]
+    },
+    {
+      "id": "canon-derecho-historico",
+      "name": "Derecho histórico",
+      "primary": "0543 CIC 1917; 0540 Quo primum",
+      "complementary": "0329-0331; 0333; 0544 Pastor bonus",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "canon-0540_Quo_Primum",
+        "canon-0543_1917_Codex_Iuris_Canonici"
+      ],
+      "complementaryDocumentIds": [
+        "canon-0329_Vaticano_I",
+        "canon-0330_TRENTO",
+        "canon-0331_Lateranense_II_1139",
+        "canon-0333_I_Toledo",
+        "canon-0544_Pastor_bonus_ES"
+      ]
+    }
+  ],
+  "warnings": [
+    "Textos incompletos o parciales incluidos: ninguno detectado.",
+    "Documentos en latín o francés: 0303, 0305, 0542, 0543, 0556, 0568, 0571, 0572, 0573, 0580, 0584, 0585; no deben citarse como traducciones oficiales castellanas.",
+    "Históricos o sustituidos: 0298 (Misal 1957), 0429 y 0431 (catecismos históricos), 0540, 0543 y 0544 cuando estén presentes. No expresan por sí solos la normativa vigente.",
+    "El n.º 0541 requiere verificar consolidación y reformas antes de resolver un caso actual. Liturgiam authenticam debe leerse con normas posteriores. El corpus se cerró con documentos Clerus y no garantiza actualidad a 2026.",
+    "El documento 0116 se excluyó por riesgo de duplicar 0104-0119. En doctrina se eligió 0272, no la versión alternativa 0273, según la solicitud."
+  ],
+  "documents": [
+    {
+      "id": "canon-0074_Lumen_gentium_ES",
+      "contentFile": "data/documents/c5860d1c1bebc87a8a.js",
+      "catalogId": "0074",
+      "file": "0074_Lumen_gentium_ES.md",
+      "title": "Lumen gentium",
+      "originals": "0074",
+      "originalNumbers": [
+        "0074"
+      ],
+      "category": "Concilio",
+      "words": 25966,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0075_Dei_verbum_ES",
+      "contentFile": "data/documents/06ab78a14130cb42c2.js",
+      "catalogId": "0075",
+      "file": "0075_Dei_verbum_ES.md",
+      "title": "Dei verbum",
+      "originals": "0075",
+      "originalNumbers": [
+        "0075"
+      ],
+      "category": "Concilio",
+      "words": 4846,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0076_Sacrosanctum_Concilium_ES",
+      "contentFile": "data/documents/baddc4e1fd370abe67.js",
+      "catalogId": "0076",
+      "file": "0076_Sacrosanctum_Concilium_ES.md",
+      "title": "Sacrosanctum Concilium",
+      "originals": "0076",
+      "originalNumbers": [
+        "0076"
+      ],
+      "category": "Concilio",
+      "words": 12520,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0077_Gaudium_et_spes_ES",
+      "contentFile": "data/documents/93ce7a149b39ddae4b.js",
+      "catalogId": "0077",
+      "file": "0077_Gaudium_et_spes_ES.md",
+      "title": "Gaudium et spes",
+      "originals": "0077",
+      "originalNumbers": [
+        "0077"
+      ],
+      "category": "Concilio",
+      "words": 34248,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0078_Christus_Dominus_ES",
+      "contentFile": "data/documents/1ebd123b2de591ff6c.js",
+      "catalogId": "0078",
+      "file": "0078_Christus_Dominus_ES.md",
+      "title": "Christus Dominus",
+      "originals": "0078",
+      "originalNumbers": [
+        "0078"
+      ],
+      "category": "Concilio",
+      "words": 8929,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0079_Presbyterorum_Ordinis_ES",
+      "contentFile": "data/documents/029830f11986ccc0cc.js",
+      "catalogId": "0079",
+      "file": "0079_Presbyterorum_Ordinis_ES.md",
+      "title": "Presbyterorum Ordinis",
+      "originals": "0079",
+      "originalNumbers": [
+        "0079"
+      ],
+      "category": "Concilio",
+      "words": 11544,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0080_Optatam_totius_ES",
+      "contentFile": "data/documents/17fbece66ec16a918e.js",
+      "catalogId": "0080",
+      "file": "0080_Optatam_totius_ES.md",
+      "title": "Optatam totius",
+      "originals": "0080",
+      "originalNumbers": [
+        "0080"
+      ],
+      "category": "Concilio",
+      "words": 4738,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0081_Perfectae_caritatis_ES",
+      "contentFile": "data/documents/e914dd287bef3cd1ad.js",
+      "catalogId": "0081",
+      "file": "0081_Perfectae_caritatis_ES.md",
+      "title": "Perfectae caritatis",
+      "originals": "0081",
+      "originalNumbers": [
+        "0081"
+      ],
+      "category": "Concilio",
+      "words": 5079,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0082_Apostolicam_actuositatem_ES",
+      "contentFile": "data/documents/e0db84e6fdac8dc8ca.js",
+      "catalogId": "0082",
+      "file": "0082_Apostolicam_actuositatem_ES.md",
+      "title": "Apostolicam actuositatem",
+      "originals": "0082",
+      "originalNumbers": [
+        "0082"
+      ],
+      "category": "Concilio",
+      "words": 10490,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0083_Ad_gentes_ES",
+      "contentFile": "data/documents/d1cc30bebdf6d861ac.js",
+      "catalogId": "0083",
+      "file": "0083_Ad_gentes_ES.md",
+      "title": "Ad gentes",
+      "originals": "0083",
+      "originalNumbers": [
+        "0083"
+      ],
+      "category": "Concilio",
+      "words": 14415,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0084_Unitatis_redintegratio_ES",
+      "contentFile": "data/documents/a998522bad70e045bb.js",
+      "catalogId": "0084",
+      "file": "0084_Unitatis_redintegratio_ES.md",
+      "title": "Unitatis redintegratio",
+      "originals": "0084",
+      "originalNumbers": [
+        "0084"
+      ],
+      "category": "Concilio",
+      "words": 7173,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0085_Orientalium_Ecclesiarum_ES",
+      "contentFile": "data/documents/872a2f74d2ba302053.js",
+      "catalogId": "0085",
+      "file": "0085_Orientalium_Ecclesiarum_ES.md",
+      "title": "Orientalium Ecclesiarum",
+      "originals": "0085",
+      "originalNumbers": [
+        "0085"
+      ],
+      "category": "Concilio",
+      "words": 2820,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0086_Inter_mirifica_ES",
+      "contentFile": "data/documents/a5443930758dbe198f.js",
+      "catalogId": "0086",
+      "file": "0086_Inter_mirifica_ES.md",
+      "title": "Inter mirifica",
+      "originals": "0086",
+      "originalNumbers": [
+        "0086"
+      ],
+      "category": "Concilio",
+      "words": 3449,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0087_Dignitatis_humanae_ES",
+      "contentFile": "data/documents/dbcf86c7e009d60fc7.js",
+      "catalogId": "0087",
+      "file": "0087_Dignitatis_humanae_ES.md",
+      "title": "Dignitatis humanae",
+      "originals": "0087",
+      "originalNumbers": [
+        "0087"
+      ],
+      "category": "Concilio",
+      "words": 4959,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0088_Nostra_aetate_ES",
+      "contentFile": "data/documents/28f2a38455efe1f4f9.js",
+      "catalogId": "0088",
+      "file": "0088_Nostra_aetate_ES.md",
+      "title": "Nostra aetate",
+      "originals": "0088",
+      "originalNumbers": [
+        "0088"
+      ],
+      "category": "Concilio",
+      "words": 1812,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0089_Gravissimum_educationis_ES",
+      "contentFile": "data/documents/9501c3449f840c4fcd.js",
+      "catalogId": "0089",
+      "file": "0089_Gravissimum_educationis_ES.md",
+      "title": "Gravissimum educationis",
+      "originals": "0089",
+      "originalNumbers": [
+        "0089"
+      ],
+      "category": "Concilio",
+      "words": 4099,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0300_ORDO_MISSAE",
+      "contentFile": "data/documents/abf1472f0739bc2118.js",
+      "catalogId": "0300",
+      "file": "0300_ORDO_MISSAE.md",
+      "title": "ORDO MISSAE",
+      "originals": "0300",
+      "originalNumbers": [
+        "0300"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 3413,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0302_Ordenacion_general_Liturgia_Horas_ES",
+      "contentFile": "data/documents/44732c077fd9da9db7.js",
+      "catalogId": "0302",
+      "file": "0302_Ordenacion_general_Liturgia_Horas_ES.md",
+      "title": "Ordenacion general Liturgia Horas",
+      "originals": "0302",
+      "originalNumbers": [
+        "0302"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 21307,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0303_Ordo_Initiationis_Christianae",
+      "contentFile": "data/documents/5016fa5556a947bb0e.js",
+      "catalogId": "0303",
+      "file": "0303_Ordo_Initiationis_Christianae.md",
+      "title": "Ordo Initiationis Christianae",
+      "originals": "0303",
+      "originalNumbers": [
+        "0303"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 20130,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0305_De_ordinatione_presbyterorum_1990",
+      "contentFile": "data/documents/15a768ac4394272c51.js",
+      "catalogId": "0305",
+      "file": "0305_De_ordinatione_presbyterorum_1990.md",
+      "title": "De ordinatione presbyterorum 1990",
+      "originals": "0305",
+      "originalNumbers": [
+        "0305"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 3924,
+      "author": null,
+      "year": 1990,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0329_Vaticano_I",
+      "contentFile": "data/documents/23cdb96b7b37f437e3.js",
+      "catalogId": "0329",
+      "file": "0329_Vaticano_I.md",
+      "title": "Vaticano I",
+      "originals": "0329",
+      "originalNumbers": [
+        "0329"
+      ],
+      "category": "Concilio",
+      "words": 9639,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0330_TRENTO",
+      "contentFile": "data/documents/7aeae4335d1b3ca2c4.js",
+      "catalogId": "0330",
+      "file": "0330_TRENTO.md",
+      "title": "TRENTO",
+      "originals": "0330",
+      "originalNumbers": [
+        "0330"
+      ],
+      "category": "Concilio",
+      "words": 84942,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0331_Lateranense_II_1139",
+      "contentFile": "data/documents/5f7a489e9648e3578c.js",
+      "catalogId": "0331",
+      "file": "0331_Lateranense_II_1139.md",
+      "title": "Lateranense II 1139",
+      "originals": "0331",
+      "originalNumbers": [
+        "0331"
+      ],
+      "category": "Concilio",
+      "words": 1882,
+      "author": null,
+      "year": 1139,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0333_I_Toledo",
+      "contentFile": "data/documents/0545034ea31c8fa2f6.js",
+      "catalogId": "0333",
+      "file": "0333_I_Toledo.md",
+      "title": "I Toledo",
+      "originals": "0333",
+      "originalNumbers": [
+        "0333"
+      ],
+      "category": "Concilio",
+      "words": 4721,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0351_Ecclesia_de_Eucharistia_ES",
+      "contentFile": "data/documents/bbc5d895557cf0b862.js",
+      "catalogId": "0351",
+      "file": "0351_Ecclesia_de_Eucharistia_ES.md",
+      "title": "Ecclesia de Eucharistia",
+      "originals": "0351",
+      "originalNumbers": [
+        "0351"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 17150,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0353_Humanae_Vitae_ES",
+      "contentFile": "data/documents/a1f9f9bbc5a93f3dad.js",
+      "catalogId": "0353",
+      "file": "0353_Humanae_Vitae_ES.md",
+      "title": "Humanae Vitae",
+      "originals": "0353",
+      "originalNumbers": [
+        "0353"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 7083,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0354_Mysterium_Fidei_ES",
+      "contentFile": "data/documents/bf2a340165a1a6f89c.js",
+      "catalogId": "0354",
+      "file": "0354_Mysterium_Fidei_ES.md",
+      "title": "Mysterium Fidei",
+      "originals": "0354",
+      "originalNumbers": [
+        "0354"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 5305,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0371_Casti_connubii_ES",
+      "contentFile": "data/documents/236904348d6e1e6174.js",
+      "catalogId": "0371",
+      "file": "0371_Casti_connubii_ES.md",
+      "title": "Casti connubii",
+      "originals": "0371",
+      "originalNumbers": [
+        "0371"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 19965,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0389_Sacramentum_caritatis_ES",
+      "contentFile": "data/documents/d461e3f2fea0952a56.js",
+      "catalogId": "0389",
+      "file": "0389_Sacramentum_caritatis_ES.md",
+      "title": "Sacramentum caritatis",
+      "originals": "0389",
+      "originalNumbers": [
+        "0389"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 32434,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0393_Familiaris_consortio_ES",
+      "contentFile": "data/documents/871eed8aeab0d32858.js",
+      "catalogId": "0393",
+      "file": "0393_Familiaris_consortio_ES.md",
+      "title": "Familiaris consortio",
+      "originals": "0393",
+      "originalNumbers": [
+        "0393"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 36330,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0395_Pastores_dabo_vobis_ES",
+      "contentFile": "data/documents/572b22124aa27dc3f6.js",
+      "catalogId": "0395",
+      "file": "0395_Pastores_dabo_vobis_ES.md",
+      "title": "Pastores dabo vobis",
+      "originals": "0395",
+      "originalNumbers": [
+        "0395"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 54825,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0396_Vita_consecrata_ES",
+      "contentFile": "data/documents/a4164f2006a79f8489.js",
+      "catalogId": "0396",
+      "file": "0396_Vita_consecrata_ES.md",
+      "title": "Vita consecrata",
+      "originals": "0396",
+      "originalNumbers": [
+        "0396"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 46165,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0401_Pastores_gregis_ES",
+      "contentFile": "data/documents/af7d5887eb14797fa9.js",
+      "catalogId": "0401",
+      "file": "0401_Pastores_gregis_ES.md",
+      "title": "Pastores gregis",
+      "originals": "0401",
+      "originalNumbers": [
+        "0401"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 44500,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0540_Quo_Primum",
+      "contentFile": "data/documents/33aafc72230b9b7eb4.js",
+      "catalogId": "0540",
+      "file": "0540_Quo_Primum.md",
+      "title": "Quo Primum",
+      "originals": "0540",
+      "originalNumbers": [
+        "0540"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 1118,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "historical",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0541_1983_Codigo_de_Derecho_Canonico",
+      "contentFile": "data/documents/5ee05a350a97969203.js",
+      "catalogId": "0541",
+      "file": "0541_1983_Codigo_de_Derecho_Canonico.md",
+      "title": "Codigo de Derecho Canonico",
+      "originals": "0541",
+      "originalNumbers": [
+        "0541"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 118874,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0542_1990_Codex_Orientalis",
+      "contentFile": "data/documents/c2cf36f4c1592d8e7a.js",
+      "catalogId": "0542",
+      "file": "0542_1990_Codex_Orientalis.md",
+      "title": "Codex Orientalis",
+      "originals": "0542",
+      "originalNumbers": [
+        "0542"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 83175,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0543_1917_Codex_Iuris_Canonici",
+      "contentFile": "data/documents/71440d8540935be717.js",
+      "catalogId": "0543",
+      "file": "0543_1917_Codex_Iuris_Canonici.md",
+      "title": "Codex Iuris Canonici",
+      "originals": "0543",
+      "originalNumbers": [
+        "0543"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 134025,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "historical",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0544_Pastor_bonus_ES",
+      "contentFile": "data/documents/8d222dcfc0bab674a9.js",
+      "catalogId": "0544",
+      "file": "0544_Pastor_bonus_ES.md",
+      "title": "Pastor bonus",
+      "originals": "0544",
+      "originalNumbers": [
+        "0544"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 18463,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "historical",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0545_Porta_Fidei_ES",
+      "contentFile": "data/documents/23f886f60cb3ec4285.js",
+      "catalogId": "0545",
+      "file": "0545_Porta_Fidei_ES.md",
+      "title": "Porta Fidei",
+      "originals": "0545",
+      "originalNumbers": [
+        "0545"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 5744,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0546_Universi_Dominici_gregis_ES",
+      "contentFile": "data/documents/60867f3b6c502cfec8.js",
+      "catalogId": "0546",
+      "file": "0546_Universi_Dominici_gregis_ES.md",
+      "title": "Universi Dominici gregis",
+      "originals": "0546",
+      "originalNumbers": [
+        "0546"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 12942,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0547_Ad_tuendam_Fidem",
+      "contentFile": "data/documents/8c497cd2c3897abe3c.js",
+      "catalogId": "0547",
+      "file": "0547_Ad_tuendam_Fidem.md",
+      "title": "Ad tuendam Fidem",
+      "originals": "0547",
+      "originalNumbers": [
+        "0547"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 1457,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0548_Fidei_Depositum",
+      "contentFile": "data/documents/1986da9a938331a296.js",
+      "catalogId": "0548",
+      "file": "0548_Fidei_Depositum.md",
+      "title": "Fidei Depositum",
+      "originals": "0548",
+      "originalNumbers": [
+        "0548"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 1610,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0549_Interpretationes_Authenticae",
+      "contentFile": "data/documents/10c16ca32970ec56f4.js",
+      "catalogId": "0549",
+      "file": "0549_Interpretationes_Authenticae.md",
+      "title": "Interpretationes Authenticae",
+      "originals": "0549",
+      "originalNumbers": [
+        "0549"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 3123,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0552_Congregacion_para_la_Doctrina_de_la_Fe",
+      "contentFile": "data/documents/a5b241629a024cd87f.js",
+      "catalogId": "0552",
+      "file": "0552_Congregacion_para_la_Doctrina_de_la_Fe.md",
+      "title": "Congregacion para la Doctrina de la Fe",
+      "originals": "0552",
+      "originalNumbers": [
+        "0552"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 138449,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0553_2010_Normae_de_gravioribus_ES",
+      "contentFile": "data/documents/cbb7a807bb08b2908b.js",
+      "catalogId": "0553",
+      "file": "0553_2010_Normae_de_gravioribus_ES.md",
+      "title": "Normae de gravioribus",
+      "originals": "0553",
+      "originalNumbers": [
+        "0553"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 3911,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0554_La_Eucaristia_y_los_divorciados",
+      "contentFile": "data/documents/105663e37bef38ac5b.js",
+      "catalogId": "0554",
+      "file": "0554_La_Eucaristia_y_los_divorciados.md",
+      "title": "La Eucaristia y los divorciados",
+      "originals": "0554",
+      "originalNumbers": [
+        "0554"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 2549,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0555_Oraciones_para_la_salud",
+      "contentFile": "data/documents/a4dea03bf94cf92383.js",
+      "catalogId": "0555",
+      "file": "0555_Oraciones_para_la_salud.md",
+      "title": "Oraciones para la salud",
+      "originals": "0555",
+      "originalNumbers": [
+        "0555"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 5444,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0556_1983_Approbation_livres_Catechese",
+      "contentFile": "data/documents/fdd53409e44f87901e.js",
+      "catalogId": "0556",
+      "file": "0556_1983_Approbation_livres_Catechese.md",
+      "title": "Approbation livres Catechese",
+      "originals": "0556",
+      "originalNumbers": [
+        "0556"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 2458,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0557_2000_Dominus_Iesus",
+      "contentFile": "data/documents/6637da8dbd73edd581.js",
+      "catalogId": "0557",
+      "file": "0557_2000_Dominus_Iesus.md",
+      "title": "Dominus Iesus",
+      "originals": "0557",
+      "originalNumbers": [
+        "0557"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 11440,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0558_1987_Donum_Vitae",
+      "contentFile": "data/documents/1f20efcfa86c9bfc91.js",
+      "catalogId": "0558",
+      "file": "0558_1987_Donum_Vitae.md",
+      "title": "Donum Vitae",
+      "originals": "0558",
+      "originalNumbers": [
+        "0558"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 13249,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0561_1997_Ratio_Agendi",
+      "contentFile": "data/documents/0dc9ad97ab513bb85c.js",
+      "catalogId": "0561",
+      "file": "0561_1997_Ratio_Agendi.md",
+      "title": "Ratio Agendi",
+      "originals": "0561",
+      "originalNumbers": [
+        "0561"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 2093,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0562_Congregacion_Culto_Divino_parte_01",
+      "contentFile": "data/documents/0f063230c3a83bee4a.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_01.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 29643,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0562_Congregacion_Culto_Divino_parte_02",
+      "contentFile": "data/documents/920f6acde69d61006b.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_02.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 59254,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0562_Congregacion_Culto_Divino_parte_03",
+      "contentFile": "data/documents/5ee79fa193aa3baaaf.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_03.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 24577,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0563_Liturgiam_authenticam",
+      "contentFile": "data/documents/86cb124faab6f67477.js",
+      "catalogId": "0563",
+      "file": "0563_Liturgiam_authenticam.md",
+      "title": "Liturgiam authenticam",
+      "originals": "0563",
+      "originalNumbers": [
+        "0563"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 18985,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0564_Summa_Decretorum_de_SSmo_Sacramento",
+      "contentFile": "data/documents/7a9ad625178b15d809.js",
+      "catalogId": "0564",
+      "file": "0564_Summa_Decretorum_de_SSmo_Sacramento.md",
+      "title": "Summa Decretorum de SSmo Sacramento",
+      "originals": "0564",
+      "originalNumbers": [
+        "0564"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 2690,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0565_Congregacion_para_el_Clero",
+      "contentFile": "data/documents/1ab534c357481ec8dd.js",
+      "catalogId": "0565",
+      "file": "0565_Congregacion_para_el_Clero.md",
+      "title": "Congregacion para el Clero",
+      "originals": "0565",
+      "originalNumbers": [
+        "0565"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 68674,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0566_DIRECTORIO_GENERAL_PARA_LA_CATEQUESIS",
+      "contentFile": "data/documents/6e63245b1604e67dc3.js",
+      "catalogId": "0566",
+      "file": "0566_DIRECTORIO_GENERAL_PARA_LA_CATEQUESIS.md",
+      "title": "DIRECTORIO GENERAL PARA LA CATEQUESIS",
+      "originals": "0566",
+      "originalNumbers": [
+        "0566"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 69975,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0567_Directorio_presbiteros",
+      "contentFile": "data/documents/7174957a44f1800acf.js",
+      "catalogId": "0567",
+      "file": "0567_Directorio_presbiteros.md",
+      "title": "Directorio presbiteros",
+      "originals": "0567",
+      "originalNumbers": [
+        "0567"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 30949,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0568_1998_Diacres_Normes_Fondamentales",
+      "contentFile": "data/documents/ac67fd01c01bea3acc.js",
+      "catalogId": "0568",
+      "file": "0568_1998_Diacres_Normes_Fondamentales.md",
+      "title": "Diacres Normes Fondamentales",
+      "originals": "0568",
+      "originalNumbers": [
+        "0568"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 3297,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0571_1998_Directoire_Diacres",
+      "contentFile": "data/documents/6e4535043d02c1f3a0.js",
+      "catalogId": "0571",
+      "file": "0571_1998_Directoire_Diacres.md",
+      "title": "Directoire Diacres",
+      "originals": "0571",
+      "originalNumbers": [
+        "0571"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 20463,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0572_1997_Ecole_au_3eme_Millenaire",
+      "contentFile": "data/documents/63bcb0343285523d54.js",
+      "catalogId": "0572",
+      "file": "0572_1997_Ecole_au_3eme_Millenaire.md",
+      "title": "Ecole au 3eme Millenaire",
+      "originals": "0572",
+      "originalNumbers": [
+        "0572"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 5140,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0573_1998_Formation_des_Diacres",
+      "contentFile": "data/documents/035f29c8270117642c.js",
+      "catalogId": "0573",
+      "file": "0573_1998_Formation_des_Diacres.md",
+      "title": "Formation des Diacres",
+      "originals": "0573",
+      "originalNumbers": [
+        "0573"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 13504,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0575_Apostolorum_successores_ES",
+      "contentFile": "data/documents/77a619b09a07ca8239.js",
+      "catalogId": "0575",
+      "file": "0575_Apostolorum_successores_ES.md",
+      "title": "Apostolorum successores",
+      "originals": "0575",
+      "originalNumbers": [
+        "0575"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 85256,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0577_1986_MANUAL_DE_INDULGENCIAS",
+      "contentFile": "data/documents/9adb1be442c0ade83c.js",
+      "catalogId": "0577",
+      "file": "0577_1986_MANUAL_DE_INDULGENCIAS.md",
+      "title": "MANUAL DE INDULGENCIAS",
+      "originals": "0577",
+      "originalNumbers": [
+        "0577"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 24598,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0580_1996_Preparation_au_sacrement_de_mariage",
+      "contentFile": "data/documents/1205a5f606da36eb33.js",
+      "catalogId": "0580",
+      "file": "0580_1996_Preparation_au_sacrement_de_mariage.md",
+      "title": "Preparation au sacrement de mariage",
+      "originals": "0580",
+      "originalNumbers": [
+        "0580"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 12053,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0583_Dignitas_connubii_ES",
+      "contentFile": "data/documents/1d8c5ac0b7fc3d4e8c.js",
+      "catalogId": "0583",
+      "file": "0583_Dignitas_connubii_ES.md",
+      "title": "Dignitas connubii",
+      "originals": "0583",
+      "originalNumbers": [
+        "0583"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 27283,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0584_2009_Normes_d_officialite",
+      "contentFile": "data/documents/7e55391545a70ca2bc.js",
+      "catalogId": "0584",
+      "file": "0584_2009_Normes_d_officialite.md",
+      "title": "Normes d officialite",
+      "originals": "0584",
+      "originalNumbers": [
+        "0584"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 48488,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "canon-0585_1983_Documents_postconciliaires",
+      "contentFile": "data/documents/0c565a4d018867c5f7.js",
+      "catalogId": "0585",
+      "file": "0585_1983_Documents_postconciliaires.md",
+      "title": "Documents postconciliaires",
+      "originals": "0585",
+      "originalNumbers": [
+        "0585"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 154782,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "canon",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Magisterio / documento eclesial",
+      "count": 25
+    },
+    {
+      "name": "Concilio",
+      "count": 20
+    },
+    {
+      "name": "Legislación o documentación jurídica",
+      "count": 14
+    },
+    {
+      "name": "Libro o normativa litúrgica",
+      "count": 10
+    }
+  ],
+  "authors": [
+    {
+      "name": "Santo Tomás de Aquino",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "documents": 69,
+    "words": 1830537,
+    "categories": 4,
+    "authors": 1,
+    "historical": 3,
+    "incomplete": 0,
+    "foreignLanguage": 12,
+    "dated": 2
+  }
+}

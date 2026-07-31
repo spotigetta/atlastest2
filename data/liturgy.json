@@ -1,0 +1,2245 @@
+{
+  "id": "liturgy",
+  "folder": "04_IA_Liturgia",
+  "short": "LiturgIA",
+  "mark": "L",
+  "tone": "violet",
+  "notebookUrl": "https://notebooklm.google.com/notebook/4a6c4784-ced5-44af-aa15-8e4957af935d",
+  "description": "Teología, libros, normas e historia de la liturgia.",
+  "name": "Liturgia",
+  "purpose": "Consulta teológica, normativa, histórica y pastoral sobre la Misa, los sacramentos, la Liturgia de las Horas, el año litúrgico y los ministerios. Esta carpeta es plana y está preparada para cargarse como un cuaderno independiente de NotebookLM.",
+  "organization": "Los nombres comienzan por los números del catálogo Clerus. Un intervalo (por ejemplo, `0109_0115`) indica una agrupación íntegra de documentos relacionados. El sufijo `_parte_NN` indica una división en una frontera natural para respetar el margen de 450.000 palabras. Cada agrupación y división contiene índice interno y conserva los números originales.",
+  "topics": [
+    {
+      "id": "liturgy-principios-liturgicos",
+      "name": "Principios litúrgicos",
+      "primary": "0076 Sacrosanctum Concilium; 0091 Catecismo",
+      "complementary": "0074-0075; 0079; 0085",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0076_Sacrosanctum_Concilium_ES",
+        "liturgy-0091_Catecismo_Iglesia_Catol"
+      ],
+      "complementaryDocumentIds": [
+        "liturgy-0074_Lumen_gentium_ES",
+        "liturgy-0075_Dei_verbum_ES",
+        "liturgy-0079_Presbyterorum_Ordinis_ES",
+        "liturgy-0085_Orientalium_Ecclesiarum_ES"
+      ]
+    },
+    {
+      "id": "liturgy-misa-y-eucaristia",
+      "name": "Misa y Eucaristía",
+      "primary": "0300-0301; 0351; 0354; 0389",
+      "complementary": "0562-0564; 0299; leccionarios pendientes",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0300_ORDO_MISSAE",
+        "liturgy-0301_Missale_Romanum_2002",
+        "liturgy-0351_Ecclesia_de_Eucharistia_ES",
+        "liturgy-0354_Mysterium_Fidei_ES",
+        "liturgy-0389_Sacramentum_caritatis_ES"
+      ],
+      "complementaryDocumentIds": [
+        "liturgy-0299_Ordo_Lectionnaire_Missel",
+        "liturgy-0562_Congregacion_Culto_Divino_parte_01",
+        "liturgy-0562_Congregacion_Culto_Divino_parte_02",
+        "liturgy-0562_Congregacion_Culto_Divino_parte_03",
+        "liturgy-0563_Liturgiam_authenticam",
+        "liturgy-0564_Summa_Decretorum_de_SSmo_Sacramento"
+      ]
+    },
+    {
+      "id": "liturgy-liturgia-de-las-horas",
+      "name": "Liturgia de las Horas",
+      "primary": "0302 Ordenación general",
+      "complementary": "textos completos pendientes",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0302_Ordenacion_general_Liturgia_Horas_ES"
+      ],
+      "complementaryDocumentIds": []
+    },
+    {
+      "id": "liturgy-iniciacion-cristiana",
+      "name": "Iniciación cristiana",
+      "primary": "0303 Ordo Initiationis",
+      "complementary": "rituales castellanos pendientes; 0541",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0303_Ordo_Initiationis_Christianae"
+      ],
+      "complementaryDocumentIds": [
+        "liturgy-0541_1983_Codigo_de_Derecho_Canonico"
+      ]
+    },
+    {
+      "id": "liturgy-orden-y-ministerios",
+      "name": "Orden y ministerios",
+      "primary": "0304-0305; 0079",
+      "complementary": "0395; 0567-0573; 0221",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0079_Presbyterorum_Ordinis_ES",
+        "liturgy-0304_Pontificalis",
+        "liturgy-0305_De_ordinatione_presbyterorum_1990"
+      ],
+      "complementaryDocumentIds": [
+        "liturgy-0221_CRISOSTOMO_SACERDOCIO",
+        "liturgy-0395_Pastores_dabo_vobis_ES",
+        "liturgy-0567_Directorio_presbiteros",
+        "liturgy-0568_1998_Diacres_Normes_Fondamentales",
+        "liturgy-0571_1998_Directoire_Diacres",
+        "liturgy-0573_1998_Formation_des_Diacres"
+      ]
+    },
+    {
+      "id": "liturgy-ano-liturgico",
+      "name": "Año litúrgico",
+      "primary": "0421 Dies Domini; 0076",
+      "complementary": "calendario y normas pendientes",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0076_Sacrosanctum_Concilium_ES",
+        "liturgy-0421_LA_DIES_DOMINI"
+      ],
+      "complementaryDocumentIds": []
+    },
+    {
+      "id": "liturgy-historia-liturgica",
+      "name": "Historia litúrgica",
+      "primary": "0298 y 0301; 0330",
+      "complementary": "Padres y sacramentarios pendientes",
+      "source": "Mapa temático del índice",
+      "primaryDocumentIds": [
+        "liturgy-0298_Missale_Romanum_1957",
+        "liturgy-0301_Missale_Romanum_2002",
+        "liturgy-0330_TRENTO"
+      ],
+      "complementaryDocumentIds": []
+    }
+  ],
+  "warnings": [
+    "Textos incompletos o parciales incluidos: 0050 Salmos.",
+    "Documentos en latín o francés: 0094, 0298, 0301, 0303, 0304, 0305, 0568, 0571, 0573; no deben citarse como traducciones oficiales castellanas.",
+    "Históricos o sustituidos: 0298 (Misal 1957), 0429 y 0431 (catecismos históricos), 0540, 0543 y 0544 cuando estén presentes. No expresan por sí solos la normativa vigente.",
+    "El n.º 0541 requiere verificar consolidación y reformas antes de resolver un caso actual. Liturgiam authenticam debe leerse con normas posteriores. El corpus se cerró con documentos Clerus y no garantiza actualidad a 2026.",
+    "El documento 0116 se excluyó por riesgo de duplicar 0104-0119. En doctrina se eligió 0272, no la versión alternativa 0273, según la solicitud."
+  ],
+  "documents": [
+    {
+      "id": "liturgy-0001_0005_Biblia_Evangelios_y_Hechos",
+      "contentFile": "data/documents/3d2e1dfb8447775635.js",
+      "catalogId": "0001",
+      "file": "0001_0005_Biblia_Evangelios_y_Hechos.md",
+      "title": "Biblia Evangelios y Hechos",
+      "originals": "0001, 0002, 0003, 0004, 0005",
+      "originalNumbers": [
+        "0001",
+        "0002",
+        "0003",
+        "0004",
+        "0005"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 104267,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0006_0018_Biblia_Cartas_de_san_Pablo",
+      "contentFile": "data/documents/afafb029899ed75335.js",
+      "catalogId": "0006",
+      "file": "0006_0018_Biblia_Cartas_de_san_Pablo.md",
+      "title": "Biblia Cartas de san Pablo",
+      "originals": "0006, 0007, 0008, 0009, 0010, 0011, 0012, 0013, 0014, 0015, 0016, 0017, 0018",
+      "originalNumbers": [
+        "0006",
+        "0007",
+        "0008",
+        "0009",
+        "0010",
+        "0011",
+        "0012",
+        "0013",
+        "0014",
+        "0015",
+        "0016",
+        "0017",
+        "0018"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 47193,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0019_0027_Biblia_Cartas_catolicas_y_Apocalipsis",
+      "contentFile": "data/documents/562e4ea25e9c48a4f5.js",
+      "catalogId": "0019",
+      "file": "0019_0027_Biblia_Cartas_catolicas_y_Apocalipsis.md",
+      "title": "Biblia Cartas catolicas y Apocalipsis",
+      "originals": "0019, 0020, 0021, 0022, 0023, 0024, 0025, 0026, 0027",
+      "originalNumbers": [
+        "0019",
+        "0020",
+        "0021",
+        "0022",
+        "0023",
+        "0024",
+        "0025",
+        "0026",
+        "0027"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 29552,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0028_0032_Biblia_Pentateuco",
+      "contentFile": "data/documents/2f2197b7e7cf78185a.js",
+      "catalogId": "0028",
+      "file": "0028_0032_Biblia_Pentateuco.md",
+      "title": "Biblia Pentateuco",
+      "originals": "0028, 0029, 0030, 0031, 0032",
+      "originalNumbers": [
+        "0028",
+        "0029",
+        "0030",
+        "0031",
+        "0032"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 143243,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0033_0048_Biblia_Libros_historicos",
+      "contentFile": "data/documents/1f1cd7198c9f740572.js",
+      "catalogId": "0033",
+      "file": "0033_0048_Biblia_Libros_historicos.md",
+      "title": "Biblia Libros historicos",
+      "originals": "0033, 0034, 0035, 0036, 0037, 0038, 0039, 0040, 0041, 0042, 0043, 0044, 0045, 0046, 0047, 0048",
+      "originalNumbers": [
+        "0033",
+        "0034",
+        "0035",
+        "0036",
+        "0037",
+        "0038",
+        "0039",
+        "0040",
+        "0041",
+        "0042",
+        "0043",
+        "0044",
+        "0045",
+        "0046",
+        "0047",
+        "0048"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 229962,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0049_0055_Biblia_Libros_sapienciales",
+      "contentFile": "data/documents/e6db0ab9db20781547.js",
+      "catalogId": "0049",
+      "file": "0049_0055_Biblia_Libros_sapienciales.md",
+      "title": "Biblia Libros sapienciales",
+      "originals": "0049, 0050, 0051, 0052, 0053, 0054, 0055",
+      "originalNumbers": [
+        "0049",
+        "0050",
+        "0051",
+        "0052",
+        "0053",
+        "0054",
+        "0055"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 109833,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "incomplete",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0056_0073_Biblia_Libros_profeticos",
+      "contentFile": "data/documents/fedc58ba238537b91c.js",
+      "catalogId": "0056",
+      "file": "0056_0073_Biblia_Libros_profeticos.md",
+      "title": "Biblia Libros profeticos",
+      "originals": "0056, 0057, 0058, 0059, 0060, 0061, 0062, 0063, 0064, 0065, 0066, 0067, 0068, 0069, 0070, 0071, 0072, 0073",
+      "originalNumbers": [
+        "0056",
+        "0057",
+        "0058",
+        "0059",
+        "0060",
+        "0061",
+        "0062",
+        "0063",
+        "0064",
+        "0065",
+        "0066",
+        "0067",
+        "0068",
+        "0069",
+        "0070",
+        "0071",
+        "0072",
+        "0073"
+      ],
+      "category": "Sagrada Escritura",
+      "words": 160019,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Sagrada Escritura",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0074_Lumen_gentium_ES",
+      "contentFile": "data/documents/006eed28014db79268.js",
+      "catalogId": "0074",
+      "file": "0074_Lumen_gentium_ES.md",
+      "title": "Lumen gentium",
+      "originals": "0074",
+      "originalNumbers": [
+        "0074"
+      ],
+      "category": "Concilio",
+      "words": 25966,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0075_Dei_verbum_ES",
+      "contentFile": "data/documents/a16914afac10f8f081.js",
+      "catalogId": "0075",
+      "file": "0075_Dei_verbum_ES.md",
+      "title": "Dei verbum",
+      "originals": "0075",
+      "originalNumbers": [
+        "0075"
+      ],
+      "category": "Concilio",
+      "words": 4846,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0076_Sacrosanctum_Concilium_ES",
+      "contentFile": "data/documents/9118ac1ea70d480c88.js",
+      "catalogId": "0076",
+      "file": "0076_Sacrosanctum_Concilium_ES.md",
+      "title": "Sacrosanctum Concilium",
+      "originals": "0076",
+      "originalNumbers": [
+        "0076"
+      ],
+      "category": "Concilio",
+      "words": 12520,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0079_Presbyterorum_Ordinis_ES",
+      "contentFile": "data/documents/5c732f6e5032991d91.js",
+      "catalogId": "0079",
+      "file": "0079_Presbyterorum_Ordinis_ES.md",
+      "title": "Presbyterorum Ordinis",
+      "originals": "0079",
+      "originalNumbers": [
+        "0079"
+      ],
+      "category": "Concilio",
+      "words": 11544,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0085_Orientalium_Ecclesiarum_ES",
+      "contentFile": "data/documents/b21b9c29ada04e1b12.js",
+      "catalogId": "0085",
+      "file": "0085_Orientalium_Ecclesiarum_ES.md",
+      "title": "Orientalium Ecclesiarum",
+      "originals": "0085",
+      "originalNumbers": [
+        "0085"
+      ],
+      "category": "Concilio",
+      "words": 2820,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0091_Catecismo_Iglesia_Catol",
+      "contentFile": "data/documents/82f2b231f3731feeea.js",
+      "catalogId": "0091",
+      "file": "0091_Catecismo_Iglesia_Catol.md",
+      "title": "Catecismo Iglesia Catol",
+      "originals": "0091",
+      "originalNumbers": [
+        "0091"
+      ],
+      "category": "Catecismo vigente / síntesis autorizada",
+      "words": 251507,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Catecismo",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0092_Homilias_Crisostomo_2",
+      "contentFile": "data/documents/30fc7dfc347e032269.js",
+      "catalogId": "0092",
+      "file": "0092_Homilias_Crisostomo_2.md",
+      "title": "Homilias Crisostomo 2",
+      "originals": "0092",
+      "originalNumbers": [
+        "0092"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 274150,
+      "author": "San Juan Crisóstomo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0093_CRISOSTOMO_HOMILIAS_I",
+      "contentFile": "data/documents/c54f32b6e01ce3fea5.js",
+      "catalogId": "0093",
+      "file": "0093_CRISOSTOMO_HOMILIAS_I.md",
+      "title": "CRISOSTOMO HOMILIAS I",
+      "originals": "0093",
+      "originalNumbers": [
+        "0093"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 150201,
+      "author": "San Juan Crisóstomo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0094_Augustin_Sermons_parte_01",
+      "contentFile": "data/documents/e2882cd7c123f0b227.js",
+      "catalogId": "0094",
+      "file": "0094_Augustin_Sermons_parte_01.md",
+      "title": "Augustin Sermons",
+      "originals": "0094",
+      "originalNumbers": [
+        "0094"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 390487,
+      "author": "San Agustín",
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0094_Augustin_Sermons_parte_02",
+      "contentFile": "data/documents/9f960b031177d3fbeb.js",
+      "catalogId": "0094",
+      "file": "0094_Augustin_Sermons_parte_02.md",
+      "title": "Augustin Sermons",
+      "originals": "0094",
+      "originalNumbers": [
+        "0094"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 273597,
+      "author": "San Agustín",
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0094_Augustin_Sermons_parte_03",
+      "contentFile": "data/documents/5531642bf5819d1288.js",
+      "catalogId": "0094",
+      "file": "0094_Augustin_Sermons_parte_03.md",
+      "title": "Augustin Sermons",
+      "originals": "0094",
+      "originalNumbers": [
+        "0094"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 438437,
+      "author": "San Agustín",
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0094_Augustin_Sermons_parte_04",
+      "contentFile": "data/documents/4b578343096d73a911.js",
+      "catalogId": "0094",
+      "file": "0094_Augustin_Sermons_parte_04.md",
+      "title": "Augustin Sermons",
+      "originals": "0094",
+      "originalNumbers": [
+        "0094"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 297418,
+      "author": "San Agustín",
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0098_Benedicto_XVI_Homilias_parte_01",
+      "contentFile": "data/documents/bf1e5ad5599085450a.js",
+      "catalogId": "0098",
+      "file": "0098_Benedicto_XVI_Homilias_parte_01.md",
+      "title": "Benedicto XVI Homilias",
+      "originals": "0098",
+      "originalNumbers": [
+        "0098"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 436532,
+      "author": "Benedicto XVI",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0098_Benedicto_XVI_Homilias_parte_02",
+      "contentFile": "data/documents/2e0e919071c52780a9.js",
+      "catalogId": "0098",
+      "file": "0098_Benedicto_XVI_Homilias_parte_02.md",
+      "title": "Benedicto XVI Homilias",
+      "originals": "0098",
+      "originalNumbers": [
+        "0098"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 116947,
+      "author": "Benedicto XVI",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0099_B_Juan_Pablo_II_Homilias_parte_01",
+      "contentFile": "data/documents/656cf0b1251a88e11d.js",
+      "catalogId": "0099",
+      "file": "0099_B_Juan_Pablo_II_Homilias_parte_01.md",
+      "title": "B Juan Pablo II Homilias",
+      "originals": "0099",
+      "originalNumbers": [
+        "0099"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 433979,
+      "author": "San Juan Pablo II",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0099_B_Juan_Pablo_II_Homilias_parte_02",
+      "contentFile": "data/documents/65f4417dbcc44ffd21.js",
+      "catalogId": "0099",
+      "file": "0099_B_Juan_Pablo_II_Homilias_parte_02.md",
+      "title": "B Juan Pablo II Homilias",
+      "originals": "0099",
+      "originalNumbers": [
+        "0099"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 439843,
+      "author": "San Juan Pablo II",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0099_B_Juan_Pablo_II_Homilias_parte_03",
+      "contentFile": "data/documents/456ff83d3be2a02c1b.js",
+      "catalogId": "0099",
+      "file": "0099_B_Juan_Pablo_II_Homilias_parte_03.md",
+      "title": "B Juan Pablo II Homilias",
+      "originals": "0099",
+      "originalNumbers": [
+        "0099"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 344833,
+      "author": "San Juan Pablo II",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0105_Clemente_ES",
+      "contentFile": "data/documents/8eff15e0705e1e6b2a.js",
+      "catalogId": "0105",
+      "file": "0105_Clemente_ES.md",
+      "title": "Clemente",
+      "originals": "0105",
+      "originalNumbers": [
+        "0105"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 6058,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0107_Didache_ES",
+      "contentFile": "data/documents/6b7501d2717299f968.js",
+      "catalogId": "0107",
+      "file": "0107_Didache_ES.md",
+      "title": "Didache",
+      "originals": "0107",
+      "originalNumbers": [
+        "0107"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 3464,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0109_0115_San_Ignacio_de_Antioquia_Cartas",
+      "contentFile": "data/documents/80abac7388a0b178f7.js",
+      "catalogId": "0109",
+      "file": "0109_0115_San_Ignacio_de_Antioquia_Cartas.md",
+      "title": "San Ignacio de Antioquia Cartas",
+      "originals": "0109, 0110, 0111, 0112, 0113, 0114, 0115",
+      "originalNumbers": [
+        "0109",
+        "0110",
+        "0111",
+        "0112",
+        "0113",
+        "0114",
+        "0115"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 13372,
+      "author": "San Ignacio de Antioquía",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0117_Hermas_ES",
+      "contentFile": "data/documents/28fc429d3faf02ab66.js",
+      "catalogId": "0117",
+      "file": "0117_Hermas_ES.md",
+      "title": "Hermas",
+      "originals": "0117",
+      "originalNumbers": [
+        "0117"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 5505,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0118_Policarpo_Fil_ES",
+      "contentFile": "data/documents/8472640e187b490d4d.js",
+      "catalogId": "0118",
+      "file": "0118_Policarpo_Fil_ES.md",
+      "title": "Policarpo Fil",
+      "originals": "0118",
+      "originalNumbers": [
+        "0118"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 6125,
+      "author": "San Policarpo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0119_Poicarpo_martirio",
+      "contentFile": "data/documents/a89fe2a1b027ca3687.js",
+      "catalogId": "0119",
+      "file": "0119_Poicarpo_martirio.md",
+      "title": "Poicarpo martirio",
+      "originals": "0119",
+      "originalNumbers": [
+        "0119"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 1737,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0120_San_Atanasio_ES",
+      "contentFile": "data/documents/30f82c59ec0d3589ef.js",
+      "catalogId": "0120",
+      "file": "0120_San_Atanasio_ES.md",
+      "title": "San Atanasio",
+      "originals": "0120",
+      "originalNumbers": [
+        "0120"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 36945,
+      "author": "San Atanasio",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0121_Basilio_ES",
+      "contentFile": "data/documents/09e7949227b4e51dcb.js",
+      "catalogId": "0121",
+      "file": "0121_Basilio_ES.md",
+      "title": "Basilio",
+      "originals": "0121",
+      "originalNumbers": [
+        "0121"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 32787,
+      "author": "San Basilio",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0122_Cirilo_ES",
+      "contentFile": "data/documents/bd7c9fa2de8f1f5285.js",
+      "catalogId": "0122",
+      "file": "0122_Cirilo_ES.md",
+      "title": "Cirilo",
+      "originals": "0122",
+      "originalNumbers": [
+        "0122"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 149843,
+      "author": "San Cirilo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0137_Augustin_doctrine_chretienne",
+      "contentFile": "data/documents/1cc30738186b75fdbb.js",
+      "catalogId": "0137",
+      "file": "0137_Augustin_doctrine_chretienne.md",
+      "title": "Augustin doctrine chretienne",
+      "originals": "0137",
+      "originalNumbers": [
+        "0137"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 67487,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0140_Augustin_sur_Jean_parte_01",
+      "contentFile": "data/documents/1407851900f5c6c113.js",
+      "catalogId": "0140",
+      "file": "0140_Augustin_sur_Jean_parte_01.md",
+      "title": "Augustin sur Jean",
+      "originals": "0140",
+      "originalNumbers": [
+        "0140"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 432830,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0140_Augustin_sur_Jean_parte_02",
+      "contentFile": "data/documents/e7ca8864add026b0b6.js",
+      "catalogId": "0140",
+      "file": "0140_Augustin_sur_Jean_parte_02.md",
+      "title": "Augustin sur Jean",
+      "originals": "0140",
+      "originalNumbers": [
+        "0140"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 39787,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0142_Augustin_les_Psaumes_parte_01",
+      "contentFile": "data/documents/72f7ea61c5602a24b4.js",
+      "catalogId": "0142",
+      "file": "0142_Augustin_les_Psaumes_parte_01.md",
+      "title": "Augustin les Psaumes",
+      "originals": "0142",
+      "originalNumbers": [
+        "0142"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 438792,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0142_Augustin_les_Psaumes_parte_02",
+      "contentFile": "data/documents/178b3d743b953e1b10.js",
+      "catalogId": "0142",
+      "file": "0142_Augustin_les_Psaumes_parte_02.md",
+      "title": "Augustin les Psaumes",
+      "originals": "0142",
+      "originalNumbers": [
+        "0142"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 433411,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0142_Augustin_les_Psaumes_parte_03",
+      "contentFile": "data/documents/33385eff22e6b6761a.js",
+      "catalogId": "0142",
+      "file": "0142_Augustin_les_Psaumes_parte_03.md",
+      "title": "Augustin les Psaumes",
+      "originals": "0142",
+      "originalNumbers": [
+        "0142"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 431299,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0142_Augustin_les_Psaumes_parte_04",
+      "contentFile": "data/documents/1726e035dd113d8ce8.js",
+      "catalogId": "0142",
+      "file": "0142_Augustin_les_Psaumes_parte_04.md",
+      "title": "Augustin les Psaumes",
+      "originals": "0142",
+      "originalNumbers": [
+        "0142"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 71655,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0157_Augustin_du_Bapteme",
+      "contentFile": "data/documents/b80650aa2fe1c1ca93.js",
+      "catalogId": "0157",
+      "file": "0157_Augustin_du_Bapteme.md",
+      "title": "Augustin du Bapteme",
+      "originals": "0157",
+      "originalNumbers": [
+        "0157"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 96457,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0158_Augustin_Catechisme",
+      "contentFile": "data/documents/6da5acb66470c9c2fc.js",
+      "catalogId": "0158",
+      "file": "0158_Augustin_Catechisme.md",
+      "title": "Augustin Catechisme",
+      "originals": "0158",
+      "originalNumbers": [
+        "0158"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 23252,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0175_Augustin_du_symbole",
+      "contentFile": "data/documents/2e91abc24392f1ea2b.js",
+      "catalogId": "0175",
+      "file": "0175_Augustin_du_symbole.md",
+      "title": "Augustin du symbole",
+      "originals": "0175",
+      "originalNumbers": [
+        "0175"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 7141,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0221_CRISOSTOMO_SACERDOCIO",
+      "contentFile": "data/documents/a7e920a011f7e13eb3.js",
+      "catalogId": "0221",
+      "file": "0221_CRISOSTOMO_SACERDOCIO.md",
+      "title": "CRISOSTOMO SACERDOCIO",
+      "originals": "0221",
+      "originalNumbers": [
+        "0221"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 36096,
+      "author": "San Juan Crisóstomo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0222_Crisostomo_Ev_Juan",
+      "contentFile": "data/documents/4b84485b1d0cb07a60.js",
+      "catalogId": "0222",
+      "file": "0222_Crisostomo_Ev_Juan.md",
+      "title": "Crisostomo Ev Juan",
+      "originals": "0222",
+      "originalNumbers": [
+        "0222"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 277982,
+      "author": "San Juan Crisóstomo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0223_Crisostomo_Mateo",
+      "contentFile": "data/documents/8e0e989b54f3b62427.js",
+      "catalogId": "0223",
+      "file": "0223_Crisostomo_Mateo.md",
+      "title": "Crisostomo Mateo",
+      "originals": "0223",
+      "originalNumbers": [
+        "0223"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 412718,
+      "author": "San Juan Crisóstomo",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0233_Ireneo_Contra_herejes",
+      "contentFile": "data/documents/1ac9d831b5bec05eec.js",
+      "catalogId": "0233",
+      "file": "0233_Ireneo_Contra_herejes.md",
+      "title": "Ireneo Contra herejes",
+      "originals": "0233",
+      "originalNumbers": [
+        "0233"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 216371,
+      "author": "San Ireneo de Lyon",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0234_Cipriano_ES",
+      "contentFile": "data/documents/63327b04f06d10306f.js",
+      "catalogId": "0234",
+      "file": "0234_Cipriano_ES.md",
+      "title": "Cipriano",
+      "originals": "0234",
+      "originalNumbers": [
+        "0234"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 11058,
+      "author": "San Cipriano",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0235_Ireneo_Epideixis",
+      "contentFile": "data/documents/fa9783ae685f5791a1.js",
+      "catalogId": "0235",
+      "file": "0235_Ireneo_Epideixis.md",
+      "title": "Ireneo Epideixis",
+      "originals": "0235",
+      "originalNumbers": [
+        "0235"
+      ],
+      "category": "Patrística / fuente eclesiástica antigua",
+      "words": 19721,
+      "author": "San Ireneo de Lyon",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Padre de la Iglesia / fuente antigua",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0298_Missale_Romanum_1957",
+      "contentFile": "data/documents/a5bce07ae9c5d866d8.js",
+      "catalogId": "0298",
+      "file": "0298_Missale_Romanum_1957.md",
+      "title": "Missale Romanum 1957",
+      "originals": "0298",
+      "originalNumbers": [
+        "0298"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 379863,
+      "author": null,
+      "year": 1957,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "historical",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0299_Ordo_Lectionnaire_Missel",
+      "contentFile": "data/documents/13d12785528d7e3645.js",
+      "catalogId": "0299",
+      "file": "0299_Ordo_Lectionnaire_Missel.md",
+      "title": "Ordo Lectionnaire Missel",
+      "originals": "0299",
+      "originalNumbers": [
+        "0299"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 29247,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0300_ORDO_MISSAE",
+      "contentFile": "data/documents/fef75264a4749c8e72.js",
+      "catalogId": "0300",
+      "file": "0300_ORDO_MISSAE.md",
+      "title": "ORDO MISSAE",
+      "originals": "0300",
+      "originalNumbers": [
+        "0300"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 3413,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0301_Missale_Romanum_2002",
+      "contentFile": "data/documents/f67a3b8f51ac391239.js",
+      "catalogId": "0301",
+      "file": "0301_Missale_Romanum_2002.md",
+      "title": "Missale Romanum 2002",
+      "originals": "0301",
+      "originalNumbers": [
+        "0301"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 188717,
+      "author": null,
+      "year": 2002,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0302_Ordenacion_general_Liturgia_Horas_ES",
+      "contentFile": "data/documents/a564268747156eccb7.js",
+      "catalogId": "0302",
+      "file": "0302_Ordenacion_general_Liturgia_Horas_ES.md",
+      "title": "Ordenacion general Liturgia Horas",
+      "originals": "0302",
+      "originalNumbers": [
+        "0302"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 21307,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0303_Ordo_Initiationis_Christianae",
+      "contentFile": "data/documents/a1be757bc720913be4.js",
+      "catalogId": "0303",
+      "file": "0303_Ordo_Initiationis_Christianae.md",
+      "title": "Ordo Initiationis Christianae",
+      "originals": "0303",
+      "originalNumbers": [
+        "0303"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 20130,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0304_Pontificalis",
+      "contentFile": "data/documents/350d0c810e211984f3.js",
+      "catalogId": "0304",
+      "file": "0304_Pontificalis.md",
+      "title": "Pontificalis",
+      "originals": "0304",
+      "originalNumbers": [
+        "0304"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 53506,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0305_De_ordinatione_presbyterorum_1990",
+      "contentFile": "data/documents/07f1c2d033c5434eb6.js",
+      "catalogId": "0305",
+      "file": "0305_De_ordinatione_presbyterorum_1990.md",
+      "title": "De ordinatione presbyterorum 1990",
+      "originals": "0305",
+      "originalNumbers": [
+        "0305"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 3924,
+      "author": null,
+      "year": 1990,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0306_Suma_Teologica_I",
+      "contentFile": "data/documents/c0cd3829b861200a1f.js",
+      "catalogId": "0306",
+      "file": "0306_Suma_Teologica_I.md",
+      "title": "Suma Teologica I",
+      "originals": "0306",
+      "originalNumbers": [
+        "0306"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 401733,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0307_Suma_Teologica_I_II_parte_01",
+      "contentFile": "data/documents/f6ee1d7e603ff7b11c.js",
+      "catalogId": "0307",
+      "file": "0307_Suma_Teologica_I_II_parte_01.md",
+      "title": "Suma Teologica I II",
+      "originals": "0307",
+      "originalNumbers": [
+        "0307"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 433585,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0307_Suma_Teologica_I_II_parte_02",
+      "contentFile": "data/documents/3fcab802f4e1ed1e87.js",
+      "catalogId": "0307",
+      "file": "0307_Suma_Teologica_I_II_parte_02.md",
+      "title": "Suma Teologica I II",
+      "originals": "0307",
+      "originalNumbers": [
+        "0307"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 66843,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0309_Suma_Teologica_III",
+      "contentFile": "data/documents/5fe08a6aaab8198a77.js",
+      "catalogId": "0309",
+      "file": "0309_Suma_Teologica_III.md",
+      "title": "Suma Teologica III",
+      "originals": "0309",
+      "originalNumbers": [
+        "0309"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 357270,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0310_Summa_Contra_Gentiles",
+      "contentFile": "data/documents/11f85f9f36b825537c.js",
+      "catalogId": "0310",
+      "file": "0310_Summa_Contra_Gentiles.md",
+      "title": "Summa Contra Gentiles",
+      "originals": "0310",
+      "originalNumbers": [
+        "0310"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 218134,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0311_COMPENDIO_DE_TEOLOGIA",
+      "contentFile": "data/documents/80d698d07a752a0637.js",
+      "catalogId": "0311",
+      "file": "0311_COMPENDIO_DE_TEOLOGIA.md",
+      "title": "COMPENDIO DE TEOLOGIA",
+      "originals": "0311",
+      "originalNumbers": [
+        "0311"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 101174,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0314_Catena_aurea_ES_parte_01",
+      "contentFile": "data/documents/51d07823577aedf411.js",
+      "catalogId": "0314",
+      "file": "0314_Catena_aurea_ES_parte_01.md",
+      "title": "Catena aurea",
+      "originals": "0314",
+      "originalNumbers": [
+        "0314"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 437862,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0314_Catena_aurea_ES_parte_02",
+      "contentFile": "data/documents/b6bf393d5d3be144c4.js",
+      "catalogId": "0314",
+      "file": "0314_Catena_aurea_ES_parte_02.md",
+      "title": "Catena aurea",
+      "originals": "0314",
+      "originalNumbers": [
+        "0314"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 438685,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0314_Catena_aurea_ES_parte_03",
+      "contentFile": "data/documents/e040c8583a04e0ee79.js",
+      "catalogId": "0314",
+      "file": "0314_Catena_aurea_ES_parte_03.md",
+      "title": "Catena aurea",
+      "originals": "0314",
+      "originalNumbers": [
+        "0314"
+      ],
+      "category": "Teología — Santo Tomás",
+      "words": 247485,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Teología",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0330_TRENTO",
+      "contentFile": "data/documents/56f9a920edd7f8c1c8.js",
+      "catalogId": "0330",
+      "file": "0330_TRENTO.md",
+      "title": "TRENTO",
+      "originals": "0330",
+      "originalNumbers": [
+        "0330"
+      ],
+      "category": "Concilio",
+      "words": 84942,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Concilio",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0332_Denzinger_parte_01",
+      "contentFile": "data/documents/6cfa039adba2ccaa99.js",
+      "catalogId": "0332",
+      "file": "0332_Denzinger_parte_01.md",
+      "title": "Denzinger",
+      "originals": "0332",
+      "originalNumbers": [
+        "0332"
+      ],
+      "category": "Repertorio documental magisterial",
+      "words": 139134,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0332_Denzinger_parte_02",
+      "contentFile": "data/documents/4d2f78e230b8926114.js",
+      "catalogId": "0332",
+      "file": "0332_Denzinger_parte_02.md",
+      "title": "Denzinger",
+      "originals": "0332",
+      "originalNumbers": [
+        "0332"
+      ],
+      "category": "Repertorio documental magisterial",
+      "words": 139608,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0332_Denzinger_parte_03",
+      "contentFile": "data/documents/7a134bc51f7818828e.js",
+      "catalogId": "0332",
+      "file": "0332_Denzinger_parte_03.md",
+      "title": "Denzinger",
+      "originals": "0332",
+      "originalNumbers": [
+        "0332"
+      ],
+      "category": "Repertorio documental magisterial",
+      "words": 26590,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0337_Deus_caritas_est_ES",
+      "contentFile": "data/documents/b603e16d76486e2549.js",
+      "catalogId": "0337",
+      "file": "0337_Deus_caritas_est_ES.md",
+      "title": "Deus caritas est",
+      "originals": "0337",
+      "originalNumbers": [
+        "0337"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 16854,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0351_Ecclesia_de_Eucharistia_ES",
+      "contentFile": "data/documents/23435144b36c1dc481.js",
+      "catalogId": "0351",
+      "file": "0351_Ecclesia_de_Eucharistia_ES.md",
+      "title": "Ecclesia de Eucharistia",
+      "originals": "0351",
+      "originalNumbers": [
+        "0351"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 17150,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0353_Humanae_Vitae_ES",
+      "contentFile": "data/documents/9730438ccf63a85df6.js",
+      "catalogId": "0353",
+      "file": "0353_Humanae_Vitae_ES.md",
+      "title": "Humanae Vitae",
+      "originals": "0353",
+      "originalNumbers": [
+        "0353"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 7083,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0354_Mysterium_Fidei_ES",
+      "contentFile": "data/documents/496bf021dab9be7237.js",
+      "catalogId": "0354",
+      "file": "0354_Mysterium_Fidei_ES.md",
+      "title": "Mysterium Fidei",
+      "originals": "0354",
+      "originalNumbers": [
+        "0354"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 5305,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0389_Sacramentum_caritatis_ES",
+      "contentFile": "data/documents/5d4b47280092a4ea0f.js",
+      "catalogId": "0389",
+      "file": "0389_Sacramentum_caritatis_ES.md",
+      "title": "Sacramentum caritatis",
+      "originals": "0389",
+      "originalNumbers": [
+        "0389"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 32434,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0393_Familiaris_consortio_ES",
+      "contentFile": "data/documents/7f874d88547cbefa82.js",
+      "catalogId": "0393",
+      "file": "0393_Familiaris_consortio_ES.md",
+      "title": "Familiaris consortio",
+      "originals": "0393",
+      "originalNumbers": [
+        "0393"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 36330,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0394_Reconciliatio_et_paenitentia_ES",
+      "contentFile": "data/documents/d640660f408dbf6671.js",
+      "catalogId": "0394",
+      "file": "0394_Reconciliatio_et_paenitentia_ES.md",
+      "title": "Reconciliatio et paenitentia",
+      "originals": "0394",
+      "originalNumbers": [
+        "0394"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 31514,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0395_Pastores_dabo_vobis_ES",
+      "contentFile": "data/documents/e9008fc06900cb5926.js",
+      "catalogId": "0395",
+      "file": "0395_Pastores_dabo_vobis_ES.md",
+      "title": "Pastores dabo vobis",
+      "originals": "0395",
+      "originalNumbers": [
+        "0395"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 54825,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0405_Marialis_cultus_ES",
+      "contentFile": "data/documents/abef65e8abb13da365.js",
+      "catalogId": "0405",
+      "file": "0405_Marialis_cultus_ES.md",
+      "title": "Marialis cultus",
+      "originals": "0405",
+      "originalNumbers": [
+        "0405"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 18336,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0415_Rosarium_Virginis_Mariae_ES",
+      "contentFile": "data/documents/088293b653ad5f6be0.js",
+      "catalogId": "0415",
+      "file": "0415_Rosarium_Virginis_Mariae_ES.md",
+      "title": "Rosarium Virginis Mariae",
+      "originals": "0415",
+      "originalNumbers": [
+        "0415"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 13318,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0421_LA_DIES_DOMINI",
+      "contentFile": "data/documents/29b01166f1518acc61.js",
+      "catalogId": "0421",
+      "file": "0421_LA_DIES_DOMINI.md",
+      "title": "LA DIES DOMINI",
+      "originals": "0421",
+      "originalNumbers": [
+        "0421"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 18012,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0429_Catecismo_Romano_ES",
+      "contentFile": "data/documents/7f7f50f6b141b88788.js",
+      "catalogId": "0429",
+      "file": "0429_Catecismo_Romano_ES.md",
+      "title": "Catecismo Romano",
+      "originals": "0429",
+      "originalNumbers": [
+        "0429"
+      ],
+      "category": "Catecismo histórico",
+      "words": 266163,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "historical",
+      "authority": "Catecismo",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0430_Compendio_catecismo",
+      "contentFile": "data/documents/3b17d000639cd92e0c.js",
+      "catalogId": "0430",
+      "file": "0430_Compendio_catecismo.md",
+      "title": "Compendio catecismo",
+      "originals": "0430",
+      "originalNumbers": [
+        "0430"
+      ],
+      "category": "Catecismo vigente / síntesis autorizada",
+      "words": 52267,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Catecismo",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0431_Catecismo_S_Pio_X",
+      "contentFile": "data/documents/1035af93164eb50002.js",
+      "catalogId": "0431",
+      "file": "0431_Catecismo_S_Pio_X.md",
+      "title": "Catecismo S Pio X",
+      "originals": "0431",
+      "originalNumbers": [
+        "0431"
+      ],
+      "category": "Catecismo histórico",
+      "words": 69713,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "historical",
+      "authority": "Catecismo",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0541_1983_Codigo_de_Derecho_Canonico",
+      "contentFile": "data/documents/ff1120b433b0d61235.js",
+      "catalogId": "0541",
+      "file": "0541_1983_Codigo_de_Derecho_Canonico.md",
+      "title": "Codigo de Derecho Canonico",
+      "originals": "0541",
+      "originalNumbers": [
+        "0541"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 118874,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0549_Interpretationes_Authenticae",
+      "contentFile": "data/documents/35c004f7e68c1daed3.js",
+      "catalogId": "0549",
+      "file": "0549_Interpretationes_Authenticae.md",
+      "title": "Interpretationes Authenticae",
+      "originals": "0549",
+      "originalNumbers": [
+        "0549"
+      ],
+      "category": "Legislación o documentación jurídica",
+      "words": 3123,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Legislación o fuente canónica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0554_La_Eucaristia_y_los_divorciados",
+      "contentFile": "data/documents/cc2286e51f374dbdaf.js",
+      "catalogId": "0554",
+      "file": "0554_La_Eucaristia_y_los_divorciados.md",
+      "title": "La Eucaristia y los divorciados",
+      "originals": "0554",
+      "originalNumbers": [
+        "0554"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 2549,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0562_Congregacion_Culto_Divino_parte_01",
+      "contentFile": "data/documents/fda7a7d7ebc5eb2bb1.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_01.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 29643,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0562_Congregacion_Culto_Divino_parte_02",
+      "contentFile": "data/documents/64f69b68d57611d48b.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_02.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 59254,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0562_Congregacion_Culto_Divino_parte_03",
+      "contentFile": "data/documents/4676bdebaf46c0c4f2.js",
+      "catalogId": "0562",
+      "file": "0562_Congregacion_Culto_Divino_parte_03.md",
+      "title": "Congregacion Culto Divino",
+      "originals": "0562",
+      "originalNumbers": [
+        "0562"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 24577,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0563_Liturgiam_authenticam",
+      "contentFile": "data/documents/f245366d3041794e98.js",
+      "catalogId": "0563",
+      "file": "0563_Liturgiam_authenticam.md",
+      "title": "Liturgiam authenticam",
+      "originals": "0563",
+      "originalNumbers": [
+        "0563"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 18985,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0564_Summa_Decretorum_de_SSmo_Sacramento",
+      "contentFile": "data/documents/6ee917ae22c4c17cfa.js",
+      "catalogId": "0564",
+      "file": "0564_Summa_Decretorum_de_SSmo_Sacramento.md",
+      "title": "Summa Decretorum de SSmo Sacramento",
+      "originals": "0564",
+      "originalNumbers": [
+        "0564"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 2690,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0567_Directorio_presbiteros",
+      "contentFile": "data/documents/715ebb8fdd5da177a2.js",
+      "catalogId": "0567",
+      "file": "0567_Directorio_presbiteros.md",
+      "title": "Directorio presbiteros",
+      "originals": "0567",
+      "originalNumbers": [
+        "0567"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 30949,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0568_1998_Diacres_Normes_Fondamentales",
+      "contentFile": "data/documents/9b2e334527f5210929.js",
+      "catalogId": "0568",
+      "file": "0568_1998_Diacres_Normes_Fondamentales.md",
+      "title": "Diacres Normes Fondamentales",
+      "originals": "0568",
+      "originalNumbers": [
+        "0568"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 3297,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0571_1998_Directoire_Diacres",
+      "contentFile": "data/documents/265a442da5e30e473f.js",
+      "catalogId": "0571",
+      "file": "0571_1998_Directoire_Diacres.md",
+      "title": "Directoire Diacres",
+      "originals": "0571",
+      "originalNumbers": [
+        "0571"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 20463,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0573_1998_Formation_des_Diacres",
+      "contentFile": "data/documents/e751661d234547986d.js",
+      "catalogId": "0573",
+      "file": "0573_1998_Formation_des_Diacres.md",
+      "title": "Formation des Diacres",
+      "originals": "0573",
+      "originalNumbers": [
+        "0573"
+      ],
+      "category": "Magisterio / documento eclesial",
+      "words": 13504,
+      "author": null,
+      "year": null,
+      "language": "Latín o francés (el índice no distingue)",
+      "status": "not-stated",
+      "authority": "Magisterio / documento eclesial",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    },
+    {
+      "id": "liturgy-0577_1986_MANUAL_DE_INDULGENCIAS",
+      "contentFile": "data/documents/95bd08846637670bab.js",
+      "catalogId": "0577",
+      "file": "0577_1986_MANUAL_DE_INDULGENCIAS.md",
+      "title": "MANUAL DE INDULGENCIAS",
+      "originals": "0577",
+      "originalNumbers": [
+        "0577"
+      ],
+      "category": "Libro o normativa litúrgica",
+      "words": 24598,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Libro o fuente litúrgica",
+      "libraryId": "liturgy",
+      "source": "0000_Indice_y_mapa_de_fuentes.md"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Magisterio / documento eclesial",
+      "count": 27
+    },
+    {
+      "name": "Patrística / fuente eclesiástica antigua",
+      "count": 25
+    },
+    {
+      "name": "Libro o normativa litúrgica",
+      "count": 14
+    },
+    {
+      "name": "Teología — Santo Tomás",
+      "count": 9
+    },
+    {
+      "name": "Sagrada Escritura",
+      "count": 7
+    },
+    {
+      "name": "Concilio",
+      "count": 6
+    },
+    {
+      "name": "Repertorio documental magisterial",
+      "count": 3
+    },
+    {
+      "name": "Catecismo histórico",
+      "count": 2
+    },
+    {
+      "name": "Catecismo vigente / síntesis autorizada",
+      "count": 2
+    },
+    {
+      "name": "Legislación o documentación jurídica",
+      "count": 2
+    }
+  ],
+  "authors": [
+    {
+      "name": "San Agustín",
+      "count": 14
+    },
+    {
+      "name": "Santo Tomás de Aquino",
+      "count": 6
+    },
+    {
+      "name": "San Juan Crisóstomo",
+      "count": 5
+    },
+    {
+      "name": "San Juan Pablo II",
+      "count": 3
+    },
+    {
+      "name": "Benedicto XVI",
+      "count": 2
+    },
+    {
+      "name": "San Ireneo de Lyon",
+      "count": 2
+    },
+    {
+      "name": "San Atanasio",
+      "count": 1
+    },
+    {
+      "name": "San Basilio",
+      "count": 1
+    },
+    {
+      "name": "San Cipriano",
+      "count": 1
+    },
+    {
+      "name": "San Cirilo",
+      "count": 1
+    },
+    {
+      "name": "San Ignacio de Antioquía",
+      "count": 1
+    },
+    {
+      "name": "San Policarpo",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "documents": 97,
+    "words": 12786551,
+    "categories": 10,
+    "authors": 12,
+    "historical": 3,
+    "incomplete": 1,
+    "foreignLanguage": 12,
+    "dated": 3
+  }
+}

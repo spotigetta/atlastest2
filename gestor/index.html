@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gestor Atlas</title>
+  <link rel="icon" href="/assets/icons/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,600;6..72,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="gestor.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/"><span>A</span><strong>Gestor Atlas<small>Base documental local</small></strong></a>
+    <div class="top-actions"><span id="server-state" class="state">Conectando…</span><button id="rebuild" class="primary">Actualizar Atlas</button><a href="/" class="button">Abrir Atlas</a></div>
+  </header>
+  <main>
+    <section id="summary" class="summary"></section>
+    <nav class="tabs">
+      <button class="active" data-tab="documents">Documentos</button>
+      <button data-tab="duplicates">Duplicados</button>
+      <button data-tab="libraries">Bibliotecas IA</button>
+      <button data-tab="shorts">Shorts y frases</button>
+      <button data-tab="external">Noticias y lecturas</button>
+    </nav>
+
+    <section class="panel active" data-panel="documents">
+      <div class="panel-head"><div><span class="eyebrow">Fuentes Markdown</span><h1>Añadir y revisar documentos</h1><p>El archivo se numera, renombra y valida antes de entrar en la carpeta de la IA.</p></div></div>
+      <div class="split">
+        <form id="upload-form" class="card form-card">
+          <h2>Nuevas fuentes</h2>
+          <label>Biblioteca<select id="upload-library" required></select></label>
+          <label>Archivos Markdown<input id="upload-file" type="file" accept=".md,text/markdown" multiple required></label>
+          <p class="field-help">Puedes seleccionar hasta 100 obras. Atlas toma el título del frontmatter o del nombre de cada archivo.</p>
+          <div id="upload-queue" class="upload-queue"></div>
+          <div class="form-row"><label>Categoría<input id="upload-category" value="Nuevos documentos"></label><label>Año<input id="upload-year" type="number" min="30" max="2100"></label></div>
+          <label>Autor<input id="upload-author" placeholder="Opcional"></label>
+          <label class="check"><input id="upload-force" type="checkbox"> Permitir aunque Atlas detecte un posible duplicado</label>
+          <button class="primary" type="submit">Incorporar el lote</button>
+          <div id="upload-result" class="result"></div>
+        </form>
+        <div class="card">
+          <div class="card-head"><div><h2>Archivos de la biblioteca</h2><p id="file-count"></p></div><select id="file-library"></select></div>
+          <input id="file-filter" class="filter" placeholder="Filtrar por título, categoría o archivo">
+          <div id="file-list" class="file-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" data-panel="duplicates">
+      <div class="panel-head"><div><span class="eyebrow">Control de calidad</span><h1>Posibles duplicados</h1><p>Compara títulos normalizados y contenidos exactamente iguales.</p></div><button id="scan-duplicates" class="primary">Analizar ahora</button></div>
+      <div id="duplicate-results" class="duplicate-grid"></div>
+    </section>
+
+    <section class="panel" data-panel="libraries">
+      <div class="panel-head"><div><span class="eyebrow">Modo administrador</span><h1>Administrar bibliotecas IA</h1><p>Crea, configura y elimina bibliotecas. Cada cambio se sincroniza con la carpeta y con todo Atlas.</p></div></div>
+      <div class="split">
+        <form id="library-form" class="card form-card"><h2>Nueva IA</h2>
+          <label>Nombre visible<input id="library-short" required placeholder="Ej. EspiritualIA"></label>
+          <label>Descripción<textarea id="library-description" rows="3"></textarea></label>
+          <label>Enlace de NotebookLM<input id="library-url" type="url" placeholder="Opcional"></label>
+          <div class="form-row"><label>Inicial<input id="library-mark" maxlength="2"></label><label>Color<select id="library-tone"><option>amber</option><option>blue</option><option>clay</option><option>violet</option><option>emerald</option><option>rose</option><option>indigo</option><option>gold</option><option>cyan</option><option>olive</option><option>burgundy</option><option>slate</option></select></label></div>
+          <button class="primary">Crear IA y carpeta</button><div id="library-result" class="result"></div>
+        </form>
+        <div>
+          <div class="admin-note"><strong>Control total, con confirmación</strong><span>Editar conserva el identificador y el nombre físico de la carpeta. Eliminar una IA borra también su carpeta y exige escribir su nombre completo.</span></div>
+          <div id="library-list" class="library-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" data-panel="shorts">
+      <div class="panel-head"><div><span class="eyebrow">Contenido editorial</span><h1>Shorts, frases y hechos</h1><p>Edita la base editorial como JSON. Los Shorts documentales se generan automáticamente.</p></div><button class="primary" data-save-editor="shorts">Guardar Shorts</button></div>
+      <textarea id="shorts-editor" class="json-editor" spellcheck="false"></textarea><div id="shorts-result" class="result"></div>
+    </section>
+
+    <section class="panel" data-panel="external">
+      <div class="panel-head"><div><span class="eyebrow">API editorial</span><h1>Noticias, oración y lecturas</h1><p>Añade URLs. Al actualizar, Atlas obtiene metadatos e imágenes y mezcla una selección en el feed.</p></div><div class="button-row"><button id="refresh-external" class="button">Consultar enlaces ahora</button><button class="primary" data-save-editor="external">Guardar base</button></div></div>
+      <textarea id="external-editor" class="json-editor" spellcheck="false"></textarea><div id="external-result" class="result"></div>
+    </section>
+  </main>
+  <div id="toast" class="toast" hidden></div>
+  <script src="gestor.js"></script>
+</body>
+</html>

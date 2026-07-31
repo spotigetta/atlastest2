@@ -1,0 +1,2058 @@
+{
+  "id": "ia-agora",
+  "folder": "05_IA_Agora",
+  "short": "IA_Agora",
+  "mark": "O",
+  "tone": "amber",
+  "notebookUrl": "https://notebook.google.com/notebook/030dd595-090f-4689-9c11-bdab02655cd6",
+  "description": "**OrtodoxIA**\nac\n*Una IA para comprender antes que discutir.* Explica las grandes cuestiones de la doctrina y la moral católica con un lenguaje cercano, razonado y lleno de imágenes, ayudando a descubrir la lógica interna de la fe antes de acudir a sus fuentes.",
+  "name": "IA_Agora",
+  "purpose": "",
+  "organization": "",
+  "topics": [],
+  "warnings": [],
+  "documents": [
+    {
+      "id": "ia-agora-0001_Instrucciones_de_uso_del_corpus",
+      "contentFile": "data/documents/694ba824f558fd114d.js",
+      "catalogId": "0001",
+      "file": "0001_Instrucciones_de_uso_del_corpus.md",
+      "title": "Instrucciones de uso del corpus IA Ágora",
+      "originals": "0001",
+      "originalNumbers": [
+        "0001"
+      ],
+      "category": "Nuevos documentos",
+      "words": 321,
+      "author": "Proyecto Mercabá",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0002_Pendientes_y_criterios_de_adquisicion",
+      "contentFile": "data/documents/942c51ebd1705b866a.js",
+      "catalogId": "0002",
+      "file": "0002_Pendientes_y_criterios_de_adquisicion.md",
+      "title": "Pendientes y criterios de adquisición de IA Ágora",
+      "originals": "0002",
+      "originalNumbers": [
+        "0002"
+      ],
+      "category": "Nuevos documentos",
+      "words": 235,
+      "author": "Proyecto Mercabá",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0077_Gaudium_et_spes_ES",
+      "contentFile": "data/documents/9e6a9b466358da358b.js",
+      "catalogId": "0077",
+      "file": "0077_Gaudium_et_spes_ES.md",
+      "title": "Gaudium et spes ES",
+      "originals": "0077",
+      "originalNumbers": [
+        "0077"
+      ],
+      "category": "Nuevos documentos",
+      "words": 34111,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0087_Dignitatis_humanae_ES",
+      "contentFile": "data/documents/f555a43896442ee68a.js",
+      "catalogId": "0087",
+      "file": "0087_Dignitatis_humanae_ES.md",
+      "title": "Dignitatis humanae ES",
+      "originals": "0087",
+      "originalNumbers": [
+        "0087"
+      ],
+      "category": "Nuevos documentos",
+      "words": 4906,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0091_Catecismo_Iglesia_Catol",
+      "contentFile": "data/documents/4dc08629c3f77c5961.js",
+      "catalogId": "0091",
+      "file": "0091_Catecismo_Iglesia_Catol.md",
+      "title": "Catecismo Iglesia Catól.",
+      "originals": "0091",
+      "originalNumbers": [
+        "0091"
+      ],
+      "category": "Nuevos documentos",
+      "words": 249744,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0146_Agustin_Confesiones",
+      "contentFile": "data/documents/f44fd3578df15f5f70.js",
+      "catalogId": "0146",
+      "file": "0146_Agustin_Confesiones.md",
+      "title": "Agustin - Confesiones",
+      "originals": "0146",
+      "originalNumbers": [
+        "0146"
+      ],
+      "category": "Nuevos documentos",
+      "words": 153100,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0159_Augustin_Cite_de_Dieu_parte_01",
+      "contentFile": "data/documents/3c7a23313ad3a3917c.js",
+      "catalogId": "0159",
+      "file": "0159_Augustin_Cite_de_Dieu_parte_01.md",
+      "title": "Augustin, Cité de Dieu — parte 1",
+      "originals": "0159",
+      "originalNumbers": [
+        "0159"
+      ],
+      "category": "Nuevos documentos",
+      "words": 399655,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0159_Augustin_Cite_de_Dieu_parte_02",
+      "contentFile": "data/documents/d40e045702be6f5dc2.js",
+      "catalogId": "0159",
+      "file": "0159_Augustin_Cite_de_Dieu_parte_02.md",
+      "title": "Augustin, Cité de Dieu — parte 2",
+      "originals": "0159",
+      "originalNumbers": [
+        "0159"
+      ],
+      "category": "Nuevos documentos",
+      "words": 27699,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0163_Augustin_du_libre_arbitre",
+      "contentFile": "data/documents/7ee55281df8f055abe.js",
+      "catalogId": "0163",
+      "file": "0163_Augustin_du_libre_arbitre.md",
+      "title": "Augustin, du libre arbitre",
+      "originals": "0163",
+      "originalNumbers": [
+        "0163"
+      ],
+      "category": "Nuevos documentos",
+      "words": 54804,
+      "author": "San Agustín",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0306_Suma_Teologica_I",
+      "contentFile": "data/documents/34f7723cbcdc40f989.js",
+      "catalogId": "0306",
+      "file": "0306_Suma_Teologica_I.md",
+      "title": "Suma Teológica I",
+      "originals": "0306",
+      "originalNumbers": [
+        "0306"
+      ],
+      "category": "Nuevos documentos",
+      "words": 400913,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0307_Suma_Teologica_I_II_parte_01",
+      "contentFile": "data/documents/032c13eb234f749d21.js",
+      "catalogId": "0307",
+      "file": "0307_Suma_Teologica_I_II_parte_01.md",
+      "title": "Suma Teológica I-II — parte 1",
+      "originals": "0307",
+      "originalNumbers": [
+        "0307"
+      ],
+      "category": "Nuevos documentos",
+      "words": 432585,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0307_Suma_Teologica_I_II_parte_02",
+      "contentFile": "data/documents/e1c124e152584ec6cd.js",
+      "catalogId": "0307",
+      "file": "0307_Suma_Teologica_I_II_parte_02.md",
+      "title": "Suma Teológica I-II — parte 2",
+      "originals": "0307",
+      "originalNumbers": [
+        "0307"
+      ],
+      "category": "Nuevos documentos",
+      "words": 66671,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0308_Suma_Teologica_II_II_parte_01",
+      "contentFile": "data/documents/c89d8cf5207735703d.js",
+      "catalogId": "0308",
+      "file": "0308_Suma_Teologica_II_II_parte_01.md",
+      "title": "Suma Teológica II-II — parte 1",
+      "originals": "0308",
+      "originalNumbers": [
+        "0308"
+      ],
+      "category": "Nuevos documentos",
+      "words": 432656,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0308_Suma_Teologica_II_II_parte_02",
+      "contentFile": "data/documents/502e8ee3bc977b70ac.js",
+      "catalogId": "0308",
+      "file": "0308_Suma_Teologica_II_II_parte_02.md",
+      "title": "Suma Teológica II-II — parte 2",
+      "originals": "0308",
+      "originalNumbers": [
+        "0308"
+      ],
+      "category": "Nuevos documentos",
+      "words": 255669,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0337_Deus_caritas_est_ES",
+      "contentFile": "data/documents/d256906af05550c34a.js",
+      "catalogId": "0337",
+      "file": "0337_Deus_caritas_est_ES.md",
+      "title": "Deus caritas est ES",
+      "originals": "0337",
+      "originalNumbers": [
+        "0337"
+      ],
+      "category": "Nuevos documentos",
+      "words": 16744,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0346_Evangelium_vitae_ES",
+      "contentFile": "data/documents/8433b5deba14321328.js",
+      "catalogId": "0346",
+      "file": "0346_Evangelium_vitae_ES.md",
+      "title": "Evangelium vitae ES",
+      "originals": "0346",
+      "originalNumbers": [
+        "0346"
+      ],
+      "category": "Nuevos documentos",
+      "words": 48645,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0348_Veritatis_splendor_ES",
+      "contentFile": "data/documents/1d4ee3efc24af4f9c2.js",
+      "catalogId": "0348",
+      "file": "0348_Veritatis_splendor_ES.md",
+      "title": "Veritatis splendor ES",
+      "originals": "0348",
+      "originalNumbers": [
+        "0348"
+      ],
+      "category": "Nuevos documentos",
+      "words": 45717,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0353_Humanae_Vitae_ES",
+      "contentFile": "data/documents/48c408dccef7223371.js",
+      "catalogId": "0353",
+      "file": "0353_Humanae_Vitae_ES.md",
+      "title": "Humanae Vitae ES",
+      "originals": "0353",
+      "originalNumbers": [
+        "0353"
+      ],
+      "category": "Nuevos documentos",
+      "words": 6984,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0393_Familiaris_consortio_ES",
+      "contentFile": "data/documents/0b3c037415e85c7695.js",
+      "catalogId": "0393",
+      "file": "0393_Familiaris_consortio_ES.md",
+      "title": "Familiaris consortio ES",
+      "originals": "0393",
+      "originalNumbers": [
+        "0393"
+      ],
+      "category": "Nuevos documentos",
+      "words": 36177,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0410_Mulieris_dignitatem",
+      "contentFile": "data/documents/304f45a0957722f1ad.js",
+      "catalogId": "0410",
+      "file": "0410_Mulieris_dignitatem.md",
+      "title": "Mulieris dignitatem",
+      "originals": "0410",
+      "originalNumbers": [
+        "0410"
+      ],
+      "category": "Nuevos documentos",
+      "words": 24070,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0411_Carta_a_las_Familias",
+      "contentFile": "data/documents/aa4ccdedb90dd90ed5.js",
+      "catalogId": "0411",
+      "file": "0411_Carta_a_las_Familias.md",
+      "title": "Carta a las Familias",
+      "originals": "0411",
+      "originalNumbers": [
+        "0411"
+      ],
+      "category": "Nuevos documentos",
+      "words": 27773,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0430_Compendio_catecismo",
+      "contentFile": "data/documents/2affe03250bd4d7e15.js",
+      "catalogId": "0430",
+      "file": "0430_Compendio_catecismo.md",
+      "title": "Compendio catecismo",
+      "originals": "0430",
+      "originalNumbers": [
+        "0430"
+      ],
+      "category": "Nuevos documentos",
+      "words": 51505,
+      "author": null,
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0700_Dignitas_infinita_ES",
+      "contentFile": "data/documents/8b68902eac7c2a5964.js",
+      "catalogId": "0700",
+      "file": "0700_Dignitas_infinita_ES.md",
+      "title": "Dignitas infinita",
+      "originals": "0700",
+      "originalNumbers": [
+        "0700"
+      ],
+      "category": "Nuevos documentos",
+      "words": 16980,
+      "author": "Dicasterio para la Doctrina de la Fe",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0704_Dignitas_personae_ES",
+      "contentFile": "data/documents/050ce0089051136f23.js",
+      "catalogId": "0704",
+      "file": "0704_Dignitas_personae_ES.md",
+      "title": "Dignitas personae",
+      "originals": "0704",
+      "originalNumbers": [
+        "0704"
+      ],
+      "category": "Nuevos documentos",
+      "words": 11849,
+      "author": "Congregación para la Doctrina de la Fe",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0709_Amoris_laetitia_ES",
+      "contentFile": "data/documents/bccd3da03b238d1543.js",
+      "catalogId": "0709",
+      "file": "0709_Amoris_laetitia_ES.md",
+      "title": "Amoris laetitia",
+      "originals": "0709",
+      "originalNumbers": [
+        "0709"
+      ],
+      "category": "Nuevos documentos",
+      "words": 56316,
+      "author": "Francisco",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0723_En_busca_de_una_etica_universal_ES",
+      "contentFile": "data/documents/a2a68d1338c1a3d17f.js",
+      "catalogId": "0723",
+      "file": "0723_En_busca_de_una_etica_universal_ES.md",
+      "title": "En busca de una ética universal",
+      "originals": "0723",
+      "originalNumbers": [
+        "0723"
+      ],
+      "category": "Nuevos documentos",
+      "words": 30628,
+      "author": "Comisión Teológica Internacional",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-0732_Biblia_y_moral_ES",
+      "contentFile": "data/documents/3dbb18e1cdac1c4ece.js",
+      "catalogId": "0732",
+      "file": "0732_Biblia_y_moral_ES.md",
+      "title": "Biblia y moral",
+      "originals": "0732",
+      "originalNumbers": [
+        "0732"
+      ],
+      "category": "Nuevos documentos",
+      "words": 62381,
+      "author": "Pontificia Comisión Bíblica",
+      "year": null,
+      "language": null,
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1100_Persona_humana_ES",
+      "contentFile": "data/documents/9ae91f9a21d8d96c5c.js",
+      "catalogId": "1100",
+      "file": "1100_Persona_humana_ES.md",
+      "title": "Persona humana: declaración acerca de ciertas cuestiones de ética sexual",
+      "originals": "1100",
+      "originalNumbers": [
+        "1100"
+      ],
+      "category": "Nuevos documentos",
+      "words": 6258,
+      "author": "Sagrada Congregación para la Doctrina de la Fe",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1101_Sexualidad_humana_verdad_y_significado_ES",
+      "contentFile": "data/documents/391688ed3c43cdcba7.js",
+      "catalogId": "1101",
+      "file": "1101_Sexualidad_humana_verdad_y_significado_ES.md",
+      "title": "Sexualidad humana: verdad y significado",
+      "originals": "1101",
+      "originalNumbers": [
+        "1101"
+      ],
+      "category": "Nuevos documentos",
+      "words": 22780,
+      "author": "Pontificio Consejo para la Familia",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1102_Consideraciones_uniones_homosexuales_ES",
+      "contentFile": "data/documents/3017f65e773ada904d.js",
+      "catalogId": "1102",
+      "file": "1102_Consideraciones_uniones_homosexuales_ES.md",
+      "title": "Consideraciones acerca de los proyectos de reconocimiento legal de las uniones entre personas homosexuales",
+      "originals": "1102",
+      "originalNumbers": [
+        "1102"
+      ],
+      "category": "Nuevos documentos",
+      "words": 3529,
+      "author": "Congregación para la Doctrina de la Fe",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1103_Familia_matrimonio_y_uniones_de_hecho_ES",
+      "contentFile": "data/documents/be7d64d43811024e58.js",
+      "catalogId": "1103",
+      "file": "1103_Familia_matrimonio_y_uniones_de_hecho_ES.md",
+      "title": "Familia, matrimonio y \\\"uniones de hecho\\\"",
+      "originals": "1103",
+      "originalNumbers": [
+        "1103"
+      ],
+      "category": "Nuevos documentos",
+      "words": 17056,
+      "author": "Pontificio Consejo para la Familia",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1110_Chesterton_Orthodoxy_EN",
+      "contentFile": "data/documents/9bbc649727eeb9f3c4.js",
+      "catalogId": "1110",
+      "file": "1110_Chesterton_Orthodoxy_EN.md",
+      "title": "Orthodoxy",
+      "originals": "1110",
+      "originalNumbers": [
+        "1110"
+      ],
+      "category": "Nuevos documentos",
+      "words": 66918,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1111_Chesterton_Heretics_EN",
+      "contentFile": "data/documents/a8f696ab88eba91b49.js",
+      "catalogId": "1111",
+      "file": "1111_Chesterton_Heretics_EN.md",
+      "title": "Heretics",
+      "originals": "1111",
+      "originalNumbers": [
+        "1111"
+      ],
+      "category": "Nuevos documentos",
+      "words": 67966,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1112_Chesterton_Whats_Wrong_with_the_World_EN",
+      "contentFile": "data/documents/6c3c00307f66566a67.js",
+      "catalogId": "1112",
+      "file": "1112_Chesterton_Whats_Wrong_with_the_World_EN.md",
+      "title": "What's Wrong with the World",
+      "originals": "1112",
+      "originalNumbers": [
+        "1112"
+      ],
+      "category": "Nuevos documentos",
+      "words": 63307,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1113_Chesterton_The_Everlasting_Man_EN",
+      "contentFile": "data/documents/9610c71cbeecec737a.js",
+      "catalogId": "1113",
+      "file": "1113_Chesterton_The_Everlasting_Man_EN.md",
+      "title": "The Everlasting Man",
+      "originals": "1113",
+      "originalNumbers": [
+        "1113"
+      ],
+      "category": "Nuevos documentos",
+      "words": 110360,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1114_Chesterton_The_Superstition_of_Divorce_EN",
+      "contentFile": "data/documents/4a5cee58a2b6a1554a.js",
+      "catalogId": "1114",
+      "file": "1114_Chesterton_The_Superstition_of_Divorce_EN.md",
+      "title": "The Superstition of Divorce",
+      "originals": "1114",
+      "originalNumbers": [
+        "1114"
+      ],
+      "category": "Nuevos documentos",
+      "words": 27451,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1115_Chesterton_Divorce_versus_Democracy_EN",
+      "contentFile": "data/documents/d8a5e2880421ddad88.js",
+      "catalogId": "1115",
+      "file": "1115_Chesterton_Divorce_versus_Democracy_EN.md",
+      "title": "Divorce versus Democracy",
+      "originals": "1115",
+      "originalNumbers": [
+        "1115"
+      ],
+      "category": "Nuevos documentos",
+      "words": 7182,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1116_Chesterton_Eugenics_and_Other_Evils_EN",
+      "contentFile": "data/documents/d7e9cd004c3ad5c4b5.js",
+      "catalogId": "1116",
+      "file": "1116_Chesterton_Eugenics_and_Other_Evils_EN.md",
+      "title": "Eugenics and Other Evils",
+      "originals": "1116",
+      "originalNumbers": [
+        "1116"
+      ],
+      "category": "Nuevos documentos",
+      "words": 52185,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1117_Chesterton_All_Things_Considered_EN",
+      "contentFile": "data/documents/7811ba1623b7eb1bd3.js",
+      "catalogId": "1117",
+      "file": "1117_Chesterton_All_Things_Considered_EN.md",
+      "title": "All Things Considered",
+      "originals": "1117",
+      "originalNumbers": [
+        "1117"
+      ],
+      "category": "Nuevos documentos",
+      "words": 62911,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1118_Chesterton_Tremendous_Trifles_EN",
+      "contentFile": "data/documents/f6769d34b125a146a5.js",
+      "catalogId": "1118",
+      "file": "1118_Chesterton_Tremendous_Trifles_EN.md",
+      "title": "Tremendous Trifles",
+      "originals": "1118",
+      "originalNumbers": [
+        "1118"
+      ],
+      "category": "Nuevos documentos",
+      "words": 59211,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1119_Chesterton_The_Defendant_EN",
+      "contentFile": "data/documents/bb92deeaa5dcd44ac6.js",
+      "catalogId": "1119",
+      "file": "1119_Chesterton_The_Defendant_EN.md",
+      "title": "The Defendant",
+      "originals": "1119",
+      "originalNumbers": [
+        "1119"
+      ],
+      "category": "Nuevos documentos",
+      "words": 30038,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1120_Chesterton_The_Ball_and_the_Cross_EN",
+      "contentFile": "data/documents/91d3086484f42d07d8.js",
+      "catalogId": "1120",
+      "file": "1120_Chesterton_The_Ball_and_the_Cross_EN.md",
+      "title": "The Ball and the Cross",
+      "originals": "1120",
+      "originalNumbers": [
+        "1120"
+      ],
+      "category": "Nuevos documentos",
+      "words": 82925,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1121_Chesterton_The_Man_Who_Was_Thursday_EN",
+      "contentFile": "data/documents/47798751a10171bff5.js",
+      "catalogId": "1121",
+      "file": "1121_Chesterton_The_Man_Who_Was_Thursday_EN.md",
+      "title": "The Man Who Was Thursday: A Nightmare",
+      "originals": "1121",
+      "originalNumbers": [
+        "1121"
+      ],
+      "category": "Nuevos documentos",
+      "words": 61442,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1122_Chesterton_St_Thomas_Aquinas_EN",
+      "contentFile": "data/documents/706027ffea1b721213.js",
+      "catalogId": "1122",
+      "file": "1122_Chesterton_St_Thomas_Aquinas_EN.md",
+      "title": "St. Thomas Aquinas",
+      "originals": "1122",
+      "originalNumbers": [
+        "1122"
+      ],
+      "category": "Nuevos documentos",
+      "words": 54328,
+      "author": "G. K. Chesterton",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1123_Chesterton_St_Francis_of_Assisi_EN",
+      "contentFile": "data/documents/55feb8b6bb2c6a7c5f.js",
+      "catalogId": "1123",
+      "file": "1123_Chesterton_St_Francis_of_Assisi_EN.md",
+      "title": "St. Francis of Assisi",
+      "originals": "1123",
+      "originalNumbers": [
+        "1123"
+      ],
+      "category": "Nuevos documentos",
+      "words": 47432,
+      "author": "Chesterton, G. K. (Gilbert Keith)",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1130_Newman_Development_of_Christian_Doctrine_EN",
+      "contentFile": "data/documents/2ed14ab03393b971bc.js",
+      "catalogId": "1130",
+      "file": "1130_Newman_Development_of_Christian_Doctrine_EN.md",
+      "title": "An Essay on the Development of Christian Doctrine",
+      "originals": "1130",
+      "originalNumbers": [
+        "1130"
+      ],
+      "category": "Nuevos documentos",
+      "words": 141313,
+      "author": "Newman, John Henry",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1131_Newman_Apologia_pro_vita_sua_EN",
+      "contentFile": "data/documents/e345221e45db81c9eb.js",
+      "catalogId": "1131",
+      "file": "1131_Newman_Apologia_pro_vita_sua_EN.md",
+      "title": "Apologia pro vita sua",
+      "originals": "1131",
+      "originalNumbers": [
+        "1131"
+      ],
+      "category": "Nuevos documentos",
+      "words": 141336,
+      "author": "Newman, John Henry",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1132_Newman_Grammar_of_Assent_EN",
+      "contentFile": "data/documents/e6e7ab0f9b4db12af2.js",
+      "catalogId": "1132",
+      "file": "1132_Newman_Grammar_of_Assent_EN.md",
+      "title": "An Essay in Aid of a Grammar of Assent",
+      "originals": "1132",
+      "originalNumbers": [
+        "1132"
+      ],
+      "category": "Nuevos documentos",
+      "words": 138764,
+      "author": "Newman, John Henry",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1133_Newman_Letter_to_the_Duke_of_Norfolk_EN",
+      "contentFile": "data/documents/7211589ddade939d9c.js",
+      "catalogId": "1133",
+      "file": "1133_Newman_Letter_to_the_Duke_of_Norfolk_EN.md",
+      "title": "Letter to the Duke of Norfolk",
+      "originals": "1133",
+      "originalNumbers": [
+        "1133"
+      ],
+      "category": "Nuevos documentos",
+      "words": 27651,
+      "author": "John Henry Newman",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1134_Newman_The_Idea_of_a_University_EN",
+      "contentFile": "data/documents/c967fd3700945ada0b.js",
+      "catalogId": "1134",
+      "file": "1134_Newman_The_Idea_of_a_University_EN.md",
+      "title": "The Idea of a University Defined and Illustrated: In Nine Discourses Delivered to the Catholics of Dublin",
+      "originals": "1134",
+      "originalNumbers": [
+        "1134"
+      ],
+      "category": "Nuevos documentos",
+      "words": 162838,
+      "author": "Newman, John Henry",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1135_Newman_University_Sermons_EN",
+      "contentFile": "data/documents/b581a9afe3466d2422.js",
+      "catalogId": "1135",
+      "file": "1135_Newman_University_Sermons_EN.md",
+      "title": "Fifteen Sermons Preached Before the University of Oxford",
+      "originals": "1135",
+      "originalNumbers": [
+        "1135"
+      ],
+      "category": "Nuevos documentos",
+      "words": 108717,
+      "author": "John Henry Newman",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1136_Newman_Parochial_and_Plain_Sermons_EN",
+      "contentFile": "data/documents/e598d9811f447ef171.js",
+      "catalogId": "1136",
+      "file": "1136_Newman_Parochial_and_Plain_Sermons_EN.md",
+      "title": "Parochial and Plain Sermons, Vol. VII (of 8)",
+      "originals": "1136",
+      "originalNumbers": [
+        "1136"
+      ],
+      "category": "Nuevos documentos",
+      "words": 69586,
+      "author": "Newman, John Henry",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1150_Plato_Apology_EN",
+      "contentFile": "data/documents/a07d6423faedb3560f.js",
+      "catalogId": "1150",
+      "file": "1150_Plato_Apology_EN.md",
+      "title": "Apology",
+      "originals": "1150",
+      "originalNumbers": [
+        "1150"
+      ],
+      "category": "Nuevos documentos",
+      "words": 19328,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1151_Plato_Crito_EN",
+      "contentFile": "data/documents/cf37c1c7ca5c0cbc06.js",
+      "catalogId": "1151",
+      "file": "1151_Plato_Crito_EN.md",
+      "title": "Crito",
+      "originals": "1151",
+      "originalNumbers": [
+        "1151"
+      ],
+      "category": "Nuevos documentos",
+      "words": 9749,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1152_Plato_Gorgias_EN",
+      "contentFile": "data/documents/2127e4d0d82ef80cd3.js",
+      "catalogId": "1152",
+      "file": "1152_Plato_Gorgias_EN.md",
+      "title": "Gorgias",
+      "originals": "1152",
+      "originalNumbers": [
+        "1152"
+      ],
+      "category": "Nuevos documentos",
+      "words": 62711,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1153_Plato_Republic_EN",
+      "contentFile": "data/documents/5cfb70cc458fe82187.js",
+      "catalogId": "1153",
+      "file": "1153_Plato_Republic_EN.md",
+      "title": "The Republic",
+      "originals": "1153",
+      "originalNumbers": [
+        "1153"
+      ],
+      "category": "Nuevos documentos",
+      "words": 220288,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1154_Plato_Symposium_EN",
+      "contentFile": "data/documents/ac22c004cc335b44e0.js",
+      "catalogId": "1154",
+      "file": "1154_Plato_Symposium_EN.md",
+      "title": "Symposium",
+      "originals": "1154",
+      "originalNumbers": [
+        "1154"
+      ],
+      "category": "Nuevos documentos",
+      "words": 35863,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1155_Plato_Phaedrus_EN",
+      "contentFile": "data/documents/cf28a961f8b01aba6c.js",
+      "catalogId": "1155",
+      "file": "1155_Plato_Phaedrus_EN.md",
+      "title": "Phaedrus",
+      "originals": "1155",
+      "originalNumbers": [
+        "1155"
+      ],
+      "category": "Nuevos documentos",
+      "words": 41398,
+      "author": "Plato",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1160_Aristotle_Nicomachean_Ethics_EN",
+      "contentFile": "data/documents/3033033e963ee0b3c2.js",
+      "catalogId": "1160",
+      "file": "1160_Aristotle_Nicomachean_Ethics_EN.md",
+      "title": "The Nicomachean ethics of Aristotle",
+      "originals": "1160",
+      "originalNumbers": [
+        "1160"
+      ],
+      "category": "Nuevos documentos",
+      "words": 116810,
+      "author": "Aristotle",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1161_Aristotle_Politics_EN",
+      "contentFile": "data/documents/ce08c6a268c42922bf.js",
+      "catalogId": "1161",
+      "file": "1161_Aristotle_Politics_EN.md",
+      "title": "Politics: A Treatise on Government",
+      "originals": "1161",
+      "originalNumbers": [
+        "1161"
+      ],
+      "category": "Nuevos documentos",
+      "words": 105512,
+      "author": "Aristotle",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1162_Aristotle_Rhetoric_EN",
+      "contentFile": "data/documents/d06d8ef1bbd5ab1f62.js",
+      "catalogId": "1162",
+      "file": "1162_Aristotle_Rhetoric_EN.md",
+      "title": "A New Translation of Aristotle's Rhetoric",
+      "originals": "1162",
+      "originalNumbers": [
+        "1162"
+      ],
+      "category": "Nuevos documentos",
+      "words": 75789,
+      "author": "Aristotle; translated by John Gillies",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1163_Aristotle_On_the_Soul_EN",
+      "contentFile": "data/documents/52fad8417762927a5e.js",
+      "catalogId": "1163",
+      "file": "1163_Aristotle_On_the_Soul_EN.md",
+      "title": "The Treatises of Aristotle on the Soul",
+      "originals": "1163",
+      "originalNumbers": [
+        "1163"
+      ],
+      "category": "Nuevos documentos",
+      "words": 14261,
+      "author": "Aristotle; translated by Thomas Taylor",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1170_Cicero_De_Officiis_EN",
+      "contentFile": "data/documents/54ab80e708877e3a5e.js",
+      "catalogId": "1170",
+      "file": "1170_Cicero_De_Officiis_EN.md",
+      "title": "De Officiis",
+      "originals": "1170",
+      "originalNumbers": [
+        "1170"
+      ],
+      "category": "Nuevos documentos",
+      "words": 117901,
+      "author": "Cicero, Marcus Tullius",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1171_Cicero_De_Legibus_EN",
+      "contentFile": "data/documents/7d697baebadc54307a.js",
+      "catalogId": "1171",
+      "file": "1171_Cicero_De_Legibus_EN.md",
+      "title": "The Political Works of Marcus Tullius Cicero, Volume 2: Treatise on the Laws",
+      "originals": "1171",
+      "originalNumbers": [
+        "1171"
+      ],
+      "category": "Nuevos documentos",
+      "words": 70104,
+      "author": "Marcus Tullius Cicero; translated by Francis Barham",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1172_Cicero_De_Re_Publica_EN",
+      "contentFile": "data/documents/e926d037f8b9cf1284.js",
+      "catalogId": "1172",
+      "file": "1172_Cicero_De_Re_Publica_EN.md",
+      "title": "The republic of Cicero: Translated from the Latin; and Accompanied With a Critical and Historical Introduction.",
+      "originals": "1172",
+      "originalNumbers": [
+        "1172"
+      ],
+      "category": "Nuevos documentos",
+      "words": 37596,
+      "author": "Cicero, Marcus Tullius",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1173_Cicero_De_Amicitia_EN",
+      "contentFile": "data/documents/06113f51ced5f0ed92.js",
+      "catalogId": "1173",
+      "file": "1173_Cicero_De_Amicitia_EN.md",
+      "title": "De Amicitia, Scipio's Dream",
+      "originals": "1173",
+      "originalNumbers": [
+        "1173"
+      ],
+      "category": "Nuevos documentos",
+      "words": 30665,
+      "author": "Cicero, Marcus Tullius",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1174_Cicero_De_Finibus_EN",
+      "contentFile": "data/documents/36aad1c8eacda9cefa.js",
+      "catalogId": "1174",
+      "file": "1174_Cicero_De_Finibus_EN.md",
+      "title": "The Academic Questions, Treatise De Finibus, and Tusculan Disputations, of M.T. Cicero, With a Sketch of the Greek Philosophers Mentioned by Cicero",
+      "originals": "1174",
+      "originalNumbers": [
+        "1174"
+      ],
+      "category": "Nuevos documentos",
+      "words": 218294,
+      "author": "Cicero, Marcus Tullius",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1180_Belloc_The_Servile_State_EN",
+      "contentFile": "data/documents/9535c7df4f3166a48a.js",
+      "catalogId": "1180",
+      "file": "1180_Belloc_The_Servile_State_EN.md",
+      "title": "The Servile State",
+      "originals": "1180",
+      "originalNumbers": [
+        "1180"
+      ],
+      "category": "Nuevos documentos",
+      "words": 41736,
+      "author": "Belloc, Hilaire",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1181_Belloc_Europe_and_the_Faith_EN",
+      "contentFile": "data/documents/818f96feca1a66d97b.js",
+      "catalogId": "1181",
+      "file": "1181_Belloc_Europe_and_the_Faith_EN.md",
+      "title": "Europe and the Faith: \\\"Sine auctoritate nulla vita\\\"",
+      "originals": "1181",
+      "originalNumbers": [
+        "1181"
+      ],
+      "category": "Nuevos documentos",
+      "words": 71563,
+      "author": "Belloc, Hilaire",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1190_Benson_Lord_of_the_World_EN",
+      "contentFile": "data/documents/71ea46fb5ec81a4bfc.js",
+      "catalogId": "1190",
+      "file": "1190_Benson_Lord_of_the_World_EN.md",
+      "title": "Lord of the World",
+      "originals": "1190",
+      "originalNumbers": [
+        "1190"
+      ],
+      "category": "Nuevos documentos",
+      "words": 103332,
+      "author": "Benson, Robert Hugh",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1191_Benson_Come_Rack_Come_Rope_EN",
+      "contentFile": "data/documents/4df11423faf6039ca1.js",
+      "catalogId": "1191",
+      "file": "1191_Benson_Come_Rack_Come_Rope_EN.md",
+      "title": "Come Rack! Come Rope!",
+      "originals": "1191",
+      "originalNumbers": [
+        "1191"
+      ],
+      "category": "Nuevos documentos",
+      "words": 140697,
+      "author": "Benson, Robert Hugh",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1192_Benson_The_Friendship_of_Christ_EN",
+      "contentFile": "data/documents/b615dcefeb1a00d64c.js",
+      "catalogId": "1192",
+      "file": "1192_Benson_The_Friendship_of_Christ_EN.md",
+      "title": "The Friendship of Christ",
+      "originals": "1192",
+      "originalNumbers": [
+        "1192"
+      ],
+      "category": "Nuevos documentos",
+      "words": 42430,
+      "author": "Robert Hugh Benson",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1193_Benson_Confessions_of_a_Convert_EN",
+      "contentFile": "data/documents/086027365795c9809d.js",
+      "catalogId": "1193",
+      "file": "1193_Benson_Confessions_of_a_Convert_EN.md",
+      "title": "Confessions of a Convert",
+      "originals": "1193",
+      "originalNumbers": [
+        "1193"
+      ],
+      "category": "Nuevos documentos",
+      "words": 16089,
+      "author": "Robert Hugh Benson",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1200_Claves_para_comunicar_la_fe_ES",
+      "contentFile": "data/documents/d2c9d75c2c13249768.js",
+      "catalogId": "1200",
+      "file": "1200_Claves_para_comunicar_la_fe_ES.md",
+      "title": "Claves para comunicar la fe",
+      "originals": "1200",
+      "originalNumbers": [
+        "1200"
+      ],
+      "category": "Nuevos documentos",
+      "words": 9661,
+      "author": "Arguments / Catholic Voices",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1201_Guia_de_fuentes_contemporaneas_y_derechos_ES",
+      "contentFile": "data/documents/758450e986ab05c0ce.js",
+      "catalogId": "1201",
+      "file": "1201_Guia_de_fuentes_contemporaneas_y_derechos_ES.md",
+      "title": "Guía de fuentes contemporáneas, funciones y derechos para IA Ágora",
+      "originals": "1201",
+      "originalNumbers": [
+        "1201"
+      ],
+      "category": "Nuevos documentos",
+      "words": 892,
+      "author": "Proyecto Mercabá",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1202_Catholic_Voices_reframing_y_diez_principios_ES",
+      "contentFile": "data/documents/989113937e3962b1f3.js",
+      "catalogId": "1202",
+      "file": "1202_Catholic_Voices_reframing_y_diez_principios_ES.md",
+      "title": "Catholic Voices: reframing y diez principios de comunicación",
+      "originals": "1202",
+      "originalNumbers": [
+        "1202"
+      ],
+      "category": "Nuevos documentos",
+      "words": 266,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1203_Robert_Barron_y_Word_on_Fire_ES",
+      "contentFile": "data/documents/f50fe707013aad7569.js",
+      "catalogId": "1203",
+      "file": "1203_Robert_Barron_y_Word_on_Fire_ES.md",
+      "title": "Robert Barron y Word on Fire: deseo, belleza y moral positiva",
+      "originals": "1203",
+      "originalNumbers": [
+        "1203"
+      ],
+      "category": "Nuevos documentos",
+      "words": 232,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1204_Trent_Horn_metodo_de_respuesta_ES",
+      "contentFile": "data/documents/e1ef275783b84fa24a.js",
+      "catalogId": "1204",
+      "file": "1204_Trent_Horn_metodo_de_respuesta_ES.md",
+      "title": "Trent Horn: método de respuesta a objeciones difíciles",
+      "originals": "1204",
+      "originalNumbers": [
+        "1204"
+      ],
+      "category": "Nuevos documentos",
+      "words": 200,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1205_Christopher_West_teologia_del_cuerpo_ES",
+      "contentFile": "data/documents/eb1303655d072593db.js",
+      "catalogId": "1205",
+      "file": "1205_Christopher_West_teologia_del_cuerpo_ES.md",
+      "title": "Christopher West: divulgación de la teología del cuerpo",
+      "originals": "1205",
+      "originalNumbers": [
+        "1205"
+      ],
+      "category": "Nuevos documentos",
+      "words": 200,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1206_Jason_Evert_y_Chastity_Project_ES",
+      "contentFile": "data/documents/c93d3ae7d616988d62.js",
+      "catalogId": "1206",
+      "file": "1206_Jason_Evert_y_Chastity_Project_ES.md",
+      "title": "Jason Evert y Chastity Project: pedagogía juvenil de la castidad",
+      "originals": "1206",
+      "originalNumbers": [
+        "1206"
+      ],
+      "category": "Nuevos documentos",
+      "words": 193,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1207_Abigail_Favale_cuerpo_genero_y_lenguaje_ES",
+      "contentFile": "data/documents/482aa11baf47eb59bb.js",
+      "catalogId": "1207",
+      "file": "1207_Abigail_Favale_cuerpo_genero_y_lenguaje_ES.md",
+      "title": "Abigail Favale: cuerpo, sexo, género y lenguaje",
+      "originals": "1207",
+      "originalNumbers": [
+        "1207"
+      ],
+      "category": "Nuevos documentos",
+      "words": 201,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1208_Leah_Libresco_Sargeant_virtud_y_dependencia_ES",
+      "contentFile": "data/documents/dfbab7dd4d1aa33570.js",
+      "catalogId": "1208",
+      "file": "1208_Leah_Libresco_Sargeant_virtud_y_dependencia_ES.md",
+      "title": "Leah Libresco Sargeant: virtud, comunidad y dependencia",
+      "originals": "1208",
+      "originalNumbers": [
+        "1208"
+      ],
+      "category": "Nuevos documentos",
+      "words": 184,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1209_Eve_Tushnet_amistad_vocacion_y_pertenencia_ES",
+      "contentFile": "data/documents/da8bdd8aa7648ad751.js",
+      "catalogId": "1209",
+      "file": "1209_Eve_Tushnet_amistad_vocacion_y_pertenencia_ES.md",
+      "title": "Eve Tushnet: amistad, vocación y pertenencia",
+      "originals": "1209",
+      "originalNumbers": [
+        "1209"
+      ],
+      "category": "Nuevos documentos",
+      "words": 194,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1210_O_Carter_Snead_bioetica_y_vulnerabilidad_ES",
+      "contentFile": "data/documents/6f4793038da9c125ed.js",
+      "catalogId": "1210",
+      "file": "1210_O_Carter_Snead_bioetica_y_vulnerabilidad_ES.md",
+      "title": "O. Carter Snead: bioética, cuerpo y vulnerabilidad",
+      "originals": "1210",
+      "originalNumbers": [
+        "1210"
+      ],
+      "category": "Nuevos documentos",
+      "words": 183,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1211_Erika_Bachiochi_feminismo_y_familia_ES",
+      "contentFile": "data/documents/582fe490c081d25199.js",
+      "catalogId": "1211",
+      "file": "1211_Erika_Bachiochi_feminismo_y_familia_ES.md",
+      "title": "Erika Bachiochi: feminismo, maternidad y responsabilidad",
+      "originals": "1211",
+      "originalNumbers": [
+        "1211"
+      ],
+      "category": "Nuevos documentos",
+      "words": 199,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1212_Mary_Eberstadt_revolucion_sexual_y_familia_ES",
+      "contentFile": "data/documents/c744cd43fd7c7a417d.js",
+      "catalogId": "1212",
+      "file": "1212_Mary_Eberstadt_revolucion_sexual_y_familia_ES.md",
+      "title": "Mary Eberstadt: revolución sexual, familia e identidad",
+      "originals": "1212",
+      "originalNumbers": [
+        "1212"
+      ],
+      "category": "Nuevos documentos",
+      "words": 183,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1213_Nathaniel_Peters_y_Public_Discourse_ES",
+      "contentFile": "data/documents/c66a90a84de6e525a6.js",
+      "catalogId": "1213",
+      "file": "1213_Nathaniel_Peters_y_Public_Discourse_ES.md",
+      "title": "Nathaniel Peters y Public Discourse: significado e integridad sexual",
+      "originals": "1213",
+      "originalNumbers": [
+        "1213"
+      ],
+      "category": "Nuevos documentos",
+      "words": 214,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1214_Arguments_comunicacion_publica_de_la_fe_ES",
+      "contentFile": "data/documents/de2db742e274bf803a.js",
+      "catalogId": "1214",
+      "file": "1214_Arguments_comunicacion_publica_de_la_fe_ES.md",
+      "title": "Arguments: colección de comunicación pública de la fe",
+      "originals": "1214",
+      "originalNumbers": [
+        "1214"
+      ],
+      "category": "Nuevos documentos",
+      "words": 186,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1215_Aceprensa_familia_sexualidad_y_bioetica_ES",
+      "contentFile": "data/documents/1a6e757d4bb97bdb96.js",
+      "catalogId": "1215",
+      "file": "1215_Aceprensa_familia_sexualidad_y_bioetica_ES.md",
+      "title": "Aceprensa: familia, sexualidad y bioética en lenguaje periodístico",
+      "originals": "1215",
+      "originalNumbers": [
+        "1215"
+      ],
+      "category": "Nuevos documentos",
+      "words": 173,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1216_Omnes_entrevistas_de_familia_y_afectividad_ES",
+      "contentFile": "data/documents/99058b005803014ae4.js",
+      "catalogId": "1216",
+      "file": "1216_Omnes_entrevistas_de_familia_y_afectividad_ES.md",
+      "title": "Omnes: entrevistas sobre matrimonio, castidad y afectividad",
+      "originals": "1216",
+      "originalNumbers": [
+        "1216"
+      ],
+      "category": "Nuevos documentos",
+      "words": 172,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1217_Pablo_Blanco_Sarto_fe_razon_y_Benedicto_XVI_ES",
+      "contentFile": "data/documents/de8369e54ec9ace76d.js",
+      "catalogId": "1217",
+      "file": "1217_Pablo_Blanco_Sarto_fe_razon_y_Benedicto_XVI_ES.md",
+      "title": "Pablo Blanco Sarto: Benedicto XVI, fe, razón y cultura",
+      "originals": "1217",
+      "originalNumbers": [
+        "1217"
+      ],
+      "category": "Nuevos documentos",
+      "words": 197,
+      "author": "Benedicto XVI",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1218_Jokin_de_Irala_evidencia_y_educacion_afectiva_ES",
+      "contentFile": "data/documents/2931d6c87539687eac.js",
+      "catalogId": "1218",
+      "file": "1218_Jokin_de_Irala_evidencia_y_educacion_afectiva_ES.md",
+      "title": "Jokin de Irala: evidencia y educación afectivo-sexual",
+      "originals": "1218",
+      "originalNumbers": [
+        "1218"
+      ],
+      "category": "Nuevos documentos",
+      "words": 187,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1219_Tomas_Melendo_amor_matrimonio_y_familia_ES",
+      "contentFile": "data/documents/3332490774fb97f45a.js",
+      "catalogId": "1219",
+      "file": "1219_Tomas_Melendo_amor_matrimonio_y_familia_ES.md",
+      "title": "Tomás Melendo: amor, matrimonio, familia y felicidad",
+      "originals": "1219",
+      "originalNumbers": [
+        "1219"
+      ],
+      "category": "Nuevos documentos",
+      "words": 186,
+      "author": "Santo Tomás de Aquino",
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1220_Javier_Vidal_Quadras_familia_y_vida_cotidiana_ES",
+      "contentFile": "data/documents/b861dd7cf9adab78c1.js",
+      "catalogId": "1220",
+      "file": "1220_Javier_Vidal_Quadras_familia_y_vida_cotidiana_ES.md",
+      "title": "Javier Vidal-Quadras: matrimonio, familia y vida cotidiana",
+      "originals": "1220",
+      "originalNumbers": [
+        "1220"
+      ],
+      "category": "Nuevos documentos",
+      "words": 193,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1221_Diego_Blanco_narracion_y_cultura_popular_ES",
+      "contentFile": "data/documents/ac0e4bf493c317dcee.js",
+      "catalogId": "1221",
+      "file": "1221_Diego_Blanco_narracion_y_cultura_popular_ES.md",
+      "title": "Diego Blanco: narración, mitología y cultura popular",
+      "originals": "1221",
+      "originalNumbers": [
+        "1221"
+      ],
+      "category": "Nuevos documentos",
+      "words": 191,
+      "author": null,
+      "year": null,
+      "language": "ES",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    },
+    {
+      "id": "ia-agora-1222_de_Irala_Relationships_love_and_sexuality_Filipino_teens_EN",
+      "contentFile": "data/documents/e64b585a13a4218c32.js",
+      "catalogId": "1222",
+      "file": "1222_de_Irala_Relationships_love_and_sexuality_Filipino_teens_EN.md",
+      "title": "Relationships, love and sexuality: what the Filipino teens think and feel",
+      "originals": "1222",
+      "originalNumbers": [
+        "1222"
+      ],
+      "category": "Nuevos documentos",
+      "words": 8520,
+      "author": "Jokin de Irala et al.",
+      "year": null,
+      "language": "EN",
+      "status": "not-stated",
+      "authority": "Según género documental",
+      "libraryId": "ia-agora",
+      "source": "Descubierto directamente en la carpeta"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Nuevos documentos",
+      "count": 96
+    }
+  ],
+  "authors": [
+    {
+      "name": "Chesterton, G. K. (Gilbert Keith)",
+      "count": 13
+    },
+    {
+      "name": "Plato",
+      "count": 6
+    },
+    {
+      "name": "Santo Tomás de Aquino",
+      "count": 6
+    },
+    {
+      "name": "Newman, John Henry",
+      "count": 5
+    },
+    {
+      "name": "Cicero, Marcus Tullius",
+      "count": 4
+    },
+    {
+      "name": "San Agustín",
+      "count": 4
+    },
+    {
+      "name": "Proyecto Mercabá",
+      "count": 3
+    },
+    {
+      "name": "Aristotle",
+      "count": 2
+    },
+    {
+      "name": "Belloc, Hilaire",
+      "count": 2
+    },
+    {
+      "name": "Benson, Robert Hugh",
+      "count": 2
+    },
+    {
+      "name": "Congregación para la Doctrina de la Fe",
+      "count": 2
+    },
+    {
+      "name": "John Henry Newman",
+      "count": 2
+    },
+    {
+      "name": "Pontificio Consejo para la Familia",
+      "count": 2
+    },
+    {
+      "name": "Robert Hugh Benson",
+      "count": 2
+    },
+    {
+      "name": "Arguments / Catholic Voices",
+      "count": 1
+    },
+    {
+      "name": "Aristotle; translated by John Gillies",
+      "count": 1
+    },
+    {
+      "name": "Aristotle; translated by Thomas Taylor",
+      "count": 1
+    },
+    {
+      "name": "Benedicto XVI",
+      "count": 1
+    },
+    {
+      "name": "Comisión Teológica Internacional",
+      "count": 1
+    },
+    {
+      "name": "Dicasterio para la Doctrina de la Fe",
+      "count": 1
+    },
+    {
+      "name": "Francisco",
+      "count": 1
+    },
+    {
+      "name": "G. K. Chesterton",
+      "count": 1
+    },
+    {
+      "name": "Jokin de Irala et al.",
+      "count": 1
+    },
+    {
+      "name": "Marcus Tullius Cicero; translated by Francis Barham",
+      "count": 1
+    },
+    {
+      "name": "Pontificia Comisión Bíblica",
+      "count": 1
+    },
+    {
+      "name": "Sagrada Congregación para la Doctrina de la Fe",
+      "count": 1
+    }
+  ],
+  "stats": {
+    "documents": 96,
+    "words": 6197445,
+    "categories": 1,
+    "authors": 26,
+    "historical": 0,
+    "incomplete": 0,
+    "foreignLanguage": 71,
+    "dated": 0
+  }
+}

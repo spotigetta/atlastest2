@@ -1,0 +1,83 @@
+[
+  {
+    "id": "doctrine",
+    "folder": "01_IA_Doctrina_Teologia_Moral",
+    "short": "Doctrina y Moral",
+    "mark": "D",
+    "tone": "amber",
+    "notebookUrl": "https://notebooklm.google.com/notebook/c289c2e2-3dc2-4663-abde-b97acea31baf",
+    "description": "Doctrina, teología y moral católica desde sus fuentes."
+  },
+  {
+    "id": "canon",
+    "folder": "02_IA_Derecho_Canonico",
+    "short": "CanonIA",
+    "mark": "C",
+    "tone": "blue",
+    "notebookUrl": "https://notebooklm.google.com/notebook/518c896a-d3a2-4b4b-97c7-0b8998b0ba72",
+    "description": "Normas, instituciones, procesos y fuentes del Derecho Canónico."
+  },
+  {
+    "id": "history",
+    "folder": "03_IA_Historia_Iglesia_Padres",
+    "short": "HistorIA de la Iglesia y los Padres",
+    "mark": "H",
+    "tone": "clay",
+    "notebookUrl": "https://notebooklm.google.com/notebook/d60e1d37-8407-499c-b079-8c37c28a1b21",
+    "description": "Historia de la Iglesia, Padres y fuentes de la tradición cristiana."
+  },
+  {
+    "id": "liturgy",
+    "folder": "04_IA_Liturgia",
+    "short": "LiturgIA",
+    "mark": "L",
+    "tone": "violet",
+    "notebookUrl": "https://notebooklm.google.com/notebook/4a6c4784-ced5-44af-aa15-8e4957af935d",
+    "description": "Teología, libros, normas e historia de la liturgia."
+  },
+  {
+    "id": "ortodoxia",
+    "folder": "05_IA_OrtodoxIA",
+    "short": "OrtodoxIA",
+    "mark": "O",
+    "tone": "amber",
+    "notebookUrl": "https://notebook.google.com/notebook/6266d75b-a816-45d1-8032-9ad26c97d466",
+    "description": "OrtodoxIA\n\n Una IA para comprender antes que discutir. Explica las grandes cuestiones de la doctrina y la moral católica con un lenguaje cercano, razonado y lleno de imágenes, ayudando a descubrir la lógica interna de la fe antes de acudir a sus fuentes."
+  },
+  {
+    "id": "cinepilot",
+    "folder": "06_IA_CinePilot",
+    "short": "CinePilot",
+    "mark": "CP",
+    "tone": "rose",
+    "notebookUrl": "https://notebooklm.google.com/notebook/19bebd87-7c07-46c7-8e44-78c8b84a0d8e",
+    "description": "Más de cinco mil películas con ficha técnica, valoración artística, orientación moral, público recomendado y advertencias de contenido."
+  },
+  {
+    "id": "bibliotecaria",
+    "folder": "07_IA_BibliotecarIA",
+    "short": "BibliotecarIA",
+    "mark": "B",
+    "tone": "emerald",
+    "notebookUrl": "https://notebooklm.google.com/notebook/ac9ab2ee-6d04-4a21-b48b-6fe530eb3250",
+    "description": "Tu bibliotecarIA personal para descubrir libros, comparar obras, diseñar itinerarios y explorar la literatura universal por autores, géneros, épocas o temas."
+  },
+  {
+    "id": "clasicos",
+    "folder": "08_IA_Los_Clásicos",
+    "short": "Los Clásicos",
+    "mark": "LC",
+    "tone": "indigo",
+    "notebookUrl": "https://notebooklm.google.com/notebook/f85bf390-fd02-4db3-b763-f9272a157c27",
+    "description": "Casi 300 autores y miles de obras para consultar textos completos, comparar autores, descubrir lecturas y profundizar en cualquier clásico."
+  },
+  {
+    "id": "san-josemaria",
+    "folder": "09_IA_San_JosemarIA",
+    "short": "San JosemarIA",
+    "mark": "SJ",
+    "tone": "gold",
+    "notebookUrl": "https://notebooklm.google.com/notebook/0bf40a0a-986d-46c0-9cb5-a9f6b9def41e",
+    "description": "Obras, cartas, homilías, meditaciones y tertulias de san Josemaría para profundizar en su pensamiento y descubrir la santidad de la vida ordinaria."
+  }
+]

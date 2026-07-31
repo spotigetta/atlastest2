@@ -1,0 +1,575 @@
+{
+  "dataVersion": "4.1.2",
+  "editorial": {
+    "questions": {
+      "doctrine": [
+        "¿Qué enseña la Iglesia sobre este asunto?",
+        "¿Qué documentos tienen mayor autoridad?",
+        "¿Cómo se relacionan Catecismo, Magisterio y teología?",
+        "¿Qué fuentes hablan de bioética?",
+        "¿Qué textos desarrollan la doctrina social?",
+        "¿Cómo presenta el Catecismo la Trinidad?",
+        "¿Qué fuentes explican la unión de las naturalezas divina y humana en Cristo?",
+        "¿Cómo se relacionan gracia, libertad y mérito?",
+        "¿Qué diferencia hay entre dogma, doctrina definitiva y enseñanza prudencial?",
+        "¿Qué enseña santo Tomás sobre esta cuestión?",
+        "¿Cómo ha evolucionado la formulación de esta doctrina?",
+        "¿Qué concilios definieron este punto y en qué contexto?",
+        "¿Qué pasajes de la Escritura sustentan esta enseñanza?",
+        "¿Cómo debe formarse la conciencia moral?",
+        "¿Qué diferencia existe entre pecado mortal y venial?",
+        "¿Qué principios morales se aplican a este caso bioético?",
+        "¿Qué enseña la Iglesia sobre matrimonio, familia y sexualidad?",
+        "¿Cómo se aplica la doctrina social a la economía y al trabajo?",
+        "¿Qué fuentes ayudan a distinguir doctrina de opinión teológica?",
+        "¿Hay documentos posteriores que precisen o sustituyan esta formulación?"
+      ],
+      "canon": [
+        "¿Qué canon regula este supuesto?",
+        "¿Cuál es la diferencia entre validez y licitud?",
+        "¿Quién tiene competencia para conceder esta dispensa?",
+        "¿Qué derechos reconoce el Código a los fieles?",
+        "¿Qué procedimiento corresponde?",
+        "¿Qué requisitos exige el Derecho para la validez del matrimonio?",
+        "¿Qué diferencia existe entre nulidad, disolución y separación?",
+        "¿Cómo se inicia y desarrolla una causa de nulidad matrimonial?",
+        "¿Qué obligaciones tienen los párrocos y los obispos diocesanos?",
+        "¿Qué recursos caben frente a un decreto administrativo?",
+        "¿Cómo protege el Código el derecho de defensa?",
+        "¿Qué delitos y penas regula el Libro VI?",
+        "¿Qué normas rigen la administración de bienes eclesiásticos?",
+        "¿Qué condiciones exige la erección de una asociación de fieles?",
+        "¿Cómo se adquiere, pierde o renuncia a un oficio eclesiástico?",
+        "¿Qué diferencias relevantes existen entre CIC y CCEO?",
+        "¿Qué valor tienen las interpretaciones auténticas?",
+        "¿Qué norma posterior ha reformado este canon?",
+        "¿Cómo se trataba esta materia en el Código de 1917?",
+        "¿Qué autoridad es competente y qué pasos debe documentar?"
+      ],
+      "history": [
+        "¿Qué enseñaban los Padres apostólicos?",
+        "¿Cómo respondió la Iglesia a una herejía?",
+        "¿Qué ocurrió en un concilio concreto?",
+        "¿Qué diferencias existen entre varios Padres?",
+        "¿Qué fuentes antiguas hablan de un tema?",
+        "¿Quiénes fueron los Padres apostólicos y qué obras conservamos?",
+        "¿Cómo se desarrolló el cristianismo durante los tres primeros siglos?",
+        "¿Qué controversias condujeron a Nicea y Constantinopla?",
+        "¿Cómo explican Atanasio, Basilio y Gregorio la doctrina trinitaria?",
+        "¿Qué aportó san Agustín al pensamiento cristiano occidental?",
+        "¿Qué fuentes primarias permiten reconstruir este episodio?",
+        "¿Qué diferencia hay entre el testimonio contemporáneo y la historiografía posterior?",
+        "¿Cómo influyó el contexto político en este concilio?",
+        "¿Qué autores y obras pertenecen a esta misma época?",
+        "¿Cómo evolucionó una institución eclesial a través de los siglos?",
+        "¿Qué continuidad y qué cambio se observan entre dos periodos?",
+        "¿Qué cronología mínima necesito para comprender este tema?",
+        "¿Dónde se desarrollaron estos acontecimientos?",
+        "¿Qué lenguas y tradiciones textuales transmitieron estas obras?",
+        "¿Qué aspectos siguen siendo debatidos por los historiadores?"
+      ],
+      "liturgy": [
+        "¿Qué indica el Misal sobre esta celebración?",
+        "¿Cuál es la diferencia entre memoria, fiesta y solemnidad?",
+        "¿Qué partes de la Misa puede adaptar el celebrante?",
+        "¿Qué regula la Ordenación General del Misal Romano?",
+        "¿Qué documentos hablan de la Liturgia de las Horas?",
+        "¿Cuál es el sentido teológico de este rito?",
+        "¿Qué prescribe la rúbrica y qué pertenece a una costumbre local?",
+        "¿Qué ministros pueden realizar cada acción litúrgica?",
+        "¿Qué opciones ofrece el Misal para esta celebración?",
+        "¿Cómo se organiza el año litúrgico y la precedencia de días?",
+        "¿Qué diferencias existen entre solemnidad, fiesta, memoria y feria?",
+        "¿Cómo se eligen las lecturas y los formularios?",
+        "¿Qué estructura tiene cada hora del Oficio divino?",
+        "¿Qué adaptación corresponde a una comunidad concreta?",
+        "¿Qué documentos regulan la música sagrada?",
+        "¿Cómo se relacionan Sacrosanctum Concilium, la OGMR y el Misal?",
+        "¿Qué abusos corrige Redemptionis Sacramentum?",
+        "¿Cómo ha evolucionado históricamente este rito?",
+        "¿Qué norma está vigente y cuál tiene solo valor histórico?",
+        "¿Qué libros litúrgicos debo consultar para resolver esta duda?"
+      ],
+      "cinepilot": [
+        "¿Qué películas tratan este tema con calidad artística?",
+        "¿Para qué edad resulta adecuada esta película?",
+        "¿Qué advertencias de contenido contiene?",
+        "¿Cómo se distinguen valoración moral y calidad cinematográfica?",
+        "¿Qué películas semejantes ofrece el catálogo?"
+      ],
+      "bibliotecaria": [
+        "¿Qué debería leer para iniciarme en este periodo?",
+        "¿Cómo evolucionó este género literario?",
+        "¿Qué autores conectan estas dos épocas?",
+        "¿Qué contexto histórico ayuda a comprender esta obra?",
+        "¿Qué recorrido cronológico puedo seguir?"
+      ],
+      "clasicos": [
+        "¿Por qué se considera clásica esta obra?",
+        "¿Qué edición o traducción conviene buscar?",
+        "¿Qué temas conectan estas obras?",
+        "¿Qué leer antes y después de este autor?",
+        "¿Cómo ha influido esta obra en la cultura?"
+      ],
+      "san-josemaria": [
+        "¿Qué enseñó san Josemaría sobre el trabajo?",
+        "¿Dónde habla de libertad y vida cristiana?",
+        "¿Qué tertulias ayudan a comprender esta cuestión?",
+        "¿Cómo relaciona filiación divina y vida ordinaria?",
+        "¿En qué obra puedo leer esta frase en contexto?"
+      ],
+      "ortodoxia": [
+        "¿Cómo explicar esta doctrina con claridad?",
+        "¿Qué objeciones suelen plantearse?",
+        "¿Cuál es la lógica interna de esta enseñanza?",
+        "¿Qué ejemplo permite comprenderla mejor?",
+        "¿A qué fuente especializada conviene acudir después?"
+      ]
+    },
+    "shorts": [
+      {
+        "id": "short-quote-agustin-inquieto",
+        "type": "quote",
+        "libraryId": "history",
+        "title": "«Nuestro corazón está inquieto hasta que descanse en ti»",
+        "text": "San Agustín abre las Confesiones uniendo el deseo humano con la búsqueda de Dios.",
+        "reference": "San Agustín, Confesiones I, 1"
+      },
+      {
+        "id": "short-quote-teresa-nada",
+        "type": "quote",
+        "libraryId": "doctrine",
+        "title": "«Nada te turbe, nada te espante»",
+        "text": "La conocida composición de santa Teresa conduce de la inquietud a la confianza: Dios no cambia.",
+        "reference": "Santa Teresa de Jesús, Nada te turbe"
+      },
+      {
+        "id": "short-fact-nicea",
+        "type": "fact",
+        "libraryId": "history",
+        "title": "Nicea no fue solo una fecha",
+        "text": "En el año 325, el concilio afrontó la controversia arriana y formuló el núcleo del símbolo niceno.",
+        "reference": "Corpus conciliar e histórico de HistorIA"
+      },
+      {
+        "id": "short-fact-cic",
+        "type": "fact",
+        "libraryId": "canon",
+        "title": "Dos códigos, dos tradiciones jurídicas",
+        "text": "CanonIA permite distinguir el Código latino de 1983 y el Código de los Cánones de las Iglesias Orientales.",
+        "reference": "CIC 1983 y CCEO"
+      },
+      {
+        "id": "short-anecdote-augustin",
+        "type": "curiosity",
+        "libraryId": "history",
+        "title": "Antes de ser obispo de Hipona",
+        "text": "Agustín fue profesor de retórica, atravesó una larga búsqueda intelectual y narró su conversión en las Confesiones.",
+        "reference": "San Agustín, Confesiones"
+      },
+      {
+        "id": "short-fact-liturgy",
+        "type": "fact",
+        "libraryId": "liturgy",
+        "title": "Una rúbrica y una explicación no hacen lo mismo",
+        "text": "El libro litúrgico vigente regula la celebración; los estudios históricos y teológicos ayudan a comprenderla.",
+        "reference": "Jerarquía documental de LiturgIA"
+      },
+      {
+        "id": "short-quote-josemaria-camino",
+        "type": "quote",
+        "libraryId": "doctrine",
+        "title": "«Que tu vida no sea una vida estéril»",
+        "text": "El primer punto de Camino invita a dejar huella haciendo fecunda la vida ordinaria.",
+        "reference": "San Josemaría, Camino, 1"
+      },
+      {
+        "id": "short-comparison-validity",
+        "type": "comparison",
+        "libraryId": "canon",
+        "title": "Validez no es lo mismo que licitud",
+        "text": "Una acción puede producir válidamente sus efectos jurídicos y, sin embargo, haberse realizado contra una norma.",
+        "reference": "Distinción jurídica general · comprobar el canon aplicable"
+      },
+      {
+        "id": "short-anecdote-trent",
+        "type": "timeline",
+        "libraryId": "history",
+        "title": "Trento atravesó tres etapas",
+        "text": "El concilio se desarrolló entre 1545 y 1563, con interrupciones y sedes distintas antes de concluir sus decretos.",
+        "reference": "Fuentes conciliares e históricas"
+      },
+      {
+        "id": "short-question-mass",
+        "type": "question",
+        "libraryId": "liturgy",
+        "title": "¿Quién decide una adaptación en la Misa?",
+        "text": "La respuesta exige distinguir las opciones del Misal, la competencia del celebrante y la autoridad de la conferencia episcopal.",
+        "reference": "Misal Romano y Ordenación General"
+      },
+      {
+        "id": "short-quote-josemaria-santo",
+        "type": "quote",
+        "libraryId": "doctrine",
+        "title": "«Estas crisis mundiales son crisis de santos»",
+        "text": "Una llamada a no separar la transformación del mundo de la conversión personal.",
+        "reference": "San Josemaría, Camino, 301"
+      },
+      {
+        "id": "short-quote-josemaria-caminos",
+        "type": "quote",
+        "libraryId": "doctrine",
+        "title": "«Se han abierto los caminos divinos de la tierra»",
+        "text": "La santidad no queda reservada a lugares excepcionales: puede buscarse en el trabajo y la vida ordinaria.",
+        "reference": "San Josemaría, Conversaciones, 116"
+      },
+      {
+        "id": "short-fact-cic-seven",
+        "type": "fact",
+        "libraryId": "canon",
+        "title": "El Código latino tiene siete libros",
+        "text": "La estructura va desde las normas generales hasta los procesos, pasando por Pueblo de Dios, función de enseñar, santificar, bienes y sanciones.",
+        "reference": "Código de Derecho Canónico (1983)"
+      },
+      {
+        "id": "short-fact-last-canon",
+        "type": "fact",
+        "libraryId": "canon",
+        "title": "La última brújula del Código",
+        "text": "El canon 1752 concluye recordando que la salvación de las almas debe ser siempre la ley suprema en la Iglesia.",
+        "reference": "CIC, can. 1752"
+      },
+      {
+        "id": "short-quiz-canon-valid",
+        "type": "quiz",
+        "libraryId": "canon",
+        "title": "¿Todo acto ilícito es inválido?",
+        "text": "No. El Derecho canónico distingue la conformidad con la norma de la producción válida de efectos; hay que comprobar qué exige cada canon.",
+        "reference": "Principios generales del Derecho canónico"
+      },
+      {
+        "id": "short-anecdote-ambrose",
+        "type": "curiosity",
+        "libraryId": "history",
+        "title": "Elegido antes de ser bautizado",
+        "text": "Ambrosio era catecúmeno y funcionario imperial cuando fue aclamado obispo de Milán; recibió después el bautismo y la ordenación.",
+        "reference": "Paulinus de Milán, Vita Ambrosii"
+      },
+      {
+        "id": "short-anecdote-jerome",
+        "type": "curiosity",
+        "libraryId": "history",
+        "title": "Una traducción nacida entre libros y viajes",
+        "text": "Jerónimo estudió lenguas bíblicas y trabajó durante años en Belén; su traducción latina marcó la historia cultural de Occidente.",
+        "reference": "Corpus jeronimiano e historia de la Vulgata"
+      },
+      {
+        "id": "short-timeline-constantinople",
+        "type": "timeline",
+        "libraryId": "history",
+        "title": "De Nicea a Constantinopla",
+        "text": "Entre 325 y 381, la controversia trinitaria obligó a precisar el lenguaje con el que la Iglesia confesaba al Hijo y al Espíritu Santo.",
+        "reference": "Símbolos de Nicea y Constantinopla"
+      },
+      {
+        "id": "short-quote-irenaeus",
+        "type": "quote",
+        "libraryId": "history",
+        "title": "«La gloria de Dios es el hombre viviente»",
+        "text": "La frase continúa orientando la vida humana hacia la visión de Dios y debe leerse en su contexto completo.",
+        "reference": "San Ireneo, Adversus haereses IV, 20, 7"
+      },
+      {
+        "id": "short-fact-catechism-four",
+        "type": "fact",
+        "libraryId": "doctrine",
+        "title": "Cuatro partes, una sola vida cristiana",
+        "text": "El Catecismo se articula en credo, sacramentos, vida moral y oración: lo que se cree, celebra, vive y reza.",
+        "reference": "Catecismo de la Iglesia Católica, estructura general"
+      },
+      {
+        "id": "short-comparison-dogma-opinion",
+        "type": "comparison",
+        "libraryId": "doctrine",
+        "title": "Dogma no equivale a opinión teológica",
+        "text": "No todas las afirmaciones tienen el mismo grado de autoridad. Identificar género, autor y acto magisterial evita falsas equivalencias.",
+        "reference": "Lumen gentium, 25; Donum veritatis"
+      },
+      {
+        "id": "short-quiz-conscience",
+        "type": "quiz",
+        "libraryId": "doctrine",
+        "title": "¿Basta con seguir la conciencia?",
+        "text": "La conciencia obliga, pero también necesita ser formada buscando la verdad y atendiendo a la enseñanza moral.",
+        "reference": "Catecismo de la Iglesia Católica, 1776-1802"
+      },
+      {
+        "id": "short-fact-triduum",
+        "type": "fact",
+        "libraryId": "liturgy",
+        "title": "Tres días, una única celebración pascual",
+        "text": "El Triduo comienza con la Misa vespertina de la Cena del Señor, alcanza su centro en la Vigilia Pascual y concluye el Domingo de Resurrección.",
+        "reference": "Normas universales sobre el año litúrgico"
+      },
+      {
+        "id": "short-curiosity-liturgical-year",
+        "type": "curiosity",
+        "libraryId": "liturgy",
+        "title": "El año litúrgico no empieza en enero",
+        "text": "Para el rito romano comienza con las primeras vísperas del primer domingo de Adviento.",
+        "reference": "Normas universales sobre el año litúrgico y el calendario"
+      },
+      {
+        "id": "short-comparison-memory-feast",
+        "type": "comparison",
+        "libraryId": "liturgy",
+        "title": "Memoria, fiesta y solemnidad",
+        "text": "No son etiquetas decorativas: expresan grados celebrativos distintos y afectan a textos, lecturas, precedencia y modo de celebración.",
+        "reference": "Tabla de días litúrgicos"
+      },
+      {
+        "id": "short-quiz-lex-orandi",
+        "type": "quiz",
+        "libraryId": "liturgy",
+        "title": "¿Qué significa «lex orandi»?",
+        "text": "La oración de la Iglesia expresa y alimenta su fe; por eso los textos litúrgicos son también una fuente teológica.",
+        "reference": "Catecismo de la Iglesia Católica, 1124"
+      },
+      {
+        "id": "short-quote-augustin-love",
+        "type": "quote",
+        "libraryId": "history",
+        "title": "«Ama y haz lo que quieras»",
+        "text": "Agustín no propone arbitrariedad: si la raíz de la acción es la caridad, de ella no puede brotar el mal.",
+        "reference": "San Agustín, In Epistulam Ioannis ad Parthos, VII, 8"
+      },
+      {
+        "id": "short-quote-john-cross",
+        "type": "quote",
+        "libraryId": "doctrine",
+        "title": "«A la tarde te examinarán en el amor»",
+        "text": "San Juan de la Cruz condensa la vida espiritual en el criterio con el que debe medirse toda obra.",
+        "reference": "San Juan de la Cruz, Dichos de luz y amor, 59"
+      },
+      {
+        "id": "short-quote-ignatius",
+        "type": "quote",
+        "libraryId": "history",
+        "title": "«Soy trigo de Dios»",
+        "text": "Camino del martirio, Ignacio de Antioquía emplea esta imagen eucarística para expresar su entrega.",
+        "reference": "San Ignacio de Antioquía, Carta a los Romanos, IV"
+      },
+      {
+        "id": "short-fact-cinema-rating",
+        "type": "fact",
+        "libraryId": "cinepilot",
+        "title": "Una película admite varias lecturas",
+        "text": "CinePilot separa calidad artística, edad recomendada y valoración moral para evitar que una sola nota sustituya el discernimiento.",
+        "reference": "Criterios documentales de CinePilot"
+      },
+      {
+        "id": "short-quiz-cinema",
+        "type": "quiz",
+        "libraryId": "cinepilot",
+        "title": "¿Apta para adultos significa recomendable?",
+        "text": "No necesariamente. La clasificación de público describe adecuación; la valoración artística y moral responden preguntas diferentes.",
+        "reference": "Sistema de clasificación de CinePilot"
+      },
+      {
+        "id": "short-fact-literature-order",
+        "type": "fact",
+        "libraryId": "bibliotecaria",
+        "title": "La cronología también cuenta una historia",
+        "text": "Ordenar obras por época permite observar cómo cambian géneros, sensibilidades y problemas sin reducir la literatura a una lista.",
+        "reference": "Recorrido literario de BibliotecarIA"
+      },
+      {
+        "id": "short-curiosity-novel",
+        "type": "curiosity",
+        "libraryId": "bibliotecaria",
+        "title": "La novela no siempre dominó la literatura",
+        "text": "Épica, lírica, tragedia, diálogo y crónica ocuparon durante siglos lugares que la cultura contemporánea asocia principalmente con la novela.",
+        "reference": "Historia de los géneros literarios"
+      },
+      {
+        "id": "short-fact-classics",
+        "type": "fact",
+        "libraryId": "clasicos",
+        "title": "Un clásico sobrevive a su primera época",
+        "text": "Su permanencia no significa inmovilidad: cada generación vuelve a leerlo desde preguntas nuevas y descubre relaciones distintas.",
+        "reference": "Criterio editorial de Los Clásicos"
+      },
+      {
+        "id": "short-comparison-author-work",
+        "type": "comparison",
+        "libraryId": "clasicos",
+        "title": "Autor completo frente a obra aislada",
+        "text": "Leer varias obras del mismo autor permite reconocer evolución, recurrencias y rupturas que una sola pieza puede ocultar.",
+        "reference": "Organización de la biblioteca Los Clásicos"
+      },
+      {
+        "id": "short-anecdote-josemaria-work",
+        "type": "curiosity",
+        "libraryId": "san-josemaria",
+        "title": "La vida ordinaria en el centro",
+        "text": "La predicación de san Josemaría insistió en que el trabajo profesional y las tareas corrientes pueden convertirse en lugar de encuentro con Dios.",
+        "reference": "San Josemaría, Es Cristo que pasa, 47"
+      },
+      {
+        "id": "short-fact-josemaria-genres",
+        "type": "fact",
+        "libraryId": "san-josemaria",
+        "title": "No todo su corpus tiene el mismo género",
+        "text": "Homilías, cartas, entrevistas, puntos breves y tertulias exigen modos de lectura diferentes y una atención especial al contexto.",
+        "reference": "Corpus documental de San JosemarIA"
+      },
+      {
+        "id": "short-quiz-source-context",
+        "type": "quiz",
+        "libraryId": "san-josemaria",
+        "title": "¿Una frase aislada basta para conocer una enseñanza?",
+        "text": "Es un buen comienzo, pero Atlas enlaza la fuente para recuperar contexto, género, destinatario y desarrollo completo.",
+        "reference": "Criterio de lectura contextual de Atlas"
+      }
+    ],
+    "aliases": {
+      "misal": ["missale", "ordo missae"],
+      "romano": ["romanum"],
+      "codigo": ["codex"],
+      "agustin": ["augustin"],
+      "derecho": ["iuris"],
+      "canonico": ["canonici"],
+      "derecho canonico": ["iuris canonici"]
+    },
+    "changelog": [
+      {
+        "version": "3.6.1",
+        "date": "2026-07-30",
+        "title": "YouTube vivo dentro de Atlas",
+        "changes": [
+          "API local paginada que consulta periódicamente las pestañas Shorts de los canales seleccionados",
+          "Caché resistente a fallos y respaldo con la selección editorial inicial",
+          "Nuevos vídeos incorporados al feed a medida que el usuario desliza",
+          "Reproductor oficial de YouTube integrado en una ventana vertical dentro de Atlas"
+        ]
+      },
+      {
+        "version": "3.6.0",
+        "date": "2026-07-30",
+        "title": "Atlas audiovisual y conectado",
+        "changes": [
+          "700 frases importadas automáticamente desde frases.md",
+          "21 YouTube Shorts enlazados sin descargar vídeos",
+          "Tutorial narrativo ampliado, dinámico y sin desenfoque",
+          "Orden configurable de todos los bloques disponibles de Inicio",
+          "Noventa preguntas editoriales con lema propio para las nueve IA",
+          "Grafo jerárquico IA-categorías-fuentes y grafo de relaciones documentales",
+          "Enlaces oficiales de OrtodoxIA, CinePilot, BibliotecarIA, Los Clásicos y San JosemarIA"
+        ]
+      },
+      {
+        "version": "3.5.0",
+        "date": "2026-07-29",
+        "title": "Atlas personal y expansible",
+        "changes": [
+          "Tutorial guiado con desplazamiento y halo animado sobre los controles",
+          "Orden configurable de Inicio y de los doce accesos de Explorar",
+          "Doce colores disponibles para bibliotecas y botones",
+          "Frase célebre del día y selección aleatoria de san Josemaría desde escriva.org",
+          "Integración de OrtodoxIA, CinePilot, BibliotecarIA, Los Clásicos y San JosemarIA",
+          "Esquema documental desplegable con cuatro niveles visibles"
+        ]
+      },
+      {
+        "version": "3.4.0",
+        "date": "2026-07-29",
+        "title": "Atlas se explica, orienta y descubre",
+        "changes": [
+          "Tutorial visual en la primera ejecución y ayuda permanente",
+          "Orientación inteligente y explicable hacia cada IA",
+          "Registro automático de carpetas con formato NN_IA_Nombre",
+          "Shorts reequilibrados con menos obras y más hechos, frases y anécdotas",
+          "Tratamiento visual propio para las frases de san Josemaría"
+        ]
+      },
+      {
+        "version": "3.3.0",
+        "date": "2026-07-29",
+        "title": "Gestión por lotes y descubrimiento editorial",
+        "changes": [
+          "Carga de hasta 100 obras Markdown en una sola operación",
+          "Duplicados detectados aunque cambien frontmatter, espacios o formato",
+          "Listado del Gestor consultado directamente desde las carpetas",
+          "Renderizado ampliado de tablas, imágenes, tareas y estilos Markdown",
+          "Shorts aleatorios con citas, artículos, libros, noticias y oración",
+          "Extracción de Omnes Recursos, Rialp, Palabra y escriva.org"
+        ]
+      },
+      {
+        "version": "3.2.0",
+        "date": "2026-07-28",
+        "title": "Atlas como sistema documental local",
+        "changes": [
+          "Servicio local que consulta las carpetas al arrancar",
+          "Gestor visual para documentos, duplicados, IA, Shorts y enlaces",
+          "Registro dinámico y detección de nuevas bibliotecas IA",
+          "Noticias aleatorias obtenidas desde fuentes RSS configurables",
+          "Esquema jerárquico desplegable en el lector",
+          "Orientador de IA integrado en el buscador"
+        ]
+      },
+      {
+        "version": "3.1.0",
+        "date": "2026-07-28",
+        "title": "Lectura editorial y contenidos vivos",
+        "changes": [
+          "Herramientas de lectura rediseñadas",
+          "Feed mixto con noticias, oración y nuevas lecturas",
+          "Tarjetas externas con imagen, título, autor, fecha y entradilla",
+          "Citas, hechos, anécdotas y distinciones verificadas",
+          "Descubrimiento automático de Markdown desde las carpetas fuente",
+          "Actualizador único para catálogo, lector, búsqueda y actualidad"
+        ]
+      },
+      {
+        "version": "3.0.0",
+        "date": "2026-07-28",
+        "title": "Atlas lector y explorador",
+        "changes": [
+          "Lector completo para 476 documentos con búsqueda literal",
+          "Progreso, anotaciones locales y modo estudio",
+          "Referencias cruzadas y panel contextual",
+          "Cronología, mapa mundial y grafo de relaciones",
+          "Guía para saber dónde buscar y nuevos canales editoriales",
+          "Feed de Shorts ampliado y notificaciones configurables"
+        ]
+      },
+      {
+        "version": "2.1.0",
+        "date": "2026-07-28",
+        "title": "Búsqueda y exploración ampliadas",
+        "changes": [
+          "Búsqueda diferida dentro de 39 millones de palabras",
+          "Panel de compartir con WhatsApp y copia",
+          "Mapa interactivo de nodos",
+          "Doce estadísticas por biblioteca",
+          "Corrección del acceso a las bibliotecas desde Explorar",
+          "Documentación integral de la aplicación"
+        ]
+      },
+      {
+        "version": "2.0.0",
+        "date": "2026-07-28",
+        "title": "Nueva arquitectura de Atlas",
+        "changes": [
+          "Diseño móvil primero",
+          "PWA y funcionamiento sin conexión",
+          "Biblioteca visual y siete estadísticas",
+          "Shorts verificados",
+          "Colecciones, rutas y guardados",
+          "Generador de datos validado"
+        ]
+      }
+    ]
+  }
+}

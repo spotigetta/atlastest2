@@ -1,0 +1,890 @@
+[
+  {
+    "id": "route-doctrine-revelacion-y-fe",
+    "title": "Ruta: Revelación y fe",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Revelación y fe».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0075_Dei_verbum_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0091_Catecismo_Iglesia_Catol",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0332_Denzinger_parte_01",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0332_Denzinger_parte_02",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0332_Denzinger_parte_03",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0349_Fides_et_ratio_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-doctrine-moral-fundamental",
+    "title": "Ruta: Moral fundamental",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Moral fundamental».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0091_Catecismo_Iglesia_Catol",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0348_Veritatis_splendor_ES",
+        "level": "Introducción"
+      }
+    ]
+  },
+  {
+    "id": "route-doctrine-vida-y-bioetica",
+    "title": "Ruta: Vida y bioética",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Vida y bioética».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0346_Evangelium_vitae_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0558_1987_Donum_Vitae",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0552_Congregacion_para_la_Doctrina_de_la_Fe",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0581_2000_Reduction_embryonnaire",
+        "level": "Intermedio"
+      }
+    ]
+  },
+  {
+    "id": "route-doctrine-matrimonio-y-familia",
+    "title": "Ruta: Matrimonio y familia",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Matrimonio y familia».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0091_Catecismo_Iglesia_Catol",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0353_Humanae_Vitae_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0393_Familiaris_consortio_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0371_Casti_connubii_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0580_1996_Preparation_au_sacrement_de_mariage",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0582_1997_Vade_mecum_pour_les_confesseurs",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-doctrine-doctrina-social",
+    "title": "Ruta: Doctrina social",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Doctrina social».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0576_Compendio_Doctrina_social_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0334_Laudato_Si_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0336_Caritas_in_veritate_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0339_Centesimus_annus_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0342_Laborem_exercens_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0345_1987_Sollicitudo_rei_socialis_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "doctrine-0355_Populorum_progressio_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "doctrine-0360_Mater_et_magistra_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-doctrine-espiritualidad",
+    "title": "Ruta: Espiritualidad",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Espiritualidad».",
+    "libraryIds": [
+      "doctrine"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "doctrine-0250_Introduccion_vida_devota",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0255_Audi_filia_et_vide_Juan_de_Avila",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "doctrine-0256_0258_San_Juan_de_la_Cruz_Subida_del_Monte_Carmelo",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0259_0260_San_Juan_de_la_Cruz_Noche_oscura",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0261_0262_San_Juan_de_la_Cruz_Llama_de_amor_viva",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "doctrine-0263_0264_San_Juan_de_la_Cruz_Cantico_espiritual",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "doctrine-0265_0271_Santa_Teresa_Las_Moradas",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "doctrine-0272_Camino_de_Perfeccion",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-norma-latina-general",
+    "title": "Ruta: Norma latina general",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Norma latina general».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0549_Interpretationes_Authenticae",
+        "level": "Introducción"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-iglesias-orientales",
+    "title": "Ruta: Iglesias orientales",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Iglesias orientales».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0542_1990_Codex_Orientalis",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0085_Orientalium_Ecclesiarum_ES",
+        "level": "Introducción"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-matrimonio-y-procesos",
+    "title": "Ruta: Matrimonio y procesos",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Matrimonio y procesos».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0583_Dignitas_connubii_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0393_Familiaris_consortio_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0554_La_Eucaristia_y_los_divorciados",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0580_1996_Preparation_au_sacrement_de_mariage",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0584_2009_Normes_d_officialite",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "canon-0585_1983_Documents_postconciliaires",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-delitos",
+    "title": "Ruta: Delitos",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Delitos».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0553_2010_Normae_de_gravioribus_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0552_Congregacion_para_la_Doctrina_de_la_Fe",
+        "level": "Intermedio"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-organizacion-eclesial",
+    "title": "Ruta: Organización eclesial",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Organización eclesial».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0078_Christus_Dominus_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0079_Presbyterorum_Ordinis_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0080_Optatam_totius_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0081_Perfectae_caritatis_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0082_Apostolicam_actuositatem_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0541_1983_Codigo_de_Derecho_Canonico",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "canon-0395_Pastores_dabo_vobis_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "canon-0396_Vita_consecrata_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-canon-derecho-historico",
+    "title": "Ruta: Derecho histórico",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Derecho histórico».",
+    "libraryIds": [
+      "canon"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "canon-0540_Quo_Primum",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0543_1917_Codex_Iuris_Canonici",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "canon-0329_Vaticano_I",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0330_TRENTO",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0331_Lateranense_II_1139",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "canon-0333_I_Toledo",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "canon-0544_Pastor_bonus_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-primeros-cristianos",
+    "title": "Ruta: Primeros cristianos",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Primeros cristianos».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0104_Ep_Bernabe",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0105_Clemente_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0106_SECUNDA_CLEMENTIS",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0107_Didache_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0108_Diogneto_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0109_0115_San_Ignacio_de_Antioquia_Cartas",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0117_Hermas_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0118_Policarpo_Fil_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-controversias-antiguas",
+    "title": "Ruta: Controversias antiguas",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Controversias antiguas».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0191_0195_San_Agustin_Controversia_antimaniquea",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0196_0197_San_Agustin_Controversia_arriana",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0198_0204_San_Agustin_Controversia_donatista",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0205_0211_San_Agustin_Controversia_pelagiana",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0212_Augustin_contre_Julien_II",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0213_0220_San_Agustin_Escritos_polemicos",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0187_Augustin_des_heresies",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0232_Origenes_de_principis",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-patristica-griega",
+    "title": "Ruta: Patrística griega",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Patrística griega».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0120_San_Atanasio_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0121_Basilio_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0122_Cirilo_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0221_CRISOSTOMO_SACERDOCIO",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0222_Crisostomo_Ev_Juan",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0223_Crisostomo_Mateo",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0224_Efren_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0229_Origenes_contra_Celso",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-agustin",
+    "title": "Ruta: Agustín",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Agustín».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0137_Augustin_doctrine_chretienne",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0138_Augustin_acc_evangelistes",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0140_Augustin_sur_Jean_parte_01",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0140_Augustin_sur_Jean_parte_02",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0142_Augustin_les_Psaumes_parte_01",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0142_Augustin_les_Psaumes_parte_02",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0142_Augustin_les_Psaumes_parte_03",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0142_Augustin_les_Psaumes_parte_04",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-concilios",
+    "title": "Ruta: Concilios",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Concilios».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0329_Vaticano_I",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0330_TRENTO",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0331_Lateranense_II_1139",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0332_Denzinger_parte_01",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0332_Denzinger_parte_02",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0332_Denzinger_parte_03",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0333_I_Toledo",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-espiritualidad-medieval-y-moderna",
+    "title": "Ruta: Espiritualidad medieval y moderna",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Espiritualidad medieval y moderna».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0248_F_de_Sales_Amor_de_Dios",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0249_F_de_Sales_Carta_abierta",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0250_Introduccion_vida_devota",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0251_F_de_Sales_Entretiens",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0252_Francois_S_avis_sermons",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0253_F_de_Sales_Lettres_parte_01",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0253_F_de_Sales_Lettres_parte_02",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0254_Fr_de_Sales_Notre_Pere",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-history-edad-contemporanea",
+    "title": "Ruta: Edad contemporánea",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Edad contemporánea».",
+    "libraryIds": [
+      "history"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "history-0368_Mystici_corporis_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0369_PIOXII_MAGISTERIO_PONTIFICIO",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "history-0370_Pio_XII_Summi_Pontificatus",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0371_Casti_connubii_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0372_PIO_XI_MAGISTERIO_PONTIFICIO",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "history-0373_Quas_primas_ES",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0374_BENEDICTO_XV_MAGISTERIO",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "history-0375_San_Pio_X_Pascendi",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-principios-liturgicos",
+    "title": "Ruta: Principios litúrgicos",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Principios litúrgicos».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0076_Sacrosanctum_Concilium_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0091_Catecismo_Iglesia_Catol",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0074_Lumen_gentium_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0075_Dei_verbum_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0079_Presbyterorum_Ordinis_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0085_Orientalium_Ecclesiarum_ES",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-misa-y-eucaristia",
+    "title": "Ruta: Misa y Eucaristía",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Misa y Eucaristía».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0300_ORDO_MISSAE",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0301_Missale_Romanum_2002",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0351_Ecclesia_de_Eucharistia_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0354_Mysterium_Fidei_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0389_Sacramentum_caritatis_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0299_Ordo_Lectionnaire_Missel",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "liturgy-0562_Congregacion_Culto_Divino_parte_01",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "liturgy-0562_Congregacion_Culto_Divino_parte_02",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-iniciacion-cristiana",
+    "title": "Ruta: Iniciación cristiana",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Iniciación cristiana».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0303_Ordo_Initiationis_Christianae",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0541_1983_Codigo_de_Derecho_Canonico",
+        "level": "Introducción"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-orden-y-ministerios",
+    "title": "Ruta: Orden y ministerios",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Orden y ministerios».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0079_Presbyterorum_Ordinis_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0304_Pontificalis",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0305_De_ordinatione_presbyterorum_1990",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0221_CRISOSTOMO_SACERDOCIO",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0395_Pastores_dabo_vobis_ES",
+        "level": "Intermedio"
+      },
+      {
+        "documentId": "liturgy-0567_Directorio_presbiteros",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "liturgy-0568_1998_Diacres_Normes_Fondamentales",
+        "level": "Profundización"
+      },
+      {
+        "documentId": "liturgy-0571_1998_Directoire_Diacres",
+        "level": "Profundización"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-ano-liturgico",
+    "title": "Ruta: Año litúrgico",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Año litúrgico».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0076_Sacrosanctum_Concilium_ES",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0421_LA_DIES_DOMINI",
+        "level": "Introducción"
+      }
+    ]
+  },
+  {
+    "id": "route-liturgy-historia-liturgica",
+    "title": "Ruta: Historia litúrgica",
+    "description": "Recorrido por las fuentes identificadas en el mapa temático «Historia litúrgica».",
+    "libraryIds": [
+      "liturgy"
+    ],
+    "source": "Mapa temático del índice",
+    "verified": true,
+    "steps": [
+      {
+        "documentId": "liturgy-0298_Missale_Romanum_1957",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0301_Missale_Romanum_2002",
+        "level": "Introducción"
+      },
+      {
+        "documentId": "liturgy-0330_TRENTO",
+        "level": "Intermedio"
+      }
+    ]
+  }
+]
